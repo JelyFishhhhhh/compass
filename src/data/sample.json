@@ -1,0 +1,30 @@
+{
+  "school": "範例大學",
+  "schoolFull": "國立範例大學",
+  "professors": [
+    {
+      "name": "王小明",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": ["機器學習", "電腦視覺"],
+      "lab": "智慧視覺實驗室",
+      "website": "https://example.edu.tw/~wang",
+      "email": "wang@example.edu.tw",
+      "highlights": "近年專注於弱監督學習與醫療影像分析。",
+      "notes": ""
+    },
+    {
+      "name": "李美華",
+      "title": "副教授",
+      "dept": "資訊管理研究所",
+      "deptType": "資管",
+      "areas": ["資料探勘", "推薦系統"],
+      "lab": "",
+      "website": "",
+      "email": "lee@example.edu.tw",
+      "highlights": "",
+      "notes": "學長推薦，收生名額多"
+    }
+  ]
+}
