@@ -1241,13 +1241,13 @@
       "areas": [
         "射頻/微波/毫米波電路設計",
         "低耗電電路設計",
-        "類比/數位系統(車用電子",
-        "生醫電子",
-        "地震預警)",
-        "嵌入式系統(Arduino",
-        "Raspberry Pi)",
+        "類比/數位系統(車用電子、生醫電子、地震預警)",
+        "嵌入式系統(Arduino、Raspberry_Pi(樹莓派))",
         "儀控系統",
-        "人工智慧(AI)"
+        "人工智慧(AI)",
+        "Python",
+        "TensorFlow",
+        "Keras"
       ],
       "lab": "綜科館 312-3 室",
       "website": "https://ece.ntut.edu.tw/p/450-1071-5938,c0.php?Lang=zh-tw",

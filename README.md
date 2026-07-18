@@ -26,4 +26,4 @@
 
 ## License
 
-[MIT](LICENSE) — JelyF1shhhhhh、w1nter（contributor）。
+[MIT](LICENSE) © 2026 JelyF1shhhhhh（w1nter 個人工作室）。

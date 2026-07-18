@@ -1139,8 +1139,7 @@
         "B5G/6G技術",
         "AI/ML平台",
         "LLM相關應用開發",
-        "生醫資訊分析等(參考研究",
-        "產學計畫與論文主題)"
+        "生醫資訊分析等(參考研究、產學計畫與論文主題)"
       ],
       "lab": "",
       "website": "https://www.et.ntust.edu.tw/et/faculty.php?user=jsleu",
@@ -1322,10 +1321,8 @@
       "dept": "電子工程系",
       "deptType": "電機",
       "areas": [
-        "無線通訊網路協定技術(5G New Radio",
-        "B5G)",
-        "物聯網傳輸技術(NB-IoT",
-        "DDS)",
+        "無線通訊網路協定技術(5G New Radio、B5G)",
+        "物聯網傳輸技術(NB-IoT、DDS)",
         "物聯網平台技術(Thingworx)",
         "人工智能(AI)為基礎的網路優化與數據分析"
       ],
