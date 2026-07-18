@@ -1,0 +1,1698 @@
+{
+  "school": "成大",
+  "schoolFull": "國立成功大學",
+  "professors": [
+    {
+      "name": "王士豪",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "超音波訊號及成像技術",
+        "智慧化生物組織與工業材料檢測",
+        "機器與深度學習分類",
+        "訊號與影像處理",
+        "醫學與健康照護資訊",
+        "智慧訊號/影像鑑別與生成"
+      ],
+      "lab": "",
+      "website": "http://buslab.csie.ncku.edu.tw/",
+      "email": "shyhhau@gmail.com",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "郭耀煌",
+      "title": "特聘教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "物聯網",
+        "寬頻網路",
+        "網際網路服務",
+        "模糊系統",
+        "系統晶片設計",
+        "人工智慧",
+        "智慧生活科技"
+      ],
+      "lab": "",
+      "website": "http://ismp.csie.ncku.edu.tw/",
+      "email": "kuoyh@ismp.csie.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "謝孫源",
+      "title": "講座教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "容錯計算",
+        "生物資訊",
+        "平行及分散式計算",
+        "演算法設計與分析",
+        "圖形理論",
+        "人工智慧",
+        "深度學習演算法",
+        "智慧醫療"
+      ],
+      "lab": "",
+      "website": "http://algorithm.csie.ncku.edu.tw/",
+      "email": "hsiehsy@mail.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "連震杰",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "智慧型機器人及自動化",
+        "人機互動及擴增實境",
+        "3D自動光學檢測",
+        "視覺伺服控制",
+        "影像處理",
+        "3D電腦視覺及圖形辨識",
+        "機器學習",
+        "嵌入式系統",
+        "雲端智慧型監控服務"
+      ],
+      "lab": "",
+      "website": "http://robotics.csie.ncku.edu.tw/",
+      "email": "jjlien@mail.csie.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "楊中平",
+      "title": "副教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "Microprocessor Architecture and Interface",
+        "Real-time Embedded System",
+        "Virtual Instrumentation"
+      ],
+      "lab": "",
+      "website": "http://neat.csie.ncku.edu.tw/",
+      "email": "cpyoung@mail.csie.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "梁勝富",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "智慧型科技及其應用",
+        "神經認知腦機界面",
+        "生醫訊號處理",
+        "可攜式嵌入式系統",
+        "多媒體訊號與系統"
+      ],
+      "lab": "",
+      "website": "http://ncbci.csie.ncku.edu.tw/",
+      "email": "sfliang@mail.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "李同益",
+      "title": "講座教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "AI/Deep Learning",
+        "遊戲設計 (3D Game Design)",
+        "3D NPR動畫合成(3D Non-photo-realistic rendering)",
+        "電腦繪圖與動畫(Computer Graphics and Animation)",
+        "電腦視覺化模擬(Visualization)",
+        "虛擬實境與環境(Virtual Reality and Environment)",
+        "醫學手術模擬系統(3D Medical Surgical Simulation and Application)",
+        "Video/Image Retargeting",
+        "3D Captcha Design for Internet Security"
+      ],
+      "lab": "",
+      "website": "http://graphics.csie.ncku.edu.tw/",
+      "email": "tonylee@mail.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "吳宗憲",
+      "title": "講座教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "人工智慧與深度學習",
+        "語音與語者識別",
+        "語音合成與變音",
+        "口述語言對話與理解",
+        "多媒體情緒辨識與追蹤",
+        "影音多媒體摘要與檢索",
+        "聽語障口/手語學習輔具",
+        "電腦輔助口說語言學習",
+        "多媒體人機互動"
+      ],
+      "lab": "",
+      "website": "http://mhmc.csie.ncku.edu.tw",
+      "email": "chunghsienwu@gmail.com",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "黃崇明",
+      "title": "特聘教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "無線及行動網路和協定設計與分析",
+        "多媒體處理和串流技術",
+        "綠色通訊與計算",
+        "創意網路應用與服務"
+      ],
+      "lab": "",
+      "website": "https://nckummlab.github.io/mmnlab-website/",
+      "email": "huangcm@locust.csie.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳裕民",
+      "title": "特聘教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [],
+      "lab": "",
+      "website": "https://sblab.imis.ncku.edu.tw/",
+      "email": "ymchen@mail.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳響亮",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "生成式AI之相關應用",
+        "大數據分析與AI技術",
+        "雲端製造資訊系統",
+        "智能化技術",
+        "5G技術之應用",
+        "工業物聯網",
+        "智慧工廠"
+      ],
+      "lab": "",
+      "website": "https://imilab.imis.ncku.edu.tw/",
+      "email": "slchen@mail.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "蔣榮先",
+      "title": "特聘教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "生醫資訊探勘",
+        "人工智慧",
+        "智慧型計算",
+        "雲端醫療照護",
+        "癌症與幹細胞研究",
+        "巨量資料分析"
+      ],
+      "lab": "",
+      "website": "http://iir.csie.ncku.edu.tw/",
+      "email": "jchiang@mail.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳培殷",
+      "title": "特聘教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "VLSI電路/FPGA晶片設計",
+        "人工智慧AI影像處理與應用",
+        "資訊系統開發",
+        "嵌入式系統開發設計"
+      ],
+      "lab": "",
+      "website": "http://dic.csie.ncku.edu.tw/",
+      "email": "pychen@mail.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "鄭憲宗",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "資訊安全與網路安全",
+        "人工智慧",
+        "量子電腦",
+        "數位生活科技",
+        "電腦網路",
+        "機器學習",
+        "無線通訊",
+        "行動計算"
+      ],
+      "lab": "",
+      "website": "http://plato.csie.ncku.edu.tw/",
+      "email": "stevecheng1688@gmail.com",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "楊大和",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "精實系統與作業管理",
+        "豐田模式",
+        "模擬最佳化",
+        "多目標/準則決策系統",
+        "供應鏈管理"
+      ],
+      "lab": "",
+      "website": "https://mmlab.imis.ncku.edu.tw/",
+      "email": "tyang@mail.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "蘇文鈺",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "數位音訊處理",
+        "影像視訊處理與壓縮",
+        "電腦音樂分析合成",
+        "文件影像處理",
+        "媒體處理機設計",
+        "MPEG-4多媒體標準",
+        "數位訊號處理用SoC"
+      ],
+      "lab": "",
+      "website": "http://screamlab-ncku-2008.blogspot.com/",
+      "email": "alvinsu@mail.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "張燕光",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "Router & Switch Design",
+        "Scalable Web Server",
+        "Cooperative Web Proxy",
+        "QoS",
+        "Network Processor Design",
+        "Computer Architecture",
+        "Multiprocessor Network and Cache Coherence Design",
+        "Fault-Tolerant"
+      ],
+      "lab": "",
+      "website": "http://140.116.82.170/",
+      "email": "ykchang@mail.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "蘇銓清",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "光接取網路",
+        "多波長分波多工光纖網路",
+        "無線感測網路",
+        "網際網路電視系統"
+      ],
+      "lab": "",
+      "website": "http://140.116.247.66/",
+      "email": "suecc@mail.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "蕭宏章",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "分散式計算",
+        "平行計算",
+        "隨機演算法",
+        "同儕計算"
+      ],
+      "lab": "",
+      "website": "https://sites.google.com/view/hung-chang-hsiao/home",
+      "email": "hchsiao@csie.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "盧文祥",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "自然語言處理/對話系統",
+        "網路探勘/文件探勘/醫學資訊探勘",
+        "資訊檢索跨語資訊檢索/醫學資訊檢索",
+        "多語語音辨識 (台語/客語/華語)",
+        "機器翻譯"
+      ],
+      "lab": "",
+      "website": "http://wmmks.csie.ncku.edu.tw/wmmks/",
+      "email": "whlu@mail.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "張大緯",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "物聯網設計與系統(IoT Design and Systems)",
+        "作業系統與嵌入式系統(Operating Systems and Embedded Systems)",
+        "智慧邊緣運算(Intelligent Edge Computing)",
+        "智慧交通系統(Intelligent Transportation Systems)",
+        "記憶體與儲存系統(Memory and Storage Systems)"
+      ],
+      "lab": "",
+      "website": "http://os.csie.ncku.edu.tw/",
+      "email": "davidchang@csie.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "藍崑展",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "物聯網",
+        "智慧醫療",
+        "精準運動科學",
+        "針灸機器人",
+        "Cloud Robotics",
+        "Brain-inspired AI"
+      ],
+      "lab": "",
+      "website": "https://lens.csie.ncku.edu.tw/",
+      "email": "9602016@gs.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "賀保羅",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "Motif Discovery Algorithms",
+        "Next Generation Sequencing Data Analysis",
+        "Machine Learning on Biological Sequence Data & Protein Subcellular Localization Informatics",
+        "Medical Informatics",
+        "Protein Subcellular Localization Informatics",
+        "Protein Subcellular Localization"
+      ],
+      "lab": "",
+      "website": "https://www.csie.ncku.edu.tw/ncku_csie/depmember/teacherdetail/id/78",
+      "email": "paulh@iscb.org",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "朱威達",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "多媒體系統",
+        "機器學習",
+        "電腦視覺"
+      ],
+      "lab": "",
+      "website": "http://mmcv.csie.ncku.edu.tw/",
+      "email": "wtchu@gs.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳朝鈞",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "無線感測網路(WSN)",
+        "效能評估移動物體的位置查詢與管理",
+        "能源消耗與入侵偵測效能分析",
+        "RSSI定位技術研究與發展",
+        "無線射頻識別技術(RFID)",
+        "研發 RFID 相關技術與應用",
+        "如智慧家庭",
+        "便利生活及安全管理系統",
+        "無線手持式裝置與 GPS 的應用技術開發創新",
+        "在無線手持式裝置平台上開發應用程式",
+        "並結合 GPS 技術創新生活應用",
+        "Data Mining(資料探勘技術)",
+        "Multimedia Data Mining (多媒體資料分析)",
+        "Finance Data Analysis (金融資料分析)",
+        "Social Network Data Analysis (社群網站資料分析)",
+        "HealthCare Data Mining (醫療資訊探勘)",
+        "Location]Aware and Trajectory Data Mining (軌跡資料庫分析)",
+        "Mobile Data Management(無線資料管理)",
+        "Data Management on Mobile P2P/Mobile Sensor Network",
+        "Web Intelligence(網路智慧運算)",
+        "Information Analysis on the Large‐scale Web",
+        "Mash‐up Technology"
+      ],
+      "lab": "",
+      "website": "http://ciot.imis.ncku.edu.tw/",
+      "email": "chencc@imis.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "李政德",
+      "title": "特聘教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "機器學習",
+        "資料科學",
+        "圖機器學習",
+        "社群網路與社群媒體",
+        "推薦系統",
+        "可信任人工智慧",
+        "自然語言處理"
+      ],
+      "lab": "",
+      "website": "https://sites.google.com/view/chengteli/",
+      "email": "chengte@ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "洪昌鈺",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "深度學習",
+        "醫學影像處理",
+        "生物啟發計算",
+        "AI安全與攻防",
+        "機器學習",
+        "生成式AI",
+        "工業影像檢測"
+      ],
+      "lab": "",
+      "website": "https://sites.google.com/gs.ncku.edu.tw/ncku-csie-vslab",
+      "email": "horng@mail.csie.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "蔡佩璇",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "網宇實體系統",
+        "數位孿生系統",
+        "系統模型與設計",
+        "即時工作排程與分配",
+        "資料融合與決策分析",
+        "監控與導引系統",
+        "個人健康系統",
+        "智慧醫療",
+        "智慧工廠",
+        "智慧消防"
+      ],
+      "lab": "",
+      "website": "http://cps.imis.ncku.edu.tw/",
+      "email": "phtsai@mail.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "莊坤達",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "資料探勘",
+        "資料庫系統",
+        "雲端運算",
+        "網際網路資訊系統",
+        "分散式帳本技術",
+        "智慧能源管理"
+      ],
+      "lab": "",
+      "website": "https://ktchuang.github.io/netdb-page/",
+      "email": "ktchuang@mail.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "涂嘉恒",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "異質平行計算",
+        "嵌入式系統軟體設計與最佳化",
+        "編譯器設計"
+      ],
+      "lab": "",
+      "website": "http://chiaheng.wordpress.com/advanced-systems-research-lab/",
+      "email": "chiaheng@ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "吳明龍",
+      "title": "副教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "深度學習",
+        "資料科學",
+        "生醫影像處理",
+        "核磁共振影像成像技術",
+        "大腦功能性磁振造影",
+        "核磁共振脈衝序列設計",
+        "機器學習"
+      ],
+      "lab": "",
+      "website": "http://bmilab.csie.ncku.edu.tw/",
+      "email": "minglong.wu@csie.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "許靜芳",
+      "title": "副教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "光波分割多工網路",
+        "繞徑策略設計",
+        "網際網路通訊協定"
+      ],
+      "lab": "",
+      "website": "http://hsnl.csie.ncku.edu.tw/",
+      "email": "hsucf@csie.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳奇業",
+      "title": "副教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "高效能平行與分散式計算",
+        "演算法",
+        "智慧醫療",
+        "圖形理論"
+      ],
+      "lab": "",
+      "website": "http://sivslab.csie.ncku.edu.tw/",
+      "email": "chency@mail.csie.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "曾繁勛",
+      "title": "副教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "聯邦學習",
+        "可重構智慧表面",
+        "智慧反射面"
+      ],
+      "lab": "",
+      "website": "https://sites.google.com/view/mcnlab",
+      "email": "tsengfh@gs.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "何建忠",
+      "title": "副教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "記憶體與儲存系統",
+        "非揮發性記憶體與存儲技術",
+        "嵌入式系統",
+        "計算系統"
+      ],
+      "lab": "",
+      "website": "https://www.csie.ncku.edu.tw/zh-hant/members/47",
+      "email": "ccho@gs.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "許舒涵",
+      "title": "助理教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "半導體可靠度與良率管理",
+        "機器學習與資料分析",
+        "半導體製程"
+      ],
+      "lab": "",
+      "website": "https://www.csie.ncku.edu.tw/ncku_csie/",
+      "email": "shhsu@gs.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "詹慧伶",
+      "title": "助理教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "專長",
+        "生醫訊號處理",
+        "腦造影(功能性磁振造影",
+        "腦磁波",
+        "腦電波)",
+        "機器學習",
+        "資料科學",
+        "精神科學(憂鬱症) 研究領域",
+        "腦造影演算法開發",
+        "智慧生醫",
+        "腦身體連結機制",
+        "神經調控"
+      ],
+      "lab": "",
+      "website": "https://baisp-lab.csie.ncku.edu.tw/",
+      "email": "hlchan@gs.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "謝昀珊",
+      "title": "助理教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [],
+      "lab": "",
+      "website": "https://www.csie.ncku.edu.tw/zh-hant/members/72",
+      "email": "yshsieh@gs.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "郭紘睿",
+      "title": "助理教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "擴增實境(Augmented Reality)",
+        "虛擬實境(Virtual Reality)",
+        "混合實境(Mixed Reality)",
+        "人機互動(Human-computer Interaction)",
+        "機器學習(Machine Learning)",
+        "電腦視覺(Computer Vision)"
+      ],
+      "lab": "",
+      "website": "https://mmxsyslab-ncku.github.io/",
+      "email": "hjguo@gs.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "郭軒安",
+      "title": "助理教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "隨機最佳化",
+        "強化學習",
+        "對抗生成網路",
+        "元啟發演算法/ 柔性演算",
+        "數位雙生",
+        "半導體/印刷電路板智慧製造"
+      ],
+      "lab": "",
+      "website": "https://sites.google.com/view/imdalab/%E9%A6%96%E9%A0%81?authuser=0",
+      "email": "hsuanankuo@gs.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "程芙茵",
+      "title": "助理教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "人機互動（Human-Computer Interaction",
+        "HCI）",
+        "人智互動（Human-AI Interaction",
+        "HAX)",
+        "腦機介面（Brain-Computer Interface",
+        "BCI）",
+        "科技輔助學習（Technology-Supported Learning）"
+      ],
+      "lab": "",
+      "website": "https://www.csie.ncku.edu.tw/zh-hant/members/77",
+      "email": "fuyincherng@gs.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳怡君",
+      "title": "助理教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "Artificial Intelligence",
+        "Multimodal Understanding",
+        "Machine Learning",
+        "Computer Vision",
+        "Visual Narrative",
+        "Generative AI"
+      ],
+      "lab": "",
+      "website": "https://www.csie.ncku.edu.tw/zh-hant/members/75",
+      "email": "ychen74@alumni.ncsu.edu",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "梁郁珮",
+      "title": "助理教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "大型儲存系統",
+        "新興儲存裝置",
+        "軟硬體協同設計",
+        "計算機結構與系統"
+      ],
+      "lab": "",
+      "website": "https://www.csie.ncku.edu.tw/zh-hant/members/79",
+      "email": "ypliang@alum.ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "龔漢威",
+      "title": "助理教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "Face Recognition (人臉辨識)",
+        "Generative AI (生成式人工智慧)"
+      ],
+      "lab": "",
+      "website": "https://www.csie.ncku.edu.tw/zh-hant/members/82",
+      "email": "hanwei.kung@unitn.it",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "李信杰",
+      "title": "副教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "代理式軟體系統 (Agentic Software System) 生成式 AI 軟體測試( Generative AI for Software Testing)",
+        "AI 驅動軟體開發(AI-Powered Software Development)"
+      ],
+      "lab": "",
+      "website": "https://sites.google.com/view/shinjielee/",
+      "email": "jielee@mail.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "張瑞紘",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "深度學習",
+        "資料探勘",
+        "雲端運算平台應用",
+        "資料庫系統管理",
+        "系統分析與設計",
+        "數位學習系統",
+        "程式設計與撰寫"
+      ],
+      "lab": "",
+      "website": "https://cssa.cc.ncku.edu.tw/ladder/home/index.html",
+      "email": "changrh@ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "王逸琳",
+      "title": "教授",
+      "dept": "工業與資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "network optimization with applications in logistics and transportation",
+        "bioinformatics",
+        "scheduling",
+        "sensor network localization",
+        "and asset management"
+      ],
+      "lab": "",
+      "website": "https://iim.ncku.edu.tw/p/412-1138-20096.php?Lang=zh-tw",
+      "email": "ilinwang@mail.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "謝中奇",
+      "title": "特聘教授",
+      "dept": "工業與資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "供應鏈管理",
+        "生產與作業管理"
+      ],
+      "lab": "",
+      "website": "https://iim.ncku.edu.tw/p/412-1138-20380.php?Lang=zh-tw",
+      "email": "jcchsieh@mail.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "黃宇翔",
+      "title": "特聘教授",
+      "dept": "工業與資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "決策分析(Decision Analysis)相關議題之研究",
+        "以發展數量方法之決策模式．",
+        "決策行為（Decision Behavior）之探索",
+        "以建構解釋人類決策制定之概念模式．",
+        "生產作業管理(Production and Operations Management",
+        "POM)課題之研究與應用．",
+        "供應鏈管理（Supply Chain Management",
+        "SCM）課題之研究與應用．",
+        "探討可修復型系統（Repairable Systems）之老化過程（Aging Processes）",
+        "以研究其對決"
+      ],
+      "lab": "",
+      "website": "https://iim.ncku.edu.tw/p/412-1138-20381.php?Lang=zh-tw",
+      "email": "yshuang@mail.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "李昇暾",
+      "title": "特聘教授",
+      "dept": "工業與資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "人工智慧",
+        "大數據分析",
+        "商業智慧",
+        "決策支援系統"
+      ],
+      "lab": "",
+      "website": "https://iim.ncku.edu.tw/p/412-1138-20392.php?Lang=zh-tw",
+      "email": "stli@mail.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "翁慈宗",
+      "title": "教授",
+      "dept": "工業與資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "資料探勘",
+        "貝氏統計",
+        "組合資料分析",
+        "系統可靠度"
+      ],
+      "lab": "",
+      "website": "https://iim.ncku.edu.tw/p/412-1138-20366.php?Lang=zh-tw",
+      "email": "tzutsung@mail.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "王惠嘉",
+      "title": "教授",
+      "dept": "工業與資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "智慧系統",
+        "數位學習",
+        "知識發現",
+        "文字探勘"
+      ],
+      "lab": "",
+      "website": "https://iim.ncku.edu.tw/p/412-1138-20382.php?Lang=zh-tw",
+      "email": "hcwang@mail.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "王維聰",
+      "title": "特聘教授",
+      "dept": "工業與資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "知識管理",
+        "電子商務",
+        "資訊系統/科技採用",
+        "系統動力學"
+      ],
+      "lab": "",
+      "website": "https://iim.ncku.edu.tw/p/412-1138-20383.php?Lang=zh-tw",
+      "email": "wtwang@mail.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "蔡青志",
+      "title": "特聘教授",
+      "dept": "工業與資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "系統模擬",
+        "作業研究",
+        "應用統計",
+        "數據驅動最佳化"
+      ],
+      "lab": "",
+      "website": "https://iim.ncku.edu.tw/p/412-1138-20386.php?Lang=zh-tw",
+      "email": "sctsai@mail.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "吳政翰",
+      "title": "教授",
+      "dept": "工業與資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "供應鏈管理",
+        "永續生產與逆物流",
+        "決策科學",
+        "策略競局",
+        "商業智慧與分析"
+      ],
+      "lab": "",
+      "website": "https://iim.ncku.edu.tw/p/412-1138-21714.php?Lang=zh-tw",
+      "email": "wuchan@mail.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "林仁彥",
+      "title": "教授",
+      "dept": "工業與資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "供應鏈管理(Supply Chain Management)",
+        "排程與存貨系統(Scheduling and Inventory System)",
+        "最佳化理論(Optimization Theory)",
+        "數學規劃(Mathematical Programming)"
+      ],
+      "lab": "",
+      "website": "https://iim.ncku.edu.tw/p/412-1138-28911.php?Lang=zh-tw",
+      "email": "jylinor@gs.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "林明毅",
+      "title": "教授",
+      "dept": "工業與資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "人因工程",
+        "人機互動",
+        "工作生理學",
+        "應用認知神經科學",
+        "AR/VR使用者體驗設計"
+      ],
+      "lab": "",
+      "website": "https://iim.ncku.edu.tw/p/412-1138-20387.php?Lang=zh-tw",
+      "email": "brandonl@mail.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "胡政宏",
+      "title": "副教授",
+      "dept": "工業與資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "實驗設計",
+        "品質工程與管理",
+        "可靠度工程"
+      ],
+      "lab": "",
+      "website": "https://iim.ncku.edu.tw/p/412-1138-20391.php?Lang=zh-tw",
+      "email": "chhu@mail.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "劉任修",
+      "title": "副教授",
+      "dept": "工業與資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "演算法分析與設計 (Algorithm Design and Analysis)",
+        "無線感測網路 (Wireless Sensor Networks)",
+        "智慧電網 (Smart Grids)",
+        "社群網路與推薦系統 (Social Networks and Recommender Systems)",
+        "行動運算 (Mobile Computing)"
+      ],
+      "lab": "",
+      "website": "https://iim.ncku.edu.tw/p/412-1138-20390.php?Lang=zh-tw",
+      "email": "rsliu@mail.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "張裕清",
+      "title": "副教授",
+      "dept": "工業與資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "品質工程",
+        "服務管理",
+        "半導體生產與作業管理",
+        "排隊網路"
+      ],
+      "lab": "",
+      "website": "https://iim.ncku.edu.tw/p/412-1138-20389.php?Lang=zh-tw",
+      "email": "ycchang@mail.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "侯建任",
+      "title": "副教授",
+      "dept": "工業與資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "線上使用者行為",
+        "電子商務",
+        "人工智慧應用",
+        "資料科學"
+      ],
+      "lab": "",
+      "website": "https://iim.ncku.edu.tw/p/412-1138-24393.php?Lang=zh-tw",
+      "email": "JeffHou@gs.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "莊雅棠",
+      "title": "副教授",
+      "dept": "工業與資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "動態規劃(Dynamic Programming)",
+        "統計學習(Statistical Learning)",
+        "營運管理(Operations Management)",
+        "應用機率(Applied Probability)"
+      ],
+      "lab": "",
+      "website": "https://iim.ncku.edu.tw/p/412-1138-25421.php?Lang=zh-tw",
+      "email": "chuangyatang@gs.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "李旻陽",
+      "title": "助理教授",
+      "dept": "工業與資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "應用作業研究",
+        "物流系統",
+        "最佳化",
+        "決策支援"
+      ],
+      "lab": "",
+      "website": "https://iim.ncku.edu.tw/p/412-1138-28945.php?Lang=zh-tw",
+      "email": "minyang.li@gs.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "王俊涵",
+      "title": "助理教授",
+      "dept": "工業與資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "應用作業研究",
+        "賽局理論",
+        "運動智慧管理",
+        "資訊系統心理學"
+      ],
+      "lab": "",
+      "website": "https://iim.ncku.edu.tw/p/412-1138-30334.php?Lang=zh-tw",
+      "email": "ch_wang@gs.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "丁顥",
+      "title": "助理教授",
+      "dept": "工業與資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "人工智慧",
+        "特徵工程",
+        "AI節能減碳",
+        "智慧醫療",
+        "小提琴機器人"
+      ],
+      "lab": "",
+      "website": "https://iim.ncku.edu.tw/p/412-1138-31362.php?Lang=zh-tw",
+      "email": "tienghao@gs.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "蘇淑茵",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "網際網路服務設計與分析",
+        "車載網路",
+        "行動計算與效能分析",
+        "行動通信網路之資源管理與計費"
+      ],
+      "lab": "",
+      "website": "http://mcslab.ee.ncku.edu.tw/",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "斯國峰",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "行動計算與無線網路",
+        "可靠系統與網路",
+        "平行與分散式系統"
+      ],
+      "lab": "",
+      "website": "https://dcl.ee.ncku.edu.tw/",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "邱瀝毅",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "低功率超大型積體電路設計",
+        "可重新規劃電路系統",
+        "超大型積體電路電腦輔助設計"
+      ],
+      "lab": "",
+      "website": "https://www.ee.ncku.edu.tw/teacher/index2.php?teacher_id=152",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "張名先",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "數位通訊 (Digital Communications)",
+        "無線通訊 (Wireless Communications)",
+        "信號處理 (Signal Processing)"
+      ],
+      "lab": "",
+      "website": "https://www.ee.ncku.edu.tw/teacher/index2.php?teacher_id=154",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "郭文光",
+      "title": "副教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "行動/無線多媒體 ( 如 MPEG, H.264, SVC 等 ) 傳輸與跨層設計",
+        "無線網路 ( 如 IEEE 802.11, IEEE 802.16, IEEE 802.15.3, IEEE 802.21, IEEE 802.22 等 ) 通訊規約 (protocol) 設計與分析",
+        "無線通訊系統跨層 (cross layer) 設計",
+        "高速/光纖網路效能分析與設計",
+        "韌體與驅動程式設計"
+      ],
+      "lab": "",
+      "website": "https://www.ee.ncku.edu.tw/teacher/index2.php?teacher_id=156",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳中和",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "計算機架構",
+        "多重處理器系統",
+        "SoC系統整合",
+        "VLSI 晶片設計",
+        "資料網路",
+        "微算機系統設計",
+        "容錯處理系統"
+      ],
+      "lab": "",
+      "website": "https://caslab.ee.ncku.edu.tw/",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "解巽評",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "大數據資料分析與探勘(Big Data Mining and Analytics)",
+        "城市科學與計算(Urban Science and Computing)",
+        "智慧城市與物聯網應用(Smart City and Internet of Things Applications)",
+        "時空資訊計算(Spatial-Temporal Information Computing)",
+        "社群網路分析(Social Network Analysis)",
+        "感測連結網路運算(Sensor Network Computing)",
+        "機器學習(Machine Learning)",
+        "金融資訊科技(Fintech)"
+      ],
+      "lab": "",
+      "website": "https://hphsieh.github.io/nckuee/index.html",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳盈如",
+      "title": "副教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "正規方法, 包括模型驗證, 定理證明 等",
+        "功能安全驗證之方法論建立",
+        "資料/晶片之安全驗證",
+        "數位電路設計",
+        "人工神經網路應用於驗證領域之研究",
+        "量子電路設計與驗證"
+      ],
+      "lab": "",
+      "website": "http://cav.ee.ncku.edu.tw/",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "林家祥",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "太空遙測 / 衛星數據分析",
+        "高光譜 / 多光譜 / RGB影像處理",
+        "盲訊號處理 / 非監督式機器學習",
+        "人工智慧 / 機器學習 / 深度學習",
+        "量子深度學習 / 量子經典混合式AI",
+        "量子影像處理 / 量子機器學習",
+        "快速演算法設計 / 凸優化理論",
+        "3D光學異物檢測 / 影像超解析",
+        "3D電腦視覺 / 模式識別",
+        "生物醫學 / 腦科學",
+        "5G/6G無線通訊"
+      ],
+      "lab": "",
+      "website": "https://sites.google.com/view/chiahsianglin/",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "蔡家齊",
+      "title": "助理教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "AI Model Architectrue and Compression",
+        "AI Accelerator",
+        "AI-based Vision/Audio Application",
+        "Machine Learning",
+        "Embedded System",
+        "Computer Vision",
+        "Digital Signal Processing",
+        "SW/HW Co-design"
+      ],
+      "lab": "",
+      "website": "https://ncku-aislab.github.io/",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳榮杰",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "無線通訊",
+        "訊號處理"
+      ],
+      "lab": "",
+      "website": "https://sites.google.com/view/jungchiehchen",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳昭羽",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "通訊序列設計與應用",
+        "錯誤更正碼",
+        "數位通訊",
+        "3GPP行動通訊/窄頻物聯網/衛星物聯網"
+      ],
+      "lab": "",
+      "website": "https://sites.google.com/view/spacecomm/home",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "蔡邦維",
+      "title": "助理教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "雲端基礎設施與網路管理",
+        "智慧型網卡與資料處理單元",
+        "軟體定義網路",
+        "網際網路應用與服務",
+        "資訊安全"
+      ],
+      "lab": "",
+      "website": "https://itlab.ee.ncku.edu.tw/",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "劉奕賢",
+      "title": "助理教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "資訊安全",
+        "工控網路安全",
+        "電腦網路",
+        "資料庫系統管理",
+        "資安試驗平台"
+      ],
+      "lab": "",
+      "website": "https://www.cysec.ee.ncku.edu.tw",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "吳士駿",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "Ethics-aware Computing",
+        "Disinformation",
+        "Social Network and Computing",
+        "Cyber Security",
+        "Future Internet Architecture and Protocols",
+        "Distributed Computing",
+        "Operating Systems"
+      ],
+      "lab": "",
+      "website": "https://ethikos.github.io/",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "楊明勳",
+      "title": "助理教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "壓縮感知，分散式學習，低位元解析度信號處理，整合式感測與通訊，無線感測網路"
+      ],
+      "lab": "",
+      "website": "https://www.ee.ncku.edu.tw/teacher/index2.php?teacher_id=183",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "李忠憲",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "工業控制系統之資安防護",
+        "雲端安全",
+        "數位版權管理及數位鑑識"
+      ],
+      "lab": "",
+      "website": "https://www.cans.ee.ncku.edu.tw/",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "賴癸江",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "數位通訊、無線通訊系統中實體層(physical layer)相關之訊號處理",
+        "通訊系統(通訊IC)中接收機/發射機之訊號處理演算法設計",
+        "- 多重輸出入系統 (MIMO)",
+        "- 多載波系統 (OTFS, OFDM, FBMC)",
+        "- 單載波系統",
+        "- 下世代(5G 或稱之 Beyond 4G)通訊系統",
+        "- 訊號偵測、等化、通道估計、同步",
+        "感知無線電(Cognitive Radio)系統之分散式偵測"
+      ],
+      "lab": "",
+      "website": "https://www.ee.ncku.edu.tw/teacher/index2.php?teacher_id=31",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "焦惠津",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "軟體工程發展與設計 Software Engineering.",
+        "資料庫發展與設計 Advanced Database Development and Design.",
+        "人機界面發展與設計 User Interface Development and Design.",
+        "物件導向技術分析與發展 Object-Oriented Technology and Development."
+      ],
+      "lab": "",
+      "website": "https://colors.ee.ncku.edu.tw/web/",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "謝明得",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "超大型積體電路設計與測試 VLSI Design and Test",
+        "信號處理之積體電路架構 VLSI Architecture for Digital Signal Processing",
+        "數位通訊 Digital Communication",
+        "電腦輔助電路設計Computer-Aided Design"
+      ],
+      "lab": "",
+      "website": "http://vlsilab.ee.ncku.edu.tw/",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "林輝堂",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "網路安全 (Network Security)",
+        "無線網路 (Wireless Networks)",
+        "人工智慧(Artificial intelligence)",
+        "軟體定義網路(Software-Defined Networking)",
+        "網路服務品質演算法 (QoS Algorithms)",
+        "光纖網路 (Optical Networks)"
+      ],
+      "lab": "",
+      "website": "https://www.nsda.ee.ncku.edu.tw/",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "李國君",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "多媒體、生醫數位訊號處理演算法、架構、及超大型積體電路設計",
+        "演算法暨架構共同探勘方法論",
+        "單晶片系統整合及設計方法",
+        "智慧型數位信號處理"
+      ],
+      "lab": "",
+      "website": "https://sites.google.com/view/nckumsoc-zh/%E9%A6%96%E9%A0%81",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "張志文",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "無線通訊之資源管理,最佳化與性能分析",
+        "無線通訊之跨層級與協定設計"
+      ],
+      "lab": "",
+      "website": "https://www.ee.ncku.edu.tw/teacher/index2.php?teacher_id=57",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "林家民",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "實體設計自動化"
+      ],
+      "lab": "",
+      "website": "http://seda.ee.ncku.edu.tw/",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "張順志",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "混合訊號積體電路設計",
+        "電腦輔助積體電路設計",
+        "積體電路測試與可測試設計"
+      ],
+      "lab": "",
+      "website": "http://sscas.ee.ncku.edu.tw/web/",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "郭致宏",
+      "title": "副教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "基於脈動陣列之神經網路加速器與ESL應用方法",
+        "基於深度學習之影像/影片超解析度",
+        "深度學習神經網路模型壓縮",
+        "應用於三維圖像之深度學習演算法",
+        "應用於生物醫學影像之深度學習演算法"
+      ],
+      "lab": "",
+      "website": "https://vcsd-lab.github.io/",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "詹寶珠",
+      "title": "特聘教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "類神經網路與智慧型運算",
+        "影像處理及圖訊識別",
+        "醫療影像處理",
+        "遠距醫療與居家看護系統",
+        "電腦視覺"
+      ],
+      "lab": "",
+      "website": "http://smile.ee.ncku.edu.tw/",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "黃仁暐",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "資料探勘、機器學習（Data mining, machine learning）",
+        "社群網路分析（Social Network Analysis）",
+        "時空間資料探勘(Spatio-temporal Data Mining)",
+        "多媒體資訊檢索(Multimedia Information Retrieval)",
+        "金融科技與生物醫學資訊(Fintech & Bioinformatics)"
+      ],
+      "lab": "",
+      "website": "https://kid.ee.ncku.edu.tw/",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    }
+  ]
+}

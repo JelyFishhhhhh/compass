@@ -1,0 +1,2298 @@
+{
+  "school": "台大",
+  "schoolFull": "國立臺灣大學",
+  "professors": [
+    {
+      "name": "陳祝嵩",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "深度學習",
+        "電腦視覺",
+        "機器學習",
+        "影像處理",
+        "多媒體處理",
+        "大數據分析",
+        "醫學影像"
+      ],
+      "lab": "",
+      "website": "http://imp.iis.sinica.edu.tw/",
+      "email": "chusong@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "鄭卜壬",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "網路探勘",
+        "資訊檢索",
+        "多媒體資料庫"
+      ],
+      "lab": "",
+      "website": "http://www.csie.ntu.edu.tw/~pjcheng/",
+      "email": "pjcheng@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "林風",
+      "title": "特聘教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "個人通訊服務網路之設計與分析",
+        "無線網際網路",
+        "系統效能評估"
+      ],
+      "lab": "",
+      "website": "http://www.csie.ntu.edu.tw/~plin/",
+      "email": "plin@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "鄭文皇",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "人工智慧",
+        "多媒體",
+        "電腦視覺",
+        "機器學習",
+        "數位轉型",
+        "金融科技"
+      ],
+      "lab": "",
+      "website": "http://www.csie.ntu.edu.tw/~wenhuang/",
+      "email": "wenhuang@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "林忠緯",
+      "title": "副教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "網宇實體系統",
+        "智慧型汽車",
+        "系統安全",
+        "系統設計方法學"
+      ],
+      "lab": "",
+      "website": "https://www.csie.ntu.edu.tw/~cwlin/",
+      "email": "cwlin@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "張瑞峰",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "醫學影像電腦輔助診斷",
+        "影像視訊處理",
+        "多媒體系統及通訊"
+      ],
+      "lab": "",
+      "website": "http://www.csie.ntu.edu.tw/~rfchang/",
+      "email": "rfchang@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "張原豪",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "電腦系統",
+        "電腦架構",
+        "嵌入式系統",
+        "作業系統",
+        "記憶體系統",
+        "儲存系統",
+        "非揮發性記憶體"
+      ],
+      "lab": "",
+      "website": "https://www.csie.ntu.edu.tw/~johnson/index_c.php",
+      "email": "johnson@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "趙坤茂",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "演算法設計（應用演算法、近似演算法）",
+        "生物資訊"
+      ],
+      "lab": "",
+      "website": "http://www.csie.ntu.edu.tw/~kmchao/",
+      "email": "kmchao@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳炳宇",
+      "title": "特聘教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "電腦圖學",
+        "人機互動",
+        "影像處理",
+        "多媒體系統"
+      ],
+      "lab": "",
+      "website": "http://graphics.csie.ntu.edu.tw/~robin/",
+      "email": "robin@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳信希",
+      "title": "特聘教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "自然語言處理",
+        "資訊檢索與擷取",
+        "網路探勘"
+      ],
+      "lab": "",
+      "website": "http://nlg.csie.ntu.edu.tw/advisor.php",
+      "email": "hhchen@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳尚澤",
+      "title": "副教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "機器學習",
+        "資料探勘",
+        "資訊安全",
+        "賽局理論"
+      ],
+      "lab": "",
+      "website": "https://www.csie.ntu.edu.tw/~stchen/",
+      "email": "stchen@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳彥仰",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "人機互動介面",
+        "行動裝置",
+        "雲端運算",
+        "多媒體系統"
+      ],
+      "lab": "",
+      "website": "http://mikechen.com/",
+      "email": "mikechen@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳縕儂",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "語言理解",
+        "對話系統",
+        "機器智慧",
+        "自然語言處理"
+      ],
+      "lab": "",
+      "website": "https://www.csie.ntu.edu.tw/~yvchen/",
+      "email": "yvchen@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "鄭龍磻",
+      "title": "副教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "人機互動",
+        "擴增/虛擬實境",
+        "觸覺回饋"
+      ],
+      "lab": "",
+      "website": "http://lungpancheng.tw",
+      "email": "lung-pan.cheng@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "周承復",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "分散式機器學習系統",
+        "智慧醫療",
+        "多媒體系統",
+        "無線(感測)網路",
+        "效能分析理論"
+      ],
+      "lab": "",
+      "website": "http://www.csie.ntu.edu.tw/~ccf/",
+      "email": "ccf@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "莊永裕",
+      "title": "特聘教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "電腦圖學",
+        "電腦視覺",
+        "數位特效製作",
+        "多媒體系統"
+      ],
+      "lab": "",
+      "website": "http://www.csie.ntu.edu.tw/~cyy/",
+      "email": "cyy@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "傅立成",
+      "title": "特聘教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "智慧家庭",
+        "智慧型機器人",
+        "虛擬實境",
+        "前瞻視覺應用",
+        "演化式計算與應用"
+      ],
+      "lab": "",
+      "website": "http://robotlab.csie.ntu.edu.tw/",
+      "email": "lichen@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "傅楸善",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "電腦視覺",
+        "數位影像處理",
+        "數位相機"
+      ],
+      "lab": "",
+      "website": "http://www.csie.ntu.edu.tw/~fuh/",
+      "email": "fuh@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "蕭旭君",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "網路安全",
+        "應用密碼學",
+        "高可得性之未來網路"
+      ],
+      "lab": "",
+      "website": "http://www.csie.ntu.edu.tw/~hchsiao/",
+      "email": "hchsiao@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "徐宏民",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "機器學習",
+        "電腦視覺",
+        "大規模影像視訊搜尋與辨識",
+        "Embodied AI"
+      ],
+      "lab": "",
+      "website": "http://winstonhsu.info/",
+      "email": "whsu@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "黃上恩",
+      "title": "助理教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "圖論演算法及資料結構",
+        "平行與分散式演算法",
+        "圖論稀疏化演算法",
+        "近乎線性時間演算法"
+      ],
+      "lab": "",
+      "website": "https://tmt514.github.io/",
+      "email": "sehuang@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "薛智文",
+      "title": "副教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "即時系統",
+        "作業系統",
+        "區塊鏈"
+      ],
+      "lab": "",
+      "website": "http://www.csie.ntu.edu.tw/~cwhsueh/",
+      "email": "cwhsueh@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "洪一平",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "延展實境／虛擬實境",
+        "影像處理與分析",
+        "人機互動",
+        "人工智慧",
+        "元宇宙",
+        "區塊鏈應用"
+      ],
+      "lab": "",
+      "website": "http://www.csie.ntu.edu.tw/~hung",
+      "email": "hung@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "洪士灝",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "電腦應用與架構相互最佳化",
+        "計算機架構與平行處理",
+        "計算機效能評估與最佳化",
+        "嵌入式系統設計"
+      ],
+      "lab": "",
+      "website": "http://www.csie.ntu.edu.tw/~hungsh/",
+      "email": "hungsh@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "柯宗瑋",
+      "title": "助理教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "電腦視覺",
+        "機器人學習",
+        "機器學習"
+      ],
+      "lab": "",
+      "website": "https://twke18.github.io",
+      "email": "twke@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "李濬屹",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "智慧型機器人",
+        "增強式學習",
+        "電腦視覺",
+        "虛實訓練及數位孿生",
+        "平行計算與計算機結構",
+        "電子電路設計自動化"
+      ],
+      "lab": "",
+      "website": "https://elsalab.ai",
+      "email": "cylee@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "李允中",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "軟體工程",
+        "服務導向計算",
+        "計算智慧"
+      ],
+      "lab": "",
+      "website": "http://www.csie.ntu.edu.tw/~jlee/",
+      "email": "jlee@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "李明穗",
+      "title": "副教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "多媒體影像處理",
+        "數位影像結合與壓縮",
+        "訊號處理"
+      ],
+      "lab": "",
+      "website": "http://www.csie.ntu.edu.tw/~mslee/",
+      "email": "mslee@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "李彥寰",
+      "title": "副教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "機器學習",
+        "最佳化",
+        "高維統計",
+        "量子資訊"
+      ],
+      "lab": "",
+      "website": "https://sites.google.com/site/yenhuanli/home",
+      "email": "yenhuan.li@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "黎士瑋",
+      "title": "助理教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "作業系統",
+        "電腦安全",
+        "計算機架構",
+        "正規驗證"
+      ],
+      "lab": "",
+      "website": "https://www.csie.ntu.edu.tw/~shihwei/",
+      "email": "shihwei@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "廖世偉",
+      "title": "副教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "大數據及區塊鏈",
+        "金融科技（互聯網金融）",
+        "Android 安卓虛擬機及編譯器"
+      ],
+      "lab": "",
+      "website": "http://www.csie.ntu.edu.tw/~liao/",
+      "email": "liao@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "林智仁",
+      "title": "特聘教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "機器學習",
+        "資料探勘",
+        "最佳化"
+      ],
+      "lab": "",
+      "website": "http://www.csie.ntu.edu.tw/~cjlin/",
+      "email": "cjlin@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "林軒田",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "機器學習",
+        "資料探勘",
+        "資訊理論"
+      ],
+      "lab": "",
+      "website": "http://www.csie.ntu.edu.tw/~htlin/",
+      "email": "htlin@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "林靖茹",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "通訊網路",
+        "分散性機器學習",
+        "智慧聯網與感測"
+      ],
+      "lab": "",
+      "website": "https://www.csie.ntu.edu.tw/~katelin",
+      "email": "katelin@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "林守德",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "機器發明",
+        "知識發現",
+        "自然語言處理",
+        "人工智慧",
+        "社群網路分析"
+      ],
+      "lab": "",
+      "website": "http://www.csie.ntu.edu.tw/~sdlin/",
+      "email": "sdlin@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "劉邦鋒",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "分散式深度學習系統優化",
+        "移動裝置CPU/GPU合作深度學習",
+        "大數據資料庫",
+        "雲端計算",
+        "演算法"
+      ],
+      "lab": "",
+      "website": "https://sites.google.com/view/pangfengliu/home",
+      "email": "pangfeng@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "羅紹元",
+      "title": "助理教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "可信任人工智慧",
+        "機器學習",
+        "多模態模型"
+      ],
+      "lab": "",
+      "website": "https://shaoyuanlo.github.io",
+      "email": "sylo@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "呂學一",
+      "title": "特聘教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "演算法",
+        "圖論"
+      ],
+      "lab": "",
+      "website": "http://www.csie.ntu.edu.tw/~hil/",
+      "email": "hil@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "呂育道",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "平行計算",
+        "金融計算",
+        "計算理論"
+      ],
+      "lab": "",
+      "website": "http://www.csie.ntu.edu.tw/~lyuu/",
+      "email": "lyuu@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "歐陽彥正",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "生物資訊學",
+        "知識工程",
+        "機器學習"
+      ],
+      "lab": "",
+      "website": "http://mbi.csie.ntu.edu.tw/member/yjoyang.html",
+      "email": "yjoyang@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "逄愛君",
+      "title": "特聘教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "5G/6G行動通訊網路",
+        "邊緣智慧",
+        "物聯網"
+      ],
+      "lab": "",
+      "website": "http://www.csie.ntu.edu.tw/~acpang/",
+      "email": "acpang@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "施吉昇",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "即時系統",
+        "排程理論",
+        "資源管理",
+        "嵌入式系統"
+      ],
+      "lab": "",
+      "website": "http://www.csie.ntu.edu.tw/~cshih/",
+      "email": "cshih@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "鄧善元",
+      "title": "助理教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "人機互動",
+        "觸覺回饋",
+        "穿戴式裝置",
+        "輔助科技"
+      ],
+      "lab": "",
+      "website": "https://lab.tengshanyuan.info",
+      "email": "tengshanyuan@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "蔡欣穆",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "人工智慧系統與應用",
+        "數位學習",
+        "智慧飛航與運輸系統",
+        "可見光通訊與定位",
+        "資訊安全"
+      ],
+      "lab": "",
+      "website": "http://www.csie.ntu.edu.tw/~hsinmu/",
+      "email": "hsinmu@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "曾宇鳳",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "計算化學及毒理學",
+        "生物資訊學",
+        "化學資訊學",
+        "健康資訊學"
+      ],
+      "lab": "",
+      "website": "https://www.cmdm.tw/",
+      "email": "yjtseng@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "吳家麟",
+      "title": "特聘教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "數位訊號處理",
+        "錯誤更正碼",
+        "資料壓縮",
+        "多媒體系統"
+      ],
+      "lab": "",
+      "website": "http://www.cmlab.csie.ntu.edu.tw/cml/dsp/prof-wu/prof-wu.html",
+      "email": "wjl@cmlab.csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "巫芳璟",
+      "title": "副教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "行動計算",
+        "普適智慧",
+        "無線網路",
+        "智慧物聯網",
+        "分散式智慧與人工智慧",
+        "隱私保護技術"
+      ],
+      "lab": "",
+      "website": "http://www.csie.ntu.edu.tw/~fangjing/",
+      "email": "fangjing@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "楊佳玲",
+      "title": "特聘教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "低功率嵌入式系統",
+        "高效能處理器架構",
+        "巨量資料儲存系統"
+      ],
+      "lab": "",
+      "website": "https://www.csie.ntu.edu.tw/~yangc/",
+      "email": "yangc@csie.ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "鍾孝文",
+      "title": "特聘教授()",
+      "dept": "生醫電子與資訊學研究所",
+      "deptType": "偏所",
+      "areas": [
+        "醫用磁振造影"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "chunghw@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "宋孔彬",
+      "title": "教授()",
+      "dept": "生醫電子與資訊學研究所",
+      "deptType": "偏所",
+      "areas": [
+        "生醫工程",
+        "生醫光學"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "kbsung@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "郭柏齡",
+      "title": "副教授()",
+      "dept": "生醫電子與資訊學研究所",
+      "deptType": "偏所",
+      "areas": [
+        "生物物理",
+        "力學生物學",
+        "生物力學",
+        "組織工程",
+        "醫用超音波"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "poling@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "楊東霖",
+      "title": "副教授()",
+      "dept": "生醫電子與資訊學研究所",
+      "deptType": "偏所",
+      "areas": [
+        "超解析顯影像",
+        "單分子追縱",
+        "細胞影像",
+        "主纖毛分子功能"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "tonyyang@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "莊曜宇",
+      "title": "教授()",
+      "dept": "生醫電子與資訊學研究所",
+      "deptType": "偏所",
+      "areas": [
+        "晶片",
+        "次世代定序",
+        "生物資訊",
+        "癌症生物",
+        "輻射生物",
+        "精準醫學",
+        "腸道菌",
+        "生醫大數據及AI"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "chuangey@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "李百祺",
+      "title": "特聘教授()",
+      "dept": "生醫電子與資訊學研究所",
+      "deptType": "偏所",
+      "areas": [
+        "生物醫學工程",
+        "生醫光聲技術",
+        "超音波影像與治療",
+        "醫材創新"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "paichi@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "林致廷",
+      "title": "教授()",
+      "dept": "生醫電子與資訊學研究所",
+      "deptType": "偏所",
+      "areas": [
+        "奈微米生物機電系統",
+        "生物晶片",
+        "生物分子量測技術",
+        "奈米製程技術",
+        "生物微感測器"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "timlin@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳志宏",
+      "title": "特聘教授()",
+      "dept": "生醫電子與資訊學研究所",
+      "deptType": "偏所",
+      "areas": [
+        "核磁共振影像",
+        "身心障礙科技輔具",
+        "醫學資訊",
+        "醫學工程"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "jhchen@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳中平",
+      "title": "教授()",
+      "dept": "生醫電子與資訊學研究所",
+      "deptType": "偏所",
+      "areas": [
+        "電腦補助設計自動化",
+        "微處理機設計",
+        "製程模擬"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "cpchen@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "孫啟光",
+      "title": "特聘教授()",
+      "dept": "生醫電子與資訊學研究所",
+      "deptType": "偏所",
+      "areas": [
+        "生醫光電",
+        "奈米科技",
+        "超快光學",
+        "分子影像"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "sun@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "林啟萬",
+      "title": "教授()",
+      "dept": "生醫電子與資訊學研究所",
+      "deptType": "偏所",
+      "areas": [
+        "神經系統工程",
+        "醫用微感測器",
+        "醫療儀器設計",
+        "醫儀認證"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "cwlinx@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "黃念祖",
+      "title": "教授()",
+      "dept": "生醫電子與資訊學研究所",
+      "deptType": "偏所",
+      "areas": [
+        "光微流道系統",
+        "微系統細胞操控",
+        "集中型表面電漿共振",
+        "奈微米製造技術"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "nthuang@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "魏安祺",
+      "title": "副教授()",
+      "dept": "生醫電子與資訊學研究所",
+      "deptType": "偏所",
+      "areas": [
+        "系統生物學",
+        "生物系統模型建構模擬"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "acwei86@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "劉浩澧",
+      "title": "特聘教授()",
+      "dept": "生醫電子與資訊學研究所",
+      "deptType": "偏所",
+      "areas": [
+        "生物系統控制",
+        "超音波陣列控制",
+        "影像導引介入治療",
+        "嵌入式醫學電子",
+        "擴增實境"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "hlliu@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "劉子毓",
+      "title": "副教授()",
+      "dept": "生醫電子與資訊學研究所",
+      "deptType": "偏所",
+      "areas": [
+        "Biological mechanisms",
+        "improve disease detection",
+        "support treatment selection"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "joyliu@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "吳文超",
+      "title": "教授",
+      "dept": "生醫電子與資訊學研究所",
+      "deptType": "偏所",
+      "areas": [
+        "磁振造影",
+        "多模態功能影像",
+        "磁振灌流影像",
+        "生醫信號與影像處理",
+        "醫用機器學習"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "musclekk@hotmail.com",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "阮雪芬",
+      "title": "特聘教授()",
+      "dept": "生醫電子與資訊學研究所",
+      "deptType": "偏所",
+      "areas": [
+        "生物資訊學",
+        "基因體學",
+        "蛋白質體學"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "yukijuan@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "盧信銘",
+      "title": "教授",
+      "dept": "資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "商業智慧",
+        "自然語言處理",
+        "機器學習",
+        "應用計量經濟"
+      ],
+      "lab": "",
+      "website": "http://www.im.ntu.edu.tw/~lu/",
+      "email": "luim@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "黃明蕙",
+      "title": "講座教授",
+      "dept": "資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "人工智慧管理策略",
+        "人工智慧商務",
+        "服務行銷",
+        "人工智慧行銷",
+        "資訊科技服務"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "huangmh@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳炘鈞",
+      "title": "特聘講座教授",
+      "dept": "資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "Security Informatics",
+        "Security Big Data",
+        "Smart and Connected Health",
+        "Health Analytics",
+        "Data/Text/Web Mining"
+      ],
+      "lab": "",
+      "website": "https://eller.arizona.edu/people/hsinchun-chen",
+      "email": "hchen@eller.arizona.edu",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "劉若慧",
+      "title": "特聘講座教授",
+      "dept": "資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "Predictive and Prescriptive Analytics",
+        "Machine Learning and Deep Learning",
+        "Data Mining/Anomaly Detection/Big Data Analytics",
+        "Data Privacy and Trusted Machine Learning"
+      ],
+      "lab": "",
+      "website": "https://search.asu.edu/profile/4830637",
+      "email": "olivia.liu.sheng@asu.edu",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "曹承礎",
+      "title": "教授",
+      "dept": "資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "資訊管理",
+        "大數據與人工智慧",
+        "區塊鏈",
+        "創業與創新"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "chou@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "莊裕澤",
+      "title": "教授",
+      "dept": "資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "資訊科技與創新",
+        "創新與創業",
+        "雲端應用服務",
+        "分散式計算",
+        "科技政策與科技管理"
+      ],
+      "lab": "",
+      "website": "http://joung.im.ntu.edu.tw/joung/",
+      "email": "joung@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "孫雅麗",
+      "title": "教授",
+      "dept": "資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "資訊安全",
+        "威脅情資與進階攻擊及惡意程式AI分析與鑑識",
+        "網際網路及行動通訊",
+        "網路與系統效能評估",
+        "網際網路服務品質與雲端服務"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "sunny@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "李瑞庭",
+      "title": "教授",
+      "dept": "資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "人工智慧",
+        "資料探勘",
+        "商業模型",
+        "決策支援與資訊經濟"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "jtlee@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳靜枝",
+      "title": "教授",
+      "dept": "資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "作業管理",
+        "決策支援",
+        "系統模擬",
+        "商業情報分析",
+        "供應鏈管理"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "cchern@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "魏志平",
+      "title": "特聘教授",
+      "dept": "資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "資料探勘與機器學習",
+        "資訊檢索與文字探勘",
+        "社群媒體分析",
+        "專利智慧",
+        "健康資訊分析"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "cpwei@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "蔡益坤",
+      "title": "教授",
+      "dept": "資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "正規驗證",
+        "時序邏輯",
+        "自動機理論",
+        "軟體安全",
+        "語意化全球資訊網"
+      ],
+      "lab": "",
+      "website": "http://im.ntu.edu.tw/~tsay/",
+      "email": "tsay@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳炳宇",
+      "title": "特聘教授",
+      "dept": "資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "人機互動",
+        "電腦圖學",
+        "視訊及影像處理",
+        "創新創業教育"
+      ],
+      "lab": "",
+      "website": "http://graphics.csie.ntu.edu.tw/~robin/",
+      "email": "robin@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "林永松",
+      "title": "教授",
+      "dept": "資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "人工智慧",
+        "大數據分析與應用",
+        "雲端運算技術",
+        "資訊安全",
+        "網路規劃與容量管理",
+        "高速網路(5G/B5G/低軌衛星通訊)",
+        "網路最佳化",
+        "物聯網",
+        "智慧製造",
+        "金融科技",
+        "生物特徵辨識"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "yeongsunglin@gmail.com",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "吳玲玲",
+      "title": "教授",
+      "dept": "資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "網際網路資訊行為",
+        "知識管理"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "llwu@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳建錦",
+      "title": "教授",
+      "dept": "資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "商業數據分析",
+        "文字探勘",
+        "推薦系統"
+      ],
+      "lab": "",
+      "website": "https://homepage.ntu.edu.tw/~patonchen/",
+      "email": "patonchen@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "李家岩",
+      "title": "教授",
+      "dept": "資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "作業研究",
+        "製造數據科學",
+        "生產力與效率分析",
+        "隨機最佳化",
+        "多目標決策分析"
+      ],
+      "lab": "",
+      "website": "http://polab.im.ntu.edu.tw/",
+      "email": "chiayenlee@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "孔令傑",
+      "title": "副教授",
+      "dept": "資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "Information Economics",
+        "Operations Research",
+        "Multi-sided Platform Mechanism Design",
+        "Digital Goods Pricing",
+        "Production Planning and Scheduling",
+        "Facility Location Problems"
+      ],
+      "lab": "",
+      "website": "http://www.im.ntu.edu.tw/~lckung",
+      "email": "lckung@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "彭志宏",
+      "title": "副教授",
+      "dept": "資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "Social media and social networks",
+        "Group decision-making",
+        "Organizational innovation",
+        "Strategic management",
+        "E-commerce",
+        "Service science",
+        "Health information systems"
+      ],
+      "lab": "",
+      "website": "https://sites.google.com/view/ischpeng",
+      "email": "ischpeng@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "畢南怡",
+      "title": "助理教授",
+      "dept": "資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "電腦中介傳播",
+        "電腦支援協同工作(CSCW)",
+        "Human-computer interaction and user research",
+        "Cross-cultural communication",
+        "Information and society"
+      ],
+      "lab": "",
+      "website": "http://im.ntu.edu.tw/~nanyibi",
+      "email": "nanyibi@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "何承遠",
+      "title": "副教授",
+      "dept": "資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "人工智慧與機器學習",
+        "電腦網路與通訊領域",
+        "大數據分析應用",
+        "創新創業與產品工程",
+        "跨平台APP開發"
+      ],
+      "lab": "",
+      "website": "http://im.ntu.edu.tw/~tommyho",
+      "email": "tommyho@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "穆信成",
+      "title": "教授",
+      "dept": "資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "Programming languages",
+        "Program transformation",
+        "Program derivation",
+        "Functional languages",
+        "Logic and type theory"
+      ],
+      "lab": "",
+      "website": "https://homepage.iis.sinica.edu.tw/pages/scm/",
+      "email": "scm@iis.sinica.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "張耀文",
+      "title": "特聘教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "Electronic Design Automation",
+        "VLSI Physical Design",
+        "Heterogeneous Integration",
+        "Design for Manufacturability",
+        "AI for EDA"
+      ],
+      "lab": "",
+      "website": "http://cc.ee.ntu.edu.tw/~ywchang",
+      "email": "ywchang@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳和麟",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "Algorithm Design",
+        "Molecular Computing",
+        "Algorithmic Game Theory",
+        "Information Processing",
+        "Molecular Circuits"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "holinchen@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳宏銘",
+      "title": "特聘教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "Multimedia Signal Processing",
+        "Computational Photography and Display",
+        "Music Data Mining",
+        "Machine Learning",
+        "Image Processing",
+        "Computer Audition"
+      ],
+      "lab": "",
+      "website": "http://mpac.ee.ntu.edu.tw/",
+      "email": "homer@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳銘憲",
+      "title": "講座教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "Multimedia Networking",
+        "Database Systems",
+        "Data Mining"
+      ],
+      "lab": "",
+      "website": "http://arbor.ee.ntu.edu.tw/~mschen",
+      "email": "mschen@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "鄭皓中",
+      "title": "副教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "Quantum Information Processing",
+        "Quantum Communication",
+        "Quantum Machine Learning"
+      ],
+      "lab": "",
+      "website": "http://www.hao-chung.info",
+      "email": "haochung@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "簡翌",
+      "title": "助理教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "Machine Unlearning",
+        "Differential Privacy",
+        "Graph Neural Networks",
+        "AI Copyright",
+        "Hypergraph Learning",
+        "Geometric Learning"
+      ],
+      "lab": "",
+      "website": "https://sites.google.com/view/eli-chien/home",
+      "email": "elichien@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "簡韶逸",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "Multimedia Signal Processing",
+        "VLSI Design",
+        "Video Coding Systems",
+        "Image Signal Processing",
+        "Graphics Processor Design",
+        "System-on-Chip Methodology"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "sychien@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "周俊廷",
+      "title": "副教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "Cognitive Radio Networks",
+        "Wireless Network Protocols",
+        "Ultra-wideband Communications",
+        "Directional Network Protocols",
+        "Cooperative Transmission",
+        "Sensor Networks"
+      ],
+      "lab": "",
+      "website": "http://nxg.ee.ntu.edu.tw/web/index",
+      "email": "chuntingchou@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "鐘嘉德",
+      "title": "特聘教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "Communication Systems",
+        "Wireless Communications",
+        "OFDM Systems",
+        "Digital Modulation",
+        "Spectral Precoding"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "cdchung@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "丁建均",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "Digital Signal Processing",
+        "Digital Image Processing",
+        "Image Compression",
+        "Time-Frequency Analysis",
+        "Machine Learning",
+        "Fractional Fourier Transform"
+      ],
+      "lab": "",
+      "website": "http://djj.ee.ntu.edu.tw/index.htm",
+      "email": "jjding@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "謝宏昀",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "Metaverse and IoT",
+        "Integrated Sensing and Communications",
+        "LEO Satellite Communications",
+        "Wireless Human Sensing",
+        "Network Security",
+        "Data Analytics"
+      ],
+      "lab": "",
+      "website": "http://tonic.ee.ntu.edu.tw",
+      "email": "hungyun@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "黃楚翔",
+      "title": "助理教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "Wireless Communication Systems",
+        "Physical Layer Security",
+        "Communication Standards",
+        "Cross-layer Security Design",
+        "AI/ML Algorithms"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "chuhsianh@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "黃鐘揚",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "SoC Design Verification",
+        "AI-powered Circuit Design",
+        "3D-IC Design Flow",
+        "Quantum Circuit Synthesis",
+        "Formal Verification",
+        "Design Automation"
+      ],
+      "lab": "",
+      "website": "http://cc.ee.ntu.edu.tw/~ric/",
+      "email": "cyhuang@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "黃俊郎",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "VLSI Testing",
+        "Reliability",
+        "Hardware Security",
+        "2.5/3D Interconnects",
+        "Processor Core Testing",
+        "Design-for-Test"
+      ],
+      "lab": "",
+      "website": "https://sites.google.com/view/jlhuang-ntu",
+      "email": "jlhuang@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "黃寶儀",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "Wireless Sensor Networks",
+        "P2P Multimedia Networking",
+        "Internet Measurement and Analysis",
+        "Wearable Computing",
+        "Network Optimization",
+        "Indoor Localization"
+      ],
+      "lab": "",
+      "website": "http://homepage.ntu.edu.tw/~pollyhuang",
+      "email": "pollyhuang@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "洪士涵",
+      "title": "助理教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "Quantum Computing",
+        "Quantum Algorithms",
+        "Quantum Cryptography",
+        "Quantum Programming Languages",
+        "Formal Verification"
+      ],
+      "lab": "",
+      "website": "https://hungshihhan.github.io",
+      "email": "shihhanh@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "江蕙如",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "Timing Analysis and Optimization",
+        "Engineering Change Order",
+        "Physical Design Automation",
+        "Design for Manufacturability",
+        "Data Analytics-based Design Automation"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "huirujiang@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "江介宏",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "Formal Verification",
+        "Logic Synthesis",
+        "Optimization Methods",
+        "Quantum Computation",
+        "Systems Biology",
+        "Circuit Design"
+      ],
+      "lab": "",
+      "website": "http://cc.ee.ntu.edu.tw/~jhjiang",
+      "email": "jhjiang@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "李宏毅",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "Machine Learning",
+        "Deep Learning",
+        "Spoken Language Understanding",
+        "Speech Recognition"
+      ],
+      "lab": "",
+      "website": "http://speech.ee.ntu.edu.tw/~tlkagk/",
+      "email": "hungyilee@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "李念澤",
+      "title": "助理教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "Formal Methods",
+        "Program Verification",
+        "Hardware Model Checking",
+        "Confidential Computing",
+        "AI Applications in Formal Methods",
+        "Satisfiability Solving"
+      ],
+      "lab": "",
+      "website": "https://nianzelee.github.io/",
+      "email": "nzlee@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "李建模",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "Built-In Self Test",
+        "System-on-Chip Testing",
+        "Defect-Based Testing",
+        "Fault Diagnosis",
+        "Scan Chain Diagnosis",
+        "VLSI Testing"
+      ],
+      "lab": "",
+      "website": "http://cc.ee.ntu.edu.tw/~cmli",
+      "email": "cmli@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "廖崇碩",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "Combinatorial Optimization",
+        "Graph Algorithms",
+        "Online Algorithms",
+        "Anomaly Detection",
+        "Generative Knowledge Graphs",
+        "Computational Geometry"
+      ],
+      "lab": "",
+      "website": "https://acolab.ie.nthu.edu.tw/",
+      "email": "csliao@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "廖婉君",
+      "title": "講座教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "6G Networks",
+        "Semantic Communications",
+        "Multimedia Networking",
+        "LEO Satellite Networks",
+        "Edge Computing",
+        "AIoT"
+      ],
+      "lab": "",
+      "website": "https://kiki.ee.ntu.edu.tw/",
+      "email": "wjliao@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "林澤",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "Deep Learning",
+        "Data Science",
+        "Medical AI",
+        "Optimization Theory",
+        "FinTech",
+        "Systems Biology"
+      ],
+      "lab": "",
+      "website": "https://www.idssp.ee.ntu.edu.tw/che-lin",
+      "email": "chelin@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "林士駿",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "Information Theory",
+        "Coding Theory",
+        "Cyber-physical Security",
+        "AIoT Systems",
+        "Wireless Communications",
+        "Network Optimization"
+      ],
+      "lab": "",
+      "website": "http://cc.ee.ntu.edu.tw/~shihchunlin/",
+      "email": "sclinntu@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "林宗男",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "Deep Learning",
+        "Machine Learning",
+        "Cybersecurity",
+        "Data Science",
+        "Blockchain Technology",
+        "Software Defined Networks"
+      ],
+      "lab": "",
+      "website": "https://nmlab.ntu.edu.tw/",
+      "email": "tsungnan@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "劉智弘",
+      "title": "副教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "Tensor Problems",
+        "Robust Statistics",
+        "Clustering",
+        "Differential Privacy",
+        "Linear Algebra",
+        "Optimization Algorithms"
+      ],
+      "lab": "",
+      "website": "https://homepage.ntu.edu.tw/~chliu/",
+      "email": "chliu@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "劉俊麟",
+      "title": "副教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "Sparse Arrays",
+        "Array Signal Processing",
+        "Digital Signal Processing",
+        "Statistical Signal Processing"
+      ],
+      "lab": "",
+      "website": "https://homepage.ntu.edu.tw/~chunlinliu/",
+      "email": "chunlinliu@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "馮世邁",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "OFDM Systems",
+        "Channel Estimation",
+        "Carrier Frequency Offset Compensation",
+        "IQ Imbalance Correction",
+        "Signal Processing for Broadband Communications"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "smphoong@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "蘇柏青",
+      "title": "副教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "Channel Estimation",
+        "Channel Equalization",
+        "Synchronization",
+        "Blind Signal Processing",
+        "5G Waveform Design",
+        "Beamforming and Precoding"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "borching@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "蘇炫榮",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "Wireless Communications",
+        "Signal Processing",
+        "Interference Management",
+        "Resource Allocation",
+        "Coding and Modulation",
+        "Network Protocols"
+      ],
+      "lab": "",
+      "website": "http://cc.ee.ntu.edu.tw/~hjsu",
+      "email": "hjs@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "孫紹華",
+      "title": "助理教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Robot Learning",
+        "Reinforcement Learning",
+        "Program Synthesis"
+      ],
+      "lab": "",
+      "website": "https://shaohua0116.github.io/",
+      "email": "shaohuas@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "蔡坤諭",
+      "title": "副教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "Nanolithography Processes and Equipment",
+        "Nanoscale Circuit Design",
+        "Advanced Control Systems",
+        "Optimization Techniques",
+        "Signal Processing"
+      ],
+      "lab": "",
+      "website": "https://www.linkedin.com/in/kytsai",
+      "email": "ktsai@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "王凡",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "Verification Automation",
+        "Software Testing",
+        "Formal Methods",
+        "Model Checking",
+        "Real-time Systems",
+        "Embedded Software"
+      ],
+      "lab": "",
+      "website": "http://cc.ee.ntu.edu.tw/~farn",
+      "email": "farn@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "王新博",
+      "title": "助理教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "Communication",
+        "Cloud Storage",
+        "DNA Coding",
+        "Distributed Computation",
+        "Group Testing",
+        "Coding Theory"
+      ],
+      "lab": "",
+      "website": "https://www.hsin-po.wang",
+      "email": "hsinpo@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "王奕翔",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "Information Theory",
+        "Wireless Communications",
+        "Networked Data Learning",
+        "Distributed Information Processing",
+        "Privacy and Security",
+        "Sequential Decision Making"
+      ],
+      "lab": "",
+      "website": "http://cc.ee.ntu.edu.tw/~ihsiangw",
+      "email": "ihwang@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "王勝德",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "Embedded Systems",
+        "Cloud Computing",
+        "Deep Learning Optimization",
+        "IoT Data Analysis",
+        "Network Computing",
+        "Hardware/Software Codesign"
+      ],
+      "lab": "",
+      "website": "http://hpc.ee.ntu.edu.tw",
+      "email": "sdwang@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "王鈺強",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "Computer Vision",
+        "Machine Learning",
+        "Deep Learning",
+        "Artificial Intelligence",
+        "Transfer Learning",
+        "Domain Adaptation"
+      ],
+      "lab": "",
+      "website": "http://vllab.ee.ntu.edu.tw/ycwang.html",
+      "email": "ycwang@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "魏宏宇",
+      "title": "特聘教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "5G/6G Wireless Standards",
+        "Edge Computing",
+        "IoT",
+        "Game Theory",
+        "Machine Learning",
+        "Multimedia Networking"
+      ],
+      "lab": "",
+      "website": "http://homepage.ntu.edu.tw/~hywei/",
+      "email": "hywei@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "吳沛遠",
+      "title": "副教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "Machine Learning",
+        "Privacy-enhancing Technologies",
+        "Kernel Methods",
+        "Algorithm Analysis",
+        "Estimation Theory",
+        "Adversarial Robustness"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "peiyuanwu@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "楊奕軒",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "Music Information Research",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Automatic Music Generation",
+        "Music Analysis",
+        "Deep Learning"
+      ],
+      "lab": "",
+      "website": "https://affige.github.io/",
+      "email": "yhyangtw@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "葉佳宜",
+      "title": "助理教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "Wireless Communications",
+        "Millimeter-wave Technology",
+        "Terahertz Systems",
+        "Massive MIMO",
+        "Wireless Security",
+        "Sensor Networks"
+      ],
+      "lab": "",
+      "website": "https://sites.google.com/view/chiayi-yeh/",
+      "email": "ycyyeh@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "葉丙成",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "Molecular Communications",
+        "Wireless Communications",
+        "Wireless Networks",
+        "Educational Technology",
+        "Wireless Multimedia Transmission",
+        "Physical Layer Security"
+      ],
+      "lab": "",
+      "website": "https://www.facebook.com/pcyeh.NTU",
+      "email": "pcyeh@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "于天立",
+      "title": "副教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "Genetic Algorithms",
+        "Evolutionary Computation",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Model Building",
+        "Linkage Learning"
+      ],
+      "lab": "",
+      "website": "http://cc.ee.ntu.edu.tw/~tianliyu",
+      "email": "tianliyu@ntu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    }
+  ]
+}
