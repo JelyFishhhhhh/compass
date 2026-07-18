@@ -1,0 +1,1202 @@
+{
+  "school": "中正",
+  "schoolFull": "國立中正大學",
+  "professors": [
+    {
+      "name": "黃耀廷",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "基因體醫學",
+        "大數據分析",
+        "演算法"
+      ],
+      "lab": "生物資訊實驗室",
+      "website": "https://bioinfo.cs.ccu.edu.tw/bioinfo/",
+      "email": "ythuang@cs.ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "游寶達",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "智慧型系統設計",
+        "智慧型網路",
+        "ICAL",
+        "非線性系統",
+        "e-Learning",
+        "電腦輔助教學"
+      ],
+      "lab": "模糊理論與類神經網路實驗室",
+      "website": "http://www.cs.ccu.edu.tw/~csipty/",
+      "email": "csipty@cs.ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "柳金章",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "影像/視訊處理及通訊",
+        "圖形識別",
+        "電腦視覺"
+      ],
+      "lab": "影像處理暨電腦視覺實驗室",
+      "website": "http://www.cs.ccu.edu.tw/~jjleou/",
+      "email": "jjleou@cs.ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "熊博安",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "軟硬體共同設計",
+        "系統設計與正規驗證",
+        "即時嵌入式系統",
+        "晶片系統(SOC)",
+        "平行與分散式系統"
+      ],
+      "lab": "嵌入式系統實驗室",
+      "website": "https://www.cs.ccu.edu.tw/~pahsiung/",
+      "email": "pahsiung@cs.ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "張榮貴",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "嵌入式系統",
+        "平行處理",
+        "編譯器"
+      ],
+      "lab": "系統軟體實驗室",
+      "website": "http://140.123.97.35/wordpress/",
+      "email": "rgchang@cs.ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "林維暘",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "電腦視覺",
+        "圖像辨識",
+        "生物特徵辨識"
+      ],
+      "lab": "計算視覺與認知實驗室",
+      "website": "https://www.cs.ccu.edu.tw/~wylin/",
+      "email": "wylin@cs.ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "鍾菁哲",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "人工智慧(AI)晶片設計",
+        "混合信號積體電路設計與感測器電路設計",
+        "無線與有線通訊系統",
+        "低功耗與系統單晶片(SOC)設計技術",
+        "全數位鎖相迴路/延遲鎖定迴路"
+      ],
+      "lab": "矽感測器與系統實驗室",
+      "website": "https://www.cs.ccu.edu.tw/~wildwolf/",
+      "email": "wildwolf@cs.ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "林柏青",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "網路安全",
+        "計算機網路",
+        "效能分析"
+      ],
+      "lab": "網路與系統安全實驗室",
+      "website": "https://www.cs.ccu.edu.tw/~pclin/lab.html",
+      "email": "pclin@cs.ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "薛幼苓",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "時空資料庫",
+        "智慧型運輸系統與隱私保護",
+        "任務分配與獎勵機制設計",
+        "適地性服務"
+      ],
+      "lab": "資料管理實驗室",
+      "website": "https://www.cs.ccu.edu.tw/~hsueh/",
+      "email": "hsueh@cs.ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "劉興民",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "機器學習",
+        "人類AI互動",
+        "電腦繪圖",
+        "電腦視覺",
+        "元宇宙",
+        "計算攝影學"
+      ],
+      "lab": "創新計算系統與視覺化科技實驗室",
+      "website": "https://www.cs.ccu.edu.tw/~damon/",
+      "email": "damon@cs.ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "邱志義",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "資訊檢索",
+        "多媒體索引",
+        "資料探勘",
+        "電腦視覺"
+      ],
+      "lab": "",
+      "website": "https://sites.google.com/site/chihyichiu",
+      "email": "cychiu@cs.ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "黃啟富",
+      "title": "副教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "無線通訊",
+        "行動計算"
+      ],
+      "lab": "行動計算與網路實驗室",
+      "website": "http://mcnlab.cs.ccu.edu.tw/",
+      "email": "cfhuang@cs.ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "劉偉名",
+      "title": "副教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "醫學/遙測影像分析",
+        "生醫信號處理",
+        "圖形識別"
+      ],
+      "lab": "醫學與遙測影像實驗室",
+      "website": "https://www.cs.ccu.edu.tw/~wmliu/",
+      "email": "wmliu@cs.ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "柯仁松",
+      "title": "副教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "無線感測網路",
+        "普及計算",
+        "行動計算",
+        "分散式系統"
+      ],
+      "lab": "分散式與普及科技實驗室",
+      "website": "",
+      "email": "korenson@cs.ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "江為國",
+      "title": "副教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "行動通訊與無線網路",
+        "網際網路電信與通訊協定",
+        "互連網路設計",
+        "圖學理論"
+      ],
+      "lab": "行動網路通訊實驗室",
+      "website": "http://mainlab.cs.ccu.edu.tw/",
+      "email": "wkchiang@cs.ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳鵬升",
+      "title": "副教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "編譯器設計與最佳化",
+        "應用程式效能分析",
+        "嵌入式系統"
+      ],
+      "lab": "高效能計算實驗室",
+      "website": "http://www.cs.ccu.edu.tw/~pschen/",
+      "email": "pschen@cs.ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "羅習五",
+      "title": "副教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "作業系統",
+        "非揮發式記憶體",
+        "嵌入式系統"
+      ],
+      "lab": "作業系統實驗室",
+      "website": "https://www.cs.ccu.edu.tw/~shiwulo/",
+      "email": "shiwulo@cs.ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "林泰吉",
+      "title": "副教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "計算機結構",
+        "低功耗設計",
+        "超大型積體電路訊號處理"
+      ],
+      "lab": "智慧晶片系統實驗室",
+      "website": "https://www.cs.ccu.edu.tw/~tjlin/",
+      "email": "tjlin.ccu@gmail.com",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "江振國",
+      "title": "副教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "電腦視覺",
+        "機器學習",
+        "多媒體處理分析"
+      ],
+      "lab": "機器視覺學習實驗室",
+      "website": "https://www.cs.ccu.edu.tw/~ckchiang",
+      "email": "ckchiang@cs.ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "郭建志",
+      "title": "副教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "雲端與邊緣計算",
+        "電腦網路",
+        "量子網路",
+        "流量工程",
+        "演算法設計"
+      ],
+      "lab": "創新網路技術實驗室",
+      "website": "https://sites.google.com/view/lajacky",
+      "email": "lajacky@cs.ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "蘇育生",
+      "title": "副教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "雲端運算",
+        "大數據分析",
+        "智慧型系統",
+        "元宇宙"
+      ],
+      "lab": "先進資訊技術實驗室",
+      "website": "https://aitlab.github.io/AIT_Lab/",
+      "email": "ccucssu@cs.ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "王銘宏",
+      "title": "副教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "計算社會科學",
+        "資訊安全",
+        "資料科學",
+        "社群網路"
+      ],
+      "lab": "數位社會與安全實驗室",
+      "website": "https://sites.google.com/view/mhwang/home",
+      "email": "tonymhwang@cs.ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "梁郁珮",
+      "title": "助理教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "電腦系統",
+        "新興記憶體儲存系統及其應用",
+        "嵌入式儲存系統管理"
+      ],
+      "lab": "電腦系統暨儲存技術實驗室",
+      "website": "https://yupei-liang.github.io/",
+      "email": "ypliang@cs.ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "阮文齡",
+      "title": "助理教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "網路安全",
+        "物理層無線安全",
+        "人工智慧安全",
+        "量子機器學習",
+        "無人機/先進網路技術"
+      ],
+      "lab": "網路安全實驗室",
+      "website": "https://sites.google.com/view/nvlinh",
+      "email": "nvlinh@cs.ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳立軒",
+      "title": "助理教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "演算法分析",
+        "圖論演算法",
+        "近似演算法",
+        "固定參數演算法"
+      ],
+      "lab": "",
+      "website": "https://cs.ccu.edu.tw/var/file/94/1094/img/CVLi_Hsuan_web.html",
+      "email": "lhchen@cs.ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "盧沛怡",
+      "title": "助理教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "電腦視覺",
+        "影像處理",
+        "人工智慧",
+        "大數據分析"
+      ],
+      "lab": "視覺與智慧系統實驗室",
+      "website": "https://thesuperorange.github.io/",
+      "email": "peggylu@cs.ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "王志航",
+      "title": "助理教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "AI與社群物聯網",
+        "下一世代無線網路",
+        "行動邊緣計算",
+        "元宇宙多媒體網路",
+        "演算法設計"
+      ],
+      "lab": "",
+      "website": "https://sites.google.com/view/chih-hang/homepage",
+      "email": "chwang@cs.ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "江宗韋",
+      "title": "助理教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": [
+        "無線通訊",
+        "機器學習",
+        "大數據隱私與安全"
+      ],
+      "lab": "",
+      "website": "https://sites.google.com/view/twchiang",
+      "email": "twchiang@ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "洪新原",
+      "title": "特聘教授",
+      "dept": "資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "決策支援系統",
+        "知識管理",
+        "電子商務/電子化政府",
+        "資料探勘之商業應用"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "syhung@mis.ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "李有仁",
+      "title": "講座教授",
+      "dept": "資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "電子商務",
+        "服務創新",
+        "決策系統",
+        "資訊科技"
+      ],
+      "lab": "",
+      "website": "https://eli.johogo.com",
+      "email": "miseli@ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "黃士銘",
+      "title": "教授",
+      "dept": "資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "資訊系統再造工程",
+        "資料庫系統",
+        "商業自動化",
+        "電子商務"
+      ],
+      "lab": "",
+      "website": "https://ec.ccu.edu.tw/teacher/home.htm",
+      "email": "smhuang@mis.ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "羅美玲",
+      "title": "教授",
+      "dept": "資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "新科技採用",
+        "遊戲式系統使用",
+        "社群媒介",
+        "電子商務",
+        "網路行銷"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "luo@mis.ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "黃維民",
+      "title": "副教授",
+      "dept": "資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "醫務管理",
+        "遠距醫療",
+        "虛擬醫院",
+        "醫療資訊管理"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "wmhuang@mis.ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "林勝為",
+      "title": "副教授",
+      "dept": "資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "數位商務",
+        "搜尋引擎行銷",
+        "網站流量分析",
+        "共享經濟",
+        "社會網絡"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "swlin@mis.ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "林育秀",
+      "title": "副教授",
+      "dept": "資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "老人健康生活品質評估",
+        "健康空間計量分析",
+        "醫療大數據分析"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "yuhsiu@ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "許經國",
+      "title": "助理教授",
+      "dept": "資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "5G無線通訊",
+        "5G物聯網",
+        "人工智慧應用"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "chingkuo@ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "薩尼",
+      "title": "助理教授",
+      "dept": "資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "社群媒體",
+        "數據分析",
+        "機器學習",
+        "自然語言處理"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "vipinsaini@ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "沙拉溫",
+      "title": "助理教授",
+      "dept": "資訊管理學系",
+      "deptType": "資管",
+      "areas": [
+        "新興技術趨勢",
+        "人機介面",
+        "量化研究",
+        "線上使用者行為"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "bensarawut@ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "劉宗憲",
+      "title": "教授",
+      "dept": "通訊工程學系",
+      "deptType": "偏所",
+      "areas": [
+        "通訊基頻接收機設計",
+        "通訊訊號處理"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "comtsliu@ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "邱茂清",
+      "title": "教授",
+      "dept": "通訊工程學系",
+      "deptType": "偏所",
+      "areas": [
+        "編碼理論",
+        "無線通訊"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "ieemcc@ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "胡家彰",
+      "title": "教授",
+      "dept": "通訊工程學系",
+      "deptType": "偏所",
+      "areas": [
+        "毫米波多輸入多輸出通訊系統",
+        "中繼輔助之合作式通信",
+        "適應性陣列信號處理"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "jameshu183@gmail.com",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "李昌明",
+      "title": "副教授",
+      "dept": "通訊工程學系",
+      "deptType": "偏所",
+      "areas": [
+        "可見光通訊",
+        "錯誤更正碼",
+        "5G系統級與鍊接級模擬"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "cmlee@ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "蘇益生",
+      "title": "副教授",
+      "dept": "通訊工程學系",
+      "deptType": "偏所",
+      "areas": [
+        "通訊網路",
+        "編碼理論",
+        "消息理論",
+        "機器學習"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "yishengsu@ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "翁健家",
+      "title": "助理教授",
+      "dept": "通訊工程學系",
+      "deptType": "偏所",
+      "areas": [
+        "網路消息理論",
+        "編碼理論",
+        "編碼調變",
+        "聯合訊源與通道編碼",
+        "無線通訊"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "jjweng@ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "張盛富",
+      "title": "特聘教授",
+      "dept": "通訊工程學系",
+      "deptType": "偏所",
+      "areas": [
+        "射頻及微波模組",
+        "射頻及微波積體電路",
+        "電磁相容",
+        "IC電子封裝"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "ieesfc@ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "湯敬文",
+      "title": "教授",
+      "dept": "通訊工程學系",
+      "deptType": "偏所",
+      "areas": [
+        "線陣列設計與量測",
+        "波束合成技術",
+        "微波電路與晶片設計",
+        "CMOS-MEMS可重置微波電路",
+        "生醫與定位雷達感測系統"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "cwtang@ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "張嘉展",
+      "title": "教授",
+      "dept": "通訊工程學系",
+      "deptType": "偏所",
+      "areas": [
+        "射頻及微波電路與元件",
+        "微波雷達應用系統",
+        "天線設計與量測",
+        "CMOS-MEMS可重置電路設計"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "ieeccc@ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "吳建華",
+      "title": "副教授",
+      "dept": "通訊工程學系",
+      "deptType": "偏所",
+      "areas": [
+        "射頻積體電路",
+        "高頻元件特性分析",
+        "多晶片通訊模組設計"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "jwwu@ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "林士程",
+      "title": "教授",
+      "dept": "通訊工程學系",
+      "deptType": "偏所",
+      "areas": [
+        "射頻微波電路",
+        "陣列天線",
+        "微波被動元組件",
+        "射頻元件建模"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "sclinee@ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "李詩偉",
+      "title": "教授",
+      "dept": "通訊工程學系",
+      "deptType": "偏所",
+      "areas": [
+        "寬頻網路",
+        "光通訊系統設計"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "ieeswl@ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "鄭伯炤",
+      "title": "教授",
+      "dept": "通訊工程學系",
+      "deptType": "偏所",
+      "areas": [
+        "網路安全",
+        "網路管理",
+        "嵌入即時系統"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "bcheng@ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "潘仁義",
+      "title": "副教授",
+      "dept": "通訊工程學系",
+      "deptType": "偏所",
+      "areas": [
+        "行動通訊系統",
+        "系統層模擬器開發",
+        "網際網路與區域網路"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "jypan@comm.ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "李皇辰",
+      "title": "教授",
+      "dept": "通訊工程學系",
+      "deptType": "偏所",
+      "areas": [
+        "低耗電嵌入式系統",
+        "物聯網通訊技術",
+        "無線感測器網路",
+        "網狀網路"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "huclee@ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "施淵耀",
+      "title": "助理教授",
+      "dept": "通訊工程學系",
+      "deptType": "偏所",
+      "areas": [
+        "新世代無線與行動網路",
+        "智慧物聯網",
+        "霧端邊緣運算"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "yyshih@ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "賴傳淇",
+      "title": "助理教授",
+      "dept": "通訊工程學系",
+      "deptType": "偏所",
+      "areas": [
+        "天地空一體化網路",
+        "行動邊緣運算",
+        "巨量資料分析",
+        "行動計算"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "chuanclai@ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "劉立頌",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "人工智慧",
+        "軟體工程",
+        "知識庫系統",
+        "智慧型代理人系統"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "ieelsl@ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "余英豪",
+      "title": "副教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "電腦視覺",
+        "機器人控制",
+        "人工智慧",
+        "系統單晶片",
+        "嵌入式系統"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "yinhaun@gmail.com",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "謝奇文",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "影像處理",
+        "人工智慧",
+        "微波應用",
+        "醫用探測器"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "chiwenh@ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "蔣惟丞",
+      "title": "副教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "機器學習",
+        "強化學習",
+        "智慧型機器人系統",
+        "群體機器人合作學習"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "jiangwc@ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "邱建毓",
+      "title": "助理教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "人工智慧",
+        "電腦視覺",
+        "機器學習",
+        "醫學影像處理"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "n28104066@gs.ncku.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳自強",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "音/視訊處理與認知",
+        "情境感知",
+        "人工智慧及機器學習",
+        "VLSI系統及RF晶片設計",
+        "光電及生醫感測器",
+        "物聯網應用",
+        "延展實境"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "oscal@ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "賴文能",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "影像/視訊處理",
+        "電腦視覺",
+        "圖形識別",
+        "深度學習網路"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "ieewnl@ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "余松年",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "生醫訊號處理",
+        "醫學影像分析",
+        "電腦輔助診斷",
+        "智慧醫療",
+        "行動健康照護"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "ieesny@ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "江瑞秋",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "數位訊號處理",
+        "影像/視訊處理",
+        "影像/視訊壓縮",
+        "沉浸式影像/視訊壓縮串流技術",
+        "生醫應用",
+        "人工智慧"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "rachel@ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "李朝陽",
+      "title": "副教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "智慧無人機",
+        "大型語言模型/ChatGPT",
+        "生成式AI"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "nelsorn@gmail.com",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "朱元三",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "超大型積體電路與系統設計",
+        "通訊IC設計",
+        "多媒體IC設計",
+        "呼吸與聲音信號處理"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "chu@ee.ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "王進賢",
+      "title": "特聘教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "晶片系統設計",
+        "低電壓低功率積體電路設計",
+        "抗變異奈米積體電路設計",
+        "嵌入式記憶"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "ieegsw@ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "葉經緯",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "嵌入式系統設計",
+        "超大型積體電路與系統設計",
+        "影像及語音處理之神經網路軟硬體設計"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "ieecwy@ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "吳承崧",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "電腦網路",
+        "網路設計與分析",
+        "通訊理論",
+        "排隊理論"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "ieecsw@ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "林惠勇",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "電腦視覺",
+        "機器學習",
+        "機器人學"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "hueiyung.tp@gmail.com",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "黃崇勛",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "高效能數位積體電路設計",
+        "低功率數位系統與電路設計",
+        "電源管理積體電路",
+        "顯示器控制器積體電路"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "ieechh@ccu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    }
+  ]
+}
