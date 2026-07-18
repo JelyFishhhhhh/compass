@@ -21,9 +21,11 @@ export default function App() {
   return (
     <div className="app">
       <header>
-        <h1>台灣國立大學資訊領域教授查詢</h1>
+        <h1>COMPASS</h1>
+        <p className="tagline">台灣國立大學資訊領域教授查詢 · Comprehensive Professor and School Search System</p>
         <input
           type="search"
+          aria-label="搜尋"
           placeholder="搜尋姓名、實驗室、研究領域…"
           value={query}
           onChange={(e) => setQuery(e.target.value)}
