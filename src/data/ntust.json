@@ -1,0 +1,1470 @@
+{
+  "school": "台科大",
+  "schoolFull": "國立臺灣科技大學",
+  "professors": [
+    {
+      "name": "鍾國亮",
+      "title": "講座教授",
+      "dept": "資訊工程系",
+      "deptType": "資工",
+      "areas": [
+        "深度學習理論與應用",
+        "影像處理與視訊壓縮",
+        "彩色影像處理與應用"
+      ],
+      "lab": "圖像暨視訊多媒體實驗室 (RB505)",
+      "website": "http://faculty.csie.ntust.edu.tw/~klchung/",
+      "email": "klchung01@gmail.com",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "馮輝文",
+      "title": "特聘教授",
+      "dept": "資訊工程系",
+      "deptType": "資工",
+      "areas": [
+        "深度強化學習",
+        "元學習",
+        "資訊安全",
+        "網路安全",
+        "5G與次世代行動網路",
+        "物聯網",
+        "無線通訊/行動計算",
+        "交通網路",
+        "人工智慧應用",
+        "進階網路技術設計",
+        "模擬技術",
+        "排隊理論",
+        "效能分析"
+      ],
+      "lab": "無線通訊與網路工程實驗室 (RB306-2)",
+      "website": "http://faculty.csie.ntust.edu.tw/~hwferng/",
+      "email": "hwferng@csie.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "黃元欣",
+      "title": "教授",
+      "dept": "資訊工程系",
+      "deptType": "資工",
+      "areas": [
+        "編譯器",
+        "平行處理",
+        "程式語言"
+      ],
+      "lab": "高效能計算實驗室 (RB308-1)",
+      "website": "http://faculty.csie.ntust.edu.tw/~shin/",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "戴文凱",
+      "title": "教授",
+      "dept": "資訊工程系",
+      "deptType": "資工",
+      "areas": [],
+      "lab": "GAME Lab (RB-506)",
+      "website": "http://faculty.csie.ntust.edu.tw/~wktai/",
+      "email": "wktai@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "謝仁偉",
+      "title": "教授",
+      "dept": "資訊工程系",
+      "deptType": "資工",
+      "areas": [
+        "即時系統",
+        "先進高效能儲存系統"
+      ],
+      "lab": "即時暨嵌入式系統實驗室 (RB306-1)",
+      "website": "http://faculty.csie.ntust.edu.tw/~jenwei/index_chinese.html",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "鮑興國",
+      "title": "教授",
+      "dept": "資訊工程系",
+      "deptType": "資工",
+      "areas": [
+        "機器學習",
+        "資料科學",
+        "電腦視覺",
+        "資訊安全"
+      ],
+      "lab": "機器學習實驗室 (RB304-3)",
+      "website": "https://linker3-csie-ntust.github.io/MLwebsite/",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "鄧惟中",
+      "title": "教授",
+      "dept": "資訊工程系",
+      "deptType": "資工",
+      "areas": [
+        "網路安全",
+        "網路通訊協定",
+        "人機介面"
+      ],
+      "lab": "系統操控與網路安全實驗室 (RB304-2)",
+      "website": "http://faculty.csie.ntust.edu.tw/~weichung/",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "花凱龍",
+      "title": "教授",
+      "dept": "資訊工程系",
+      "deptType": "資工",
+      "areas": [
+        "多媒體大數據",
+        "深度學習",
+        "電腦視覺",
+        "行動多媒體應用",
+        "APP 程式開發"
+      ],
+      "lab": "多媒體暨視覺運算實驗室 (RB-308-2)",
+      "website": "http://faculty.csie.ntust.edu.tw/~hua/",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "賴祐吉",
+      "title": "教授",
+      "dept": "資訊工程系",
+      "deptType": "資工",
+      "areas": [
+        "電腦遊戲技術",
+        "電腦圖學",
+        "電腦影像生成",
+        "電腦動畫",
+        "三D模型重建",
+        "電腦視覺"
+      ],
+      "lab": "醫揚大樓504",
+      "website": "http://dgmm.csie.ntust.edu.tw/",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "鄭欣明",
+      "title": "教授",
+      "dept": "資訊工程系",
+      "deptType": "資工",
+      "areas": [
+        "5G/6G網路安全",
+        "物聯網系統安全",
+        "惡意程式分析",
+        "人工智慧安全"
+      ],
+      "lab": "連結性實驗室 (RB507)",
+      "website": "https://faculty.csie.ntust.edu.tw/~smcheng/",
+      "email": "smcheng@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "金台齡",
+      "title": "教授",
+      "dept": "資訊工程系",
+      "deptType": "資工",
+      "areas": [
+        "智慧計算",
+        "雲端及邊緣計算",
+        "智慧型物聯網",
+        "人工智慧地震偵測與預警",
+        "無線網路技術"
+      ],
+      "lab": "行動計算與網路實驗室 (E1-201-3)",
+      "website": "http://faculty.csie.ntust.edu.tw/~tchin/",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "項天瑞",
+      "title": "副教授",
+      "dept": "資訊工程系",
+      "deptType": "資工",
+      "areas": [
+        "機器人行動規劃",
+        "無線感測網路",
+        "幾何計算"
+      ],
+      "lab": "空間計算實驗室 (RB303)",
+      "website": "http://gcsn.csie.ntust.edu.tw/",
+      "email": "trhsiang@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "戴碧如",
+      "title": "副教授",
+      "dept": "資訊工程系",
+      "deptType": "資工",
+      "areas": [
+        "資料探勘",
+        "串流資料管理",
+        "生物資訊"
+      ],
+      "lab": "知識探索暨資料探勘實驗室 (TR-520)",
+      "website": "https://kdd.csie.ntust.edu.tw/",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "吳怡樂",
+      "title": "副教授",
+      "dept": "資訊工程系",
+      "deptType": "資工",
+      "areas": [
+        "資料庫系統",
+        "資料探勘",
+        "地理資訊系統",
+        "多媒體資料庫",
+        "影像分類"
+      ],
+      "lab": "智慧型資料庫實驗室 (RB-306-3)",
+      "website": "http://faculty.csie.ntust.edu.tw/~ywu/",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "姚智原",
+      "title": "副教授",
+      "dept": "資訊工程系",
+      "deptType": "資工",
+      "areas": [
+        "電腦圖學",
+        "電腦視覺",
+        "延展實境",
+        "人機互動",
+        "醫療影像3D重建"
+      ],
+      "lab": "醫揚大樓6樓",
+      "website": "https://ntust-ddrc.com/",
+      "email": "cy.yao@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "劉一宇",
+      "title": "副教授",
+      "dept": "資訊工程系",
+      "deptType": "資工",
+      "areas": [
+        "電子設計自動化及電腦輔助設計",
+        "多核心計算架構",
+        "可程式化電路設計及嵌入式系統設計"
+      ],
+      "lab": "電腦輔助設計實驗室 (LB-002)",
+      "website": "https://sites.google.com/csie.ntust.edu.tw/cadlab/",
+      "email": "yyliu@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "沈上翔",
+      "title": "副教授",
+      "dept": "資訊工程系",
+      "deptType": "資工",
+      "areas": [
+        "軟體定義網路",
+        "雲端計算",
+        "內容中心網路(CCN)"
+      ],
+      "lab": "雲端計算暨網路實驗室 (RB307-1)",
+      "website": "https://sites.google.com/view/sshen/",
+      "email": "sshen@csie.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳冠宇",
+      "title": "副教授",
+      "dept": "資訊工程系",
+      "deptType": "資工",
+      "areas": [
+        "資訊檢索",
+        "文件摘要",
+        "語音辨識",
+        "自然語言處理",
+        "深度機器學習"
+      ],
+      "lab": "自然語言處理實驗室 (E1-222-3/E1-222-5)",
+      "website": "https://nlp.csie.ntust.edu.tw/",
+      "email": "kychen@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳怡伶",
+      "title": "副教授",
+      "dept": "資訊工程系",
+      "deptType": "資工",
+      "areas": [
+        "社群網路分析",
+        "資料探勘",
+        "機器學習",
+        "普及運算"
+      ],
+      "lab": "資料探勘與社群網路分析實驗室 (RB-308-3)",
+      "website": "https://sites.google.com/view/yilingchen",
+      "email": "yiling@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "周詩梵",
+      "title": "助理教授",
+      "dept": "資訊工程系",
+      "deptType": "資工",
+      "areas": [
+        "區塊鏈網路",
+        "5G/6G無線與行動網路",
+        "寬頻蜂巢式網路",
+        "效能建模與分析"
+      ],
+      "lab": "下世代通訊與網路實驗室 (E1-201-1)",
+      "website": "https://sfchou.github.io/website/",
+      "email": "sfchou@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "王紹睿",
+      "title": "助理教授",
+      "dept": "資訊工程系",
+      "deptType": "資工",
+      "areas": [
+        "人工智慧安全",
+        "大語言模型安全",
+        "惡意威脅偵測",
+        "隱私強化技術",
+        "工業控制系統安全",
+        "多媒體安全"
+      ],
+      "lab": "資訊安全與人工智慧實驗室 (E1-201-5)",
+      "website": "https://sites.google.com/view/shaojuiwang",
+      "email": "shaojuiwang@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "林佳志",
+      "title": "助理教授",
+      "dept": "資訊工程系",
+      "deptType": "資工",
+      "areas": [
+        "硬體信任根",
+        "可信任執行環境",
+        "人工智慧安全與隱私保護",
+        "安全邊緣運算"
+      ],
+      "lab": "RB-307-3",
+      "website": "",
+      "email": "cclin@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "連翊涵",
+      "title": "助理教授",
+      "dept": "資訊工程系",
+      "deptType": "資工",
+      "areas": [
+        "記憶體與儲存系統",
+        "檔案系統",
+        "作業系統",
+        "嵌入式系統",
+        "資料結構與演算法設計"
+      ],
+      "lab": "儲存暨系統設計實驗室 (RB-307-2)",
+      "website": "https://yhlien.wordpress.com/",
+      "email": "yhlien@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "蕭凱文",
+      "title": "助理教授",
+      "dept": "資訊工程系",
+      "deptType": "資工",
+      "areas": [
+        "電腦圖學",
+        "三維建模",
+        "生成式人工智慧",
+        "延展實境"
+      ],
+      "lab": "電腦圖學實驗室 (E1-201-6)",
+      "website": "https://sites.google.com/view/kaiwenhsiao/profile",
+      "email": "kevinhsiao@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "盧希鵬",
+      "title": "特聘教授",
+      "dept": "資訊管理系",
+      "deptType": "資管",
+      "areas": [
+        "電子商務",
+        "數位轉型",
+        "隨經濟"
+      ],
+      "lab": "",
+      "website": "https://www.cs.ntust.edu.tw/p/406-1102-104686,r2079.php?Lang=zh-tw",
+      "email": "hsipeng@cs.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳正綱",
+      "title": "教授",
+      "dept": "資訊管理系",
+      "deptType": "資管",
+      "areas": [
+        "作業研究",
+        "生產管理資訊系統",
+        "決策支援系統"
+      ],
+      "lab": "",
+      "website": "https://www.cs.ntust.edu.tw/p/406-1102-105847,r2079.php?Lang=zh-tw",
+      "email": "ckchen@cs.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "賴源正",
+      "title": "特聘教授",
+      "dept": "資訊管理系",
+      "deptType": "資管",
+      "areas": [
+        "AI+網路(安全)",
+        "網路+AI",
+        "AI+FINTECH"
+      ],
+      "lab": "",
+      "website": "https://www.cs.ntust.edu.tw/p/406-1102-105880,r2079.php?Lang=zh-tw",
+      "email": "laiyc@cs.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "黃世禎",
+      "title": "教授",
+      "dept": "資訊管理系",
+      "deptType": "資管",
+      "areas": [
+        "軟體工程技術",
+        "軟體專案管理",
+        "敏捷思維與實踐",
+        "資訊安全與軟體品質",
+        "資訊服務創新應用"
+      ],
+      "lab": "",
+      "website": "https://seml-ntust.web.app/",
+      "email": "huangsj@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "周子銓",
+      "title": "教授",
+      "dept": "資訊管理系",
+      "deptType": "資管",
+      "areas": [
+        "個案研究法－通過個案研究方法，探討企業經營的實務智慧。研究聚焦－數位化賦能(digital enablement)的創新商業模式(Business Models)",
+        "數位化賦能的社會創新(Social Innovations)",
+        "資訊科技管理",
+        "知識管理",
+        "社會企業個案"
+      ],
+      "lab": "",
+      "website": "https://www.cs.ntust.edu.tw/p/406-1102-105949,r2079.php?Lang=zh-tw",
+      "email": "tcchou@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "楊傳凱",
+      "title": "教授",
+      "dept": "資訊管理系",
+      "deptType": "資管",
+      "areas": [
+        "多媒體系統",
+        "電腦繪圖",
+        "科學視覺化",
+        "演算法",
+        "計算幾何"
+      ],
+      "lab": "",
+      "website": "https://www.cs.ntust.edu.tw/p/406-1102-105975,r2079.php?Lang=zh-tw",
+      "email": "ckyang@cs.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "羅乃維",
+      "title": "教授",
+      "dept": "資訊管理系",
+      "deptType": "資管",
+      "areas": [
+        "資訊安全",
+        "車聯網",
+        "區塊鏈",
+        "物聯網",
+        "雲端計算",
+        "網路技術",
+        "RFID"
+      ],
+      "lab": "",
+      "website": "https://www.cs.ntust.edu.tw/p/406-1102-105977,r2079.php?Lang=zh-tw",
+      "email": "nwlo@cs.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "查士朝",
+      "title": "教授",
+      "dept": "資訊管理系",
+      "deptType": "資管",
+      "areas": [
+        "資訊安全管理",
+        "IT 組織轉型與價值管理",
+        "專案管理",
+        "分散式資訊系統"
+      ],
+      "lab": "",
+      "website": "https://sites.google.com/cs.ntust.edu.tw/shihchaocha",
+      "email": "csc@cs.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "朱宇倩",
+      "title": "教授",
+      "dept": "資訊管理系",
+      "deptType": "資管",
+      "areas": [
+        "AI的採用及管理",
+        "資訊隱私"
+      ],
+      "lab": "",
+      "website": "https://www.cs.ntust.edu.tw/p/406-1102-105951,r2079.php?Lang=zh-tw",
+      "email": "yzhu@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "林伯慎",
+      "title": "副教授",
+      "dept": "資訊管理系",
+      "deptType": "資管",
+      "areas": [
+        "語音辨識",
+        "語言理解",
+        "人機互動",
+        "音樂檢索",
+        "人工智慧",
+        "機器學習"
+      ],
+      "lab": "",
+      "website": "https://www.cs.ntust.edu.tw/p/406-1102-105979,r2079.php?Lang=zh-tw",
+      "email": "bslin@cs.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "魏小蘭",
+      "title": "副教授",
+      "dept": "資訊管理系",
+      "deptType": "資管",
+      "areas": [
+        "供應鍊管理",
+        "企業資源規劃",
+        "生產管理",
+        "跨組織資訊系統"
+      ],
+      "lab": "",
+      "website": "https://www.cs.ntust.edu.tw/p/406-1102-105952,r2079.php?Lang=zh-tw",
+      "email": "hlwei@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "林俊叡",
+      "title": "副教授",
+      "dept": "資訊管理系",
+      "deptType": "資管",
+      "areas": [
+        "資訊安全與威脅狩獵",
+        "數位鑑識",
+        "人工智慧輔助狩獵",
+        "資訊安全資料交換標準",
+        "敏捷開發",
+        "資訊安全與隱私設計"
+      ],
+      "lab": "",
+      "website": "https://www.cs.ntust.edu.tw/p/406-1102-115538,r2079.php?Lang=zh-tw",
+      "email": "raymundlin@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "黃政嘉",
+      "title": "副教授",
+      "dept": "資訊管理系",
+      "deptType": "資管",
+      "areas": [
+        "資訊與通訊安全",
+        "應用密碼學",
+        "安全協定",
+        "資訊安全管理"
+      ],
+      "lab": "",
+      "website": "https://www.cs.ntust.edu.tw/p/406-1102-105983,r2079.php?Lang=zh-tw",
+      "email": "jhengjia.huang@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "洪政煌",
+      "title": "助理教授",
+      "dept": "資訊管理系",
+      "deptType": "資管",
+      "areas": [
+        "作業研究",
+        "物流",
+        "最佳化理論"
+      ],
+      "lab": "",
+      "website": "https://www.cs.ntust.edu.tw/p/406-1102-105980,r2079.php?Lang=zh-tw",
+      "email": "alexhung@cs.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "蔡明憲",
+      "title": "助理教授",
+      "dept": "資訊管理系",
+      "deptType": "資管",
+      "areas": [
+        "正規方法",
+        "程式驗證",
+        "時態邏輯",
+        "自動機",
+        "模型檢驗",
+        "定理證明"
+      ],
+      "lab": "",
+      "website": "https://www.cs.ntust.edu.tw/p/406-1102-121077,r2079.php?Lang=zh-tw",
+      "email": "mhtsai@cs.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "邱建樺",
+      "title": "助理教授",
+      "dept": "資訊管理系",
+      "deptType": "資管",
+      "areas": [
+        "網路安全",
+        "物聯網安全",
+        "人工智慧與機器學習"
+      ],
+      "lab": "",
+      "website": "https://www.cs.ntust.edu.tw/p/406-1102-127066,r2079.php?Lang=zh-tw",
+      "email": "williamchiu@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "林筱玫",
+      "title": "助理教授",
+      "dept": "資訊管理系",
+      "deptType": "資管",
+      "areas": [
+        "人工智慧",
+        "物聯網",
+        "數位孿生",
+        "設計思考",
+        "創新創業"
+      ],
+      "lab": "",
+      "website": "https://www.cs.ntust.edu.tw/p/406-1102-136174,r2079.php?Lang=zh-tw",
+      "email": "Lydia.hmlin@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "蘇順豐",
+      "title": "講座教授",
+      "dept": "電機工程系",
+      "deptType": "電機",
+      "areas": [
+        "智慧型系統及其相關研究"
+      ],
+      "lab": "",
+      "website": "https://ee-r.ntust.edu.tw/var/file/27/1027/img/3347/sfsu.html",
+      "email": "sfsu@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "鍾聖倫",
+      "title": "教授",
+      "dept": "電機工程系",
+      "deptType": "電機",
+      "areas": [
+        "深度學習",
+        "自然語言處理",
+        "資料分析",
+        "區塊鍵"
+      ],
+      "lab": "",
+      "website": "https://ee-r.ntust.edu.tw/var/file/27/1027/img/3347/slchung.html",
+      "email": "slchung@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "郭景明",
+      "title": "特聘教授",
+      "dept": "電機工程系",
+      "deptType": "電機",
+      "areas": [
+        "多媒體訊號處理",
+        "數位影像處理",
+        "數位視訊處理",
+        "電腦視覺",
+        "數位半色調技術",
+        "數位浮水印技術",
+        "生物資訊辨識"
+      ],
+      "lab": "",
+      "website": "https://sites.google.com/site/mspeentust/郭景明教授",
+      "email": "jmguo@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "沈哲州",
+      "title": "特聘教授",
+      "dept": "電機工程系",
+      "deptType": "電機",
+      "areas": [
+        "醫用超音波影像",
+        "醫學影像與信號處理"
+      ],
+      "lab": "",
+      "website": "https://ee-r.ntust.edu.tw/var/file/27/1027/img/3347/choushen.html",
+      "email": "choushen@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "黃騰毅",
+      "title": "教授",
+      "dept": "電機工程系",
+      "deptType": "電機",
+      "areas": [
+        "雲端應用",
+        "磁共振影像系統",
+        "醫學電子儀器",
+        "生醫影像及信號處理",
+        "高效能平行GPU運算"
+      ],
+      "lab": "",
+      "website": "https://ee-r.ntust.edu.tw/var/file/27/1027/img/3347/tyhuang.html",
+      "email": "tyhuang@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陸敬互",
+      "title": "教授",
+      "dept": "電機工程系",
+      "deptType": "電機",
+      "areas": [
+        "物聯網技術與應用",
+        "智慧人機互動",
+        "智慧空間與情境感知應用",
+        "物聯網互動裝置之製作與應用"
+      ],
+      "lab": "",
+      "website": "https://ee-r.ntust.edu.tw/var/file/27/1027/img/3347/jhluh.html",
+      "email": "jhluh@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳建中",
+      "title": "副教授",
+      "dept": "電機工程系",
+      "deptType": "電機",
+      "areas": [
+        "影像視訊處理",
+        "多媒體通信",
+        "影像檢索"
+      ],
+      "lab": "",
+      "website": "https://ee-r.ntust.edu.tw/var/file/27/1027/img/3347/jjchen.html",
+      "email": "jjchen@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "黃啟賢",
+      "title": "助理教授",
+      "dept": "電機工程系",
+      "deptType": "電機",
+      "areas": [
+        "電腦視覺",
+        "嵌入式模型輕量化系統設計",
+        "醫學影像識別與隱私保護演算法設計",
+        "通訊協定演算法優化設計",
+        "物聯網安全協定設計"
+      ],
+      "lab": "",
+      "website": "https://ee-r.ntust.edu.tw/var/file/27/1027/img/3347/Xianboy6666.html",
+      "email": "Xianboy6666@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "呂學坤",
+      "title": "教授",
+      "dept": "電機工程系",
+      "deptType": "電機",
+      "areas": [
+        "超大型積體電路設計與測試",
+        "容錯計算",
+        "數位 IP 設計"
+      ],
+      "lab": "",
+      "website": "https://ee-r.ntust.edu.tw/var/file/27/1027/img/3347/sklu.html",
+      "email": "sklu@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "姚嘉瑜",
+      "title": "教授",
+      "dept": "電機工程系",
+      "deptType": "電機",
+      "areas": [
+        "VLSI 設計",
+        "信號處理",
+        "濾波器設計"
+      ],
+      "lab": "",
+      "website": "https://ee-r.ntust.edu.tw/var/file/27/1027/img/3347/chyao.html",
+      "email": "chyao@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳雅淑",
+      "title": "教授",
+      "dept": "電機工程系",
+      "deptType": "電機",
+      "areas": [
+        "軟硬體協同設計",
+        "近資料與記憶體內運算",
+        "智慧邊緣運算與物聯網系統"
+      ],
+      "lab": "",
+      "website": "https://ee-r.ntust.edu.tw/var/file/27/1027/img/3347/yschen.html",
+      "email": "yschen@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳筱青",
+      "title": "教授",
+      "dept": "電機工程系",
+      "deptType": "電機",
+      "areas": [
+        "無線通訊積體電路設計",
+        "感知無線電頻譜偵測系統設計",
+        "生醫應用電路設計"
+      ],
+      "lab": "",
+      "website": "https://ee-r.ntust.edu.tw/var/file/27/1027/img/3347/hcchen.html",
+      "email": "hcchen@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "方劭云",
+      "title": "教授",
+      "dept": "電機工程系",
+      "deptType": "電機",
+      "areas": [
+        "演算法設計與最佳化",
+        "電子設計自動化",
+        "奈米積體電路實體設計",
+        "製造可行性/可靠性設計"
+      ],
+      "lab": "",
+      "website": "https://ee-r.ntust.edu.tw/var/file/27/1027/img/3347/syfang.html",
+      "email": "syfang@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳元賀",
+      "title": "教授",
+      "dept": "電機工程系",
+      "deptType": "電機",
+      "areas": [
+        "數位IC設計",
+        "AI加速器晶片設計",
+        "FPGA電路設計"
+      ],
+      "lab": "",
+      "website": "https://ee-r.ntust.edu.tw/var/file/27/1027/img/3347/chenyh.html",
+      "email": "chenyh@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "盛鐸",
+      "title": "教授",
+      "dept": "電機工程系",
+      "deptType": "電機",
+      "areas": [
+        "數位IC設計",
+        "全數位時脈產生器設計",
+        "生醫積體電路設計"
+      ],
+      "lab": "",
+      "website": "https://ee-r.ntust.edu.tw/var/file/27/1027/img/3347/duosheng.html",
+      "email": "duosheng@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳勇志",
+      "title": "副教授",
+      "dept": "電機工程系",
+      "deptType": "電機",
+      "areas": [
+        "電子設計自動化",
+        "邏輯電路合成",
+        "最佳化與驗證",
+        "硬體安全設計自動化/可靠性設計"
+      ],
+      "lab": "",
+      "website": "https://ee-r.ntust.edu.tw/var/file/27/1027/img/3347/ycchen.ee.html",
+      "email": "ycchen.ee@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳俊良",
+      "title": "特聘教授",
+      "dept": "電機工程系",
+      "deptType": "電機",
+      "areas": [
+        "計算機網路",
+        "資訊安全",
+        "行動通訊",
+        "人工智慧應用"
+      ],
+      "lab": "",
+      "website": "https://sites.google.com/view/wnec-lab/陳俊良教授",
+      "email": "Lchen@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "謝易錚",
+      "title": "教授",
+      "dept": "電機工程系",
+      "deptType": "電機",
+      "areas": [
+        "電腦視覺",
+        "影像處理",
+        "機器學習",
+        "深度學習",
+        "人機互動",
+        "機器人應用"
+      ],
+      "lab": "",
+      "website": "https://ee-r.ntust.edu.tw/var/file/27/1027/img/3347/yzhsieh.html",
+      "email": "yzhsieh@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "馬奕葳",
+      "title": "副教授",
+      "dept": "電機工程系",
+      "deptType": "電機",
+      "areas": [
+        "物聯網(Internet of Things)",
+        "軟體定義網路(Software-defined Networking)",
+        "網路功能虛擬化(Network Function Virtualization)"
+      ],
+      "lab": "",
+      "website": "https://ee-r.ntust.edu.tw/var/file/27/1027/img/3347/ywma.html",
+      "email": "ywma@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "黃意婷",
+      "title": "助理教授",
+      "dept": "電機工程系",
+      "deptType": "電機",
+      "areas": [
+        "資訊安全",
+        "惡意程式分析",
+        "深度學習",
+        "自然語言處理與應用"
+      ],
+      "lab": "",
+      "website": "https://ee-r.ntust.edu.tw/var/file/27/1027/img/3347/ythuang.html",
+      "email": "ythuang@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "鍾順平",
+      "title": "教授",
+      "dept": "電機工程系",
+      "deptType": "電機",
+      "areas": [
+        "無線/行動通訊",
+        "寬頻網路",
+        "排隊理論"
+      ],
+      "lab": "",
+      "website": "https://ee-r.ntust.edu.tw/var/file/27/1027/img/3347/spchung.html",
+      "email": "spchung@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "曾德峰",
+      "title": "副教授",
+      "dept": "電機工程系",
+      "deptType": "電機",
+      "areas": [
+        "無線通訊系統",
+        "電力線通訊",
+        "統計訊號處理",
+        "感知無線電",
+        "軟體無線電",
+        "通道編解碼技術"
+      ],
+      "lab": "",
+      "website": "https://ee-r.ntust.edu.tw/var/file/27/1027/img/3347/dtseng.html",
+      "email": "dtseng@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "張立中",
+      "title": "副教授",
+      "dept": "電機工程系",
+      "deptType": "電機",
+      "areas": [
+        "無線通訊",
+        "實體層傳輸技術",
+        "通訊安全"
+      ],
+      "lab": "",
+      "website": "https://ee-r.ntust.edu.tw/var/file/27/1027/img/3347/lichung.html",
+      "email": "lichung@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "阮聖彰",
+      "title": "特聘教授",
+      "dept": "電子工程系",
+      "deptType": "電機",
+      "areas": [
+        "Embedded Deep Neural Network Processing",
+        "Energy-Efficient Image Processing",
+        "Low power EDA/VLSI",
+        "Embedded Systems Design"
+      ],
+      "lab": "",
+      "website": "https://www.et.ntust.edu.tw/et/faculty.php?user=sjruan",
+      "email": "sjruan@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳維美",
+      "title": "教授",
+      "dept": "電子工程系",
+      "deptType": "電機",
+      "areas": [
+        "平行計算",
+        "GPU計算",
+        "資料探勘",
+        "大數據分析",
+        "演算法設計與分析"
+      ],
+      "lab": "",
+      "website": "https://www.et.ntust.edu.tw/et/faculty.php?user=wmchen",
+      "email": "wmchen@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "呂政修",
+      "title": "教授",
+      "dept": "電子工程系",
+      "deptType": "電機",
+      "areas": [
+        "B5G/6G技術",
+        "AI/ML平台",
+        "LLM相關應用開發",
+        "生醫資訊分析等(參考研究",
+        "產學計畫與論文主題)"
+      ],
+      "lab": "",
+      "website": "https://www.et.ntust.edu.tw/et/faculty.php?user=jsleu",
+      "email": "jsleu@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "吳晉賢",
+      "title": "教授",
+      "dept": "電子工程系",
+      "deptType": "電機",
+      "areas": [
+        "人工智慧/機器學習於系統之應用",
+        "固態硬碟內部的IC控制晶片之關鍵技術",
+        "非揮發性記憶體與儲存系統的關鍵技術",
+        "嵌入式系統/軟體"
+      ],
+      "lab": "",
+      "website": "https://www.et.ntust.edu.tw/et/faculty.php?user=chwu",
+      "email": "chwu@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳郁堂",
+      "title": "教授",
+      "dept": "電子工程系",
+      "deptType": "電機",
+      "areas": [
+        "自駕車感知系統",
+        "深度學習",
+        "機器學習",
+        "電腦視覺",
+        "人工智慧"
+      ],
+      "lab": "",
+      "website": "https://www.et.ntust.edu.tw/et/faculty.php?user=ytchen",
+      "email": "ytchen@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "林昌鴻",
+      "title": "教授",
+      "dept": "電子工程系",
+      "deptType": "電機",
+      "areas": [
+        "即時影像處理及動作分析",
+        "分散式智慧型攝影系統",
+        "嵌入式系統設計",
+        "低功率VLSI設計及熱能分析"
+      ],
+      "lab": "",
+      "website": "https://www.et.ntust.edu.tw/et/faculty.php?user=chlin",
+      "email": "chlin@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "林淵翔",
+      "title": "教授",
+      "dept": "電子工程系",
+      "deptType": "電機",
+      "areas": [
+        "嵌入式系統設計",
+        "生醫電子工程",
+        "FPGA系統設計與應用",
+        "穿戴式裝置設計",
+        "物聯網應用",
+        "基於影像的生理和活動信號偵測技術",
+        "健康照護",
+        "機器學習"
+      ],
+      "lab": "",
+      "website": "https://www.et.ntust.edu.tw/et/faculty.php?user=linyh",
+      "email": "linyh@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "沈中安",
+      "title": "教授",
+      "dept": "電子工程系",
+      "deptType": "電機",
+      "areas": [
+        "無線通訊與網路",
+        "數位訊號處理",
+        "數位積體電路設計",
+        "嵌入式系統設計"
+      ],
+      "lab": "",
+      "website": "https://www.et.ntust.edu.tw/et/faculty.php?user=cashen",
+      "email": "cashen@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳永耀",
+      "title": "教授",
+      "dept": "電子工程系",
+      "deptType": "電機",
+      "areas": [
+        "應用深度學習/AI技術於各種落地實證",
+        "嵌入式AI應用",
+        "影像自動化",
+        "機器視覺",
+        "電子影像系統",
+        "多媒體系統",
+        "自駕車感知"
+      ],
+      "lab": "",
+      "website": "https://www.et.ntust.edu.tw/et/faculty.php?user=yungyaochen",
+      "email": "yungyaochen@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "林敬舜",
+      "title": "助理教授",
+      "dept": "電子工程系",
+      "deptType": "電機",
+      "areas": [
+        "人工智慧/類神經網路/模糊理論",
+        "深度學習應用於視覺-聽覺訊號處理",
+        "多媒體系統開發(含影像處理與視訊處理)",
+        "基於圖形建構之影像重建",
+        "擴增實境與沉浸式系統建置",
+        "多重聲道合成與可視化",
+        "生物醫學圖像辨識",
+        "軟式計算"
+      ],
+      "lab": "",
+      "website": "https://www.et.ntust.edu.tw/et/faculty.php?user=chingshl",
+      "email": "CHINGSHL@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳奕伸",
+      "title": "助理教授",
+      "dept": "電子工程系",
+      "deptType": "電機",
+      "areas": [
+        "新興非揮發性記憶體與儲存技術",
+        "記憶體與儲存系統",
+        "嵌入式系統",
+        "人工智慧(AI)",
+        "記憶體內運算(In-Memory Computing)",
+        "智慧物聯網(AIoT)"
+      ],
+      "lab": "",
+      "website": "https://www.et.ntust.edu.tw/et/faculty.php?user=yschen",
+      "email": "yishen@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "宋啟嘉",
+      "title": "教授",
+      "dept": "電子工程系",
+      "deptType": "電機",
+      "areas": [
+        "數位晶片系統設計",
+        "可程式化邏輯電路",
+        "訊號處理",
+        "人工智慧",
+        "影像辨識"
+      ],
+      "lab": "",
+      "website": "https://www.et.ntust.edu.tw/et/faculty.php?user=chichiasun",
+      "email": "chichiasun@gm.ntpu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "鄭瑞光",
+      "title": "特聘教授",
+      "dept": "電子工程系",
+      "deptType": "電機",
+      "areas": [
+        "無線通訊網路協定技術(5G New Radio",
+        "B5G)",
+        "物聯網傳輸技術(NB-IoT",
+        "DDS)",
+        "物聯網平台技術(Thingworx)",
+        "人工智能(AI)為基礎的網路優化與數據分析"
+      ],
+      "lab": "",
+      "website": "https://www.et.ntust.edu.tw/et/faculty.php?user=crg",
+      "email": "crg@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "方文賢",
+      "title": "教授",
+      "dept": "電子工程系",
+      "deptType": "電機",
+      "areas": [
+        "影像及視訊信號處理",
+        "機器學習",
+        "統計信號處理",
+        "陣列信號處理",
+        "無線通訊"
+      ],
+      "lab": "",
+      "website": "https://www.et.ntust.edu.tw/et/faculty.php?user=whf",
+      "email": "whf@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "李佩君",
+      "title": "教授",
+      "dept": "電子工程系",
+      "deptType": "電機",
+      "areas": [
+        "人工智慧影像處理",
+        "影片壓縮",
+        "衛星影像處理和FPGA系統應用"
+      ],
+      "lab": "",
+      "website": "https://www.et.ntust.edu.tw/et/faculty.php?user=pjlee",
+      "email": "pjlee@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "賴坤財",
+      "title": "副教授",
+      "dept": "電子工程系",
+      "deptType": "電機",
+      "areas": [
+        "數位影像處理",
+        "數位通信技術與系統",
+        "小波理論之應用"
+      ],
+      "lab": "",
+      "website": "https://www.et.ntust.edu.tw/et/faculty.php?user=laykt",
+      "email": "laykt@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "林益如",
+      "title": "副教授",
+      "dept": "電子工程系",
+      "deptType": "電機",
+      "areas": [
+        "磁振造影",
+        "醫學訊號影像處理"
+      ],
+      "lab": "",
+      "website": "https://www.et.ntust.edu.tw/et/faculty.php?user=yrlin",
+      "email": "yrlin@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "王煥宗",
+      "title": "副教授",
+      "dept": "電子工程系",
+      "deptType": "電機",
+      "areas": [
+        "物聯網通訊IC設計",
+        "通訊收發機設計",
+        "通訊嵌入式系統設計",
+        "5G行動通訊"
+      ],
+      "lab": "",
+      "website": "https://www.et.ntust.edu.tw/et/faculty.php?user=hcwang",
+      "email": "hcwang@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "黃琴雅",
+      "title": "副教授",
+      "dept": "電子工程系",
+      "deptType": "電機",
+      "areas": [
+        "B5G/6G mmWave Communication and Networking",
+        "5G Security",
+        "SDN/NFV"
+      ],
+      "lab": "",
+      "website": "https://www.et.ntust.edu.tw/et/faculty.php?user=ya",
+      "email": "chinya@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "王瑞堂",
+      "title": "副教授",
+      "dept": "電子工程系",
+      "deptType": "電機",
+      "areas": [
+        "IoT Application business model",
+        "design and implementation",
+        "Service Architecture and Security",
+        "System Architecture",
+        "Network Protocol"
+      ],
+      "lab": "",
+      "website": "https://www.et.ntust.edu.tw/et/faculty.php?user=rtwang",
+      "email": "rtwang@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "徐繼聖",
+      "title": "教授",
+      "dept": "電子工程系",
+      "deptType": "電機",
+      "areas": [
+        "Computer Vision",
+        "Deep Learning"
+      ],
+      "lab": "",
+      "website": "https://www.et.ntust.edu.tw/et/faculty.php?user=jison",
+      "email": "jison@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    }
+  ]
+}

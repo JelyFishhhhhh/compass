@@ -1,0 +1,1274 @@
+{
+  "school": "北科大",
+  "schoolFull": "國立臺北科技大學",
+  "professors": [
+    {
+      "name": "劉建宏",
+      "title": "教授",
+      "dept": "資訊工程系",
+      "deptType": "資工",
+      "areas": [
+        "軟體工程",
+        "軟體測試",
+        "軟體開發"
+      ],
+      "lab": "科研大樓1523室",
+      "website": "https://ntutselab.github.io/index_zh.html",
+      "email": "cliu@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "楊士萱",
+      "title": "教授",
+      "dept": "資訊工程系",
+      "deptType": "資工",
+      "areas": [
+        "深度學習在多媒體之應用",
+        "視訊編碼與傳輸",
+        "網路安全"
+      ],
+      "lab": "科研大樓1525室",
+      "website": "https://academic.ntut.edu.tw/1781/1556/1854/",
+      "email": "shyang@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "鄭有進",
+      "title": "教授",
+      "dept": "資訊工程系",
+      "deptType": "資工",
+      "areas": [
+        "軟體工程",
+        "程式設計"
+      ],
+      "lab": "科研大樓1531室",
+      "website": "https://academic.ntut.edu.tw/softwaresystemlab/",
+      "email": "yccheng@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "吳和庭",
+      "title": "教授",
+      "dept": "資訊工程系",
+      "deptType": "資工",
+      "areas": [
+        "網路協定設計",
+        "通訊網路模擬",
+        "多媒體網路系統",
+        "網路效能評估"
+      ],
+      "lab": "科研大樓1528室",
+      "website": "",
+      "email": "htwu@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "劉傳銘",
+      "title": "教授",
+      "dept": "資訊工程系",
+      "deptType": "資工",
+      "areas": [
+        "新興計算環境下資料管理",
+        "空間資料管理",
+        "平行與分散式計算"
+      ],
+      "lab": "科研大樓1530室",
+      "website": "",
+      "email": "cmliu@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳彥霖",
+      "title": "教授",
+      "dept": "資訊工程系",
+      "deptType": "資工",
+      "areas": [
+        "智慧影像分析",
+        "智慧車載與無人載具視覺感知",
+        "自然人機互動",
+        "智慧製造物聯網"
+      ],
+      "lab": "科研大樓1522室",
+      "website": "https://sites.google.com/view/yen-lin-chen-pw/",
+      "email": "ylchen@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "郭忠義",
+      "title": "教授",
+      "dept": "資訊工程系",
+      "deptType": "資工",
+      "areas": [
+        "軟體工程",
+        "智慧型系統",
+        "物件導向設計",
+        "雲端運算"
+      ],
+      "lab": "科研大樓1527室",
+      "website": "https://academic.ntut.edu.tw/jykuo/",
+      "email": "jykuo@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "白敦文",
+      "title": "教授",
+      "dept": "資訊工程系",
+      "deptType": "資工",
+      "areas": [
+        "生物資訊",
+        "醫學資訊",
+        "影像分析",
+        "圖形辨識"
+      ],
+      "lab": "科研大樓1524室",
+      "website": "https://ntut-biolab.github.io/index.html",
+      "email": "twp@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "王正豪",
+      "title": "教授",
+      "dept": "資訊工程系",
+      "deptType": "資工",
+      "areas": [
+        "社群網路探勘",
+        "資訊安全",
+        "分散式系統",
+        "巨量資料分析"
+      ],
+      "lab": "科研大樓1534室",
+      "website": "https://chriswjh.github.io/",
+      "email": "jhwang@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "林惠勇",
+      "title": "教授",
+      "dept": "資訊工程系",
+      "deptType": "資工",
+      "areas": [
+        "電腦視覺",
+        "機器學習",
+        "機器人學"
+      ],
+      "lab": "科研大樓1526室",
+      "website": "https://ntut-rvl.github.io/web/",
+      "email": "lin@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳昱圻",
+      "title": "教授",
+      "dept": "資訊工程系",
+      "deptType": "資工",
+      "areas": [
+        "密碼學",
+        "隱私強化技術",
+        "永續計算",
+        "AI安全與保密"
+      ],
+      "lab": "科研大樓1529室",
+      "website": "https://cislab-ntut.github.io/",
+      "email": "wycchen@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "謝東儒",
+      "title": "教授",
+      "dept": "資訊工程系",
+      "deptType": "資工",
+      "areas": [
+        "電腦圖學",
+        "電腦視覺",
+        "機器學習",
+        "大數據視覺化",
+        "前端網頁程式設計"
+      ],
+      "lab": "科研大樓1535室",
+      "website": "https://tjhsieh.github.io/",
+      "email": "tjhsieh@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "江佩穎",
+      "title": "副教授",
+      "dept": "資訊工程系",
+      "deptType": "資工",
+      "areas": [
+        "電腦圖學",
+        "擴增實境",
+        "風格化繪圖",
+        "人機互動",
+        "手勢辨識"
+      ],
+      "lab": "科研大樓1625室",
+      "website": "",
+      "email": "peiyingc@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "張世豪",
+      "title": "副教授",
+      "dept": "資訊工程系",
+      "deptType": "資工",
+      "areas": [
+        "資訊安全",
+        "工業物聯網",
+        "雲端運算",
+        "人工智慧"
+      ],
+      "lab": "科研大樓1532室",
+      "website": "https://sites.google.com/view/ntut-ticslab",
+      "email": "sh.chang@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳香君",
+      "title": "助理教授",
+      "dept": "資訊工程系",
+      "deptType": "資工",
+      "areas": [
+        "軟體安全",
+        "軟體測試",
+        "通訊",
+        "有限元素"
+      ],
+      "lab": "科研大樓1627室",
+      "website": "",
+      "email": "annette@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "孫勤昱",
+      "title": "助理教授",
+      "dept": "資訊工程系",
+      "deptType": "資工",
+      "areas": [
+        "密碼學",
+        "資訊安全",
+        "網路安全",
+        "網路攻防技術"
+      ],
+      "lab": "科研大樓1626室",
+      "website": "https://is1ab.com/",
+      "email": "cysun@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "何承運",
+      "title": "助理教授",
+      "dept": "資訊工程系",
+      "deptType": "資工",
+      "areas": [
+        "人工智慧與機器學習",
+        "電腦網路與通訊",
+        "資訊安全"
+      ],
+      "lab": "科研大樓1533室",
+      "website": "",
+      "email": "cyho@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "翁頌舜",
+      "title": "教授",
+      "dept": "資訊與財金管理系",
+      "deptType": "資管",
+      "areas": [
+        "大數據分析與應用",
+        "人工智慧應用",
+        "金融科技",
+        "資料探勘",
+        "電子商務/行動商務",
+        "顧客關係管理"
+      ],
+      "lab": "商業智慧管理研究發展中心（宏裕科技研究大樓 635）",
+      "website": "https://ifm.ntut.edu.tw/p/405-1083-124365,c16785.php?Lang=zh-tw",
+      "email": "wengss@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "林淑玲",
+      "title": "教授",
+      "dept": "資訊與財金管理系",
+      "deptType": "資管",
+      "areas": [
+        "ESG與責任投資",
+        "財務管理",
+        "投資決策管理",
+        "金融風險管理",
+        "財務計量分析"
+      ],
+      "lab": "金融投資與風險管理實驗室（宏裕科技研究大樓 924）",
+      "website": "https://ifm.ntut.edu.tw/p/405-1083-124367,c16785.php?Lang=zh-tw",
+      "email": "shulingntut@gmail.com",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "丁秀儀",
+      "title": "教授",
+      "dept": "資訊與財金管理系",
+      "deptType": "資管",
+      "areas": [
+        "公司理財",
+        "公司治理",
+        "永續金融",
+        "CEO特徵",
+        "女性領導力"
+      ],
+      "lab": "永續金融實驗室（宏裕科技研究大樓 531）",
+      "website": "https://ifm.ntut.edu.tw/p/405-1083-124368,c16785.php?Lang=zh-tw",
+      "email": "hiting@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "王貞淑",
+      "title": "教授",
+      "dept": "資訊與財金管理系",
+      "deptType": "資管",
+      "areas": [
+        "機器學習",
+        "生成式 AI",
+        "AI Agent",
+        "自然語言處理",
+        "假新聞與社群媒體偵測",
+        "金融科技",
+        "創新教學實踐"
+      ],
+      "lab": "金融數據分析科學實驗室（宏裕科技研究大樓 531）",
+      "website": "https://ifm.ntut.edu.tw/p/405-1083-124369,c16785.php?Lang=zh-tw",
+      "email": "wangcs@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳煒朋",
+      "title": "教授",
+      "dept": "資訊與財金管理系",
+      "deptType": "資管",
+      "areas": [
+        "市場微結構",
+        "期貨選擇權",
+        "風險管理",
+        "公司治理"
+      ],
+      "lab": "指數型商品實驗室（宏裕科技研究大樓 531）",
+      "website": "https://ifm.ntut.edu.tw/p/405-1083-124370,c16785.php?Lang=zh-tw",
+      "email": "wpc@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "鄭麗珍",
+      "title": "教授",
+      "dept": "資訊與財金管理系",
+      "deptType": "資管",
+      "areas": [
+        "機器學習與數據分析",
+        "數位金融",
+        "智慧行銷",
+        "社群運算",
+        "企業智慧"
+      ],
+      "lab": "金融科技與智慧行銷實驗室（宏裕科技研究大樓 B325-1）",
+      "website": "https://ifm.ntut.edu.tw/p/405-1083-142582,c16785.php?Lang=zh-tw",
+      "email": "jessicacheng@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "吳牧恩",
+      "title": "教授",
+      "dept": "資訊與財金管理系",
+      "deptType": "資管",
+      "areas": [
+        "金融資料分析",
+        "資金管理",
+        "預測市場",
+        "資訊理論",
+        "密碼學"
+      ],
+      "lab": "我愛交易實驗室（宏裕科技研究大樓 946）",
+      "website": "https://ifm.ntut.edu.tw/p/405-1083-124372,c16785.php?Lang=zh-tw",
+      "email": "mnwu@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "吳建文",
+      "title": "副教授",
+      "dept": "資訊與財金管理系",
+      "deptType": "資管",
+      "areas": [
+        "區塊鏈",
+        "大數據",
+        "金融科技",
+        "演算法"
+      ],
+      "lab": "人工智慧與區塊鏈實驗室（宏裕科技研究大樓 535）",
+      "website": "https://ifm.ntut.edu.tw/p/405-1083-124375,c16785.php?Lang=zh-tw",
+      "email": "xcwwu@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳育威",
+      "title": "副教授",
+      "dept": "資訊與財金管理系",
+      "deptType": "資管",
+      "areas": [
+        "金融科技",
+        "行動支付",
+        "嵌入式金融",
+        "區塊鏈",
+        "深度學習",
+        "機器預測",
+        "人工智慧",
+        "智能合約",
+        "創新管理"
+      ],
+      "lab": "金融科技與區塊鏈創新應用實驗室（宏裕科技研究大樓 535）",
+      "website": "https://ifm.ntut.edu.tw/p/405-1083-124377,c16785.php?Lang=zh-tw",
+      "email": "ywchen@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "鍾建屏",
+      "title": "副教授",
+      "dept": "資訊與財金管理系",
+      "deptType": "資管",
+      "areas": [
+        "金融創新",
+        "金融科技",
+        "人工智慧應用",
+        "國際金融",
+        "行為財務"
+      ],
+      "lab": "智慧金融實驗室（宏裕科技研究大樓 727）",
+      "website": "https://ifm.ntut.edu.tw/p/405-1083-124378,c16785.php?Lang=zh-tw",
+      "email": "thomas6311@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "劉亮志",
+      "title": "副教授",
+      "dept": "資訊與財金管理系",
+      "deptType": "資管",
+      "areas": [
+        "財務工程",
+        "固定收益型商品",
+        "信用風險",
+        "財務文字探勘"
+      ],
+      "lab": "財務理論與實證實驗室（宏裕科技研究大樓 B325-3）",
+      "website": "https://ifm.ntut.edu.tw/p/405-1083-124379,c16785.php?Lang=zh-tw",
+      "email": "lcliu@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "魏銪志",
+      "title": "副教授",
+      "dept": "資訊與財金管理系",
+      "deptType": "資管",
+      "areas": [
+        "金融資訊安全",
+        "監理科技",
+        "資料科學及分析",
+        "IoT安全",
+        "資訊安全風險評鑑",
+        "隱私衝擊評鑑",
+        "資訊安全管理",
+        "營運持續管理",
+        "車載網路安全"
+      ],
+      "lab": "金融資通安全研究室（宏裕科技研究大樓 B325-3）",
+      "website": "https://ifm.ntut.edu.tw/p/405-1083-124380,c16785.php?Lang=zh-tw",
+      "email": "vickrey@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳鴻崑",
+      "title": "副教授",
+      "dept": "資訊與財金管理系",
+      "deptType": "資管",
+      "areas": [
+        "公司理財",
+        "公司治理",
+        "永續金融",
+        "經理人薪酬",
+        "股票質押"
+      ],
+      "lab": "公司治理實驗室（宏裕科技研究大樓638）",
+      "website": "https://ifm.ntut.edu.tw/p/405-1083-139784,c16785.php?Lang=zh-tw",
+      "email": "hkchen@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "林敬皇",
+      "title": "助理教授",
+      "dept": "資訊與財金管理系",
+      "deptType": "資管",
+      "areas": [
+        "資訊安全",
+        "網路資安攻防",
+        "雲端與物聯網",
+        "數位鑑識"
+      ],
+      "lab": "資通安全應用實驗室（宏裕科技研究大樓 637）",
+      "website": "https://ifm.ntut.edu.tw/p/405-1083-124381,c16785.php?Lang=zh-tw",
+      "email": "gbox@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "彭祖乙",
+      "title": "助理教授",
+      "dept": "資訊與財金管理系",
+      "deptType": "資管",
+      "areas": [
+        "網路安全",
+        "資安韌性",
+        "智慧物聯網",
+        "邊緣運算",
+        "API經濟",
+        "永續創新"
+      ],
+      "lab": "韌性與永續科技實驗室（宏裕科技研究大樓 238）",
+      "website": "https://ifm.ntut.edu.tw/p/405-1083-126454,c16785.php?Lang=zh-tw",
+      "email": "johnpeng@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "張庭瑜",
+      "title": "助理教授",
+      "dept": "資訊與財金管理系",
+      "deptType": "資管",
+      "areas": [
+        "生成式AI",
+        "強化式學習",
+        "多目標決策",
+        "ERP系統",
+        "資料探勘",
+        "資訊與投資管理"
+      ],
+      "lab": "智慧決策與資料科學實驗室",
+      "website": "https://ifm.ntut.edu.tw/p/405-1083-151869,c16785.php?Lang=zh-tw",
+      "email": "kay.c@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "姚立德",
+      "title": "講座教授",
+      "dept": "電機工程系",
+      "deptType": "電機",
+      "areas": [
+        "室內定位",
+        "強化學習",
+        "模糊控制",
+        "智慧能源管理",
+        "故障診斷"
+      ],
+      "lab": "",
+      "website": "https://academic.ntut.edu.tw/1781/1556/1843/",
+      "email": "ltyao@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "黃有評",
+      "title": "講座教授",
+      "dept": "電機工程系",
+      "deptType": "電機",
+      "areas": [
+        "深度學習",
+        "電腦視覺",
+        "物件偵測",
+        "智慧監測系統"
+      ],
+      "lab": "",
+      "website": "https://academic.ntut.edu.tw/1781/1556/2021/",
+      "email": "yphuang@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "練光祐",
+      "title": "特聘教授",
+      "dept": "電機工程系",
+      "deptType": "電機",
+      "areas": [
+        "模糊控制理論",
+        "非線性系統輸出調節",
+        "智慧感測"
+      ],
+      "lab": "",
+      "website": "https://academic.ntut.edu.tw/1781/1556/2016/",
+      "email": "kylian@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "張文中",
+      "title": "教授",
+      "dept": "電機工程系",
+      "deptType": "電機",
+      "areas": [
+        "電腦視覺",
+        "三維點雲配準",
+        "深度學習"
+      ],
+      "lab": "",
+      "website": "https://academic.ntut.edu.tw/1781/1556/1899/",
+      "email": "wchang@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "李俊賢",
+      "title": "教授",
+      "dept": "電機工程系",
+      "deptType": "電機",
+      "areas": [
+        "模糊邏輯控制",
+        "深度學習",
+        "物聯網邊緣運算",
+        "智慧城市"
+      ],
+      "lab": "",
+      "website": "https://academic.ntut.edu.tw/1781/1556/2051/",
+      "email": "jslee@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "曾傳蘆",
+      "title": "副教授",
+      "dept": "電機工程系",
+      "deptType": "電機",
+      "areas": [
+        "強化學習",
+        "邊緣運算工作卸載",
+        "無線感測網路定位",
+        "模糊控制"
+      ],
+      "lab": "",
+      "website": "https://academic.ntut.edu.tw/1781/1556/1884/",
+      "email": "f10940@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "黃正民",
+      "title": "副教授",
+      "dept": "電機工程系",
+      "deptType": "電機",
+      "areas": [
+        "電腦視覺",
+        "人體動作辨識",
+        "視覺伺服",
+        "機器人路徑規劃"
+      ],
+      "lab": "",
+      "website": "https://academic.ntut.edu.tw/1781/1556/2074/",
+      "email": "cmhuang@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "譚旦旭",
+      "title": "特聘教授",
+      "dept": "電機工程系",
+      "deptType": "電機",
+      "areas": [
+        "通訊工程",
+        "資通訊系統"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "thtan@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "呂振森",
+      "title": "副教授",
+      "dept": "電機工程系",
+      "deptType": "電機",
+      "areas": [
+        "OFDM系統訊號處理",
+        "載波頻率偏移估測",
+        "無線通訊系統"
+      ],
+      "lab": "",
+      "website": "https://academic.ntut.edu.tw/1781/1556/1848/",
+      "email": "jsleu@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "郭天穎",
+      "title": "副教授",
+      "dept": "電機工程系",
+      "deptType": "電機",
+      "areas": [
+        "場景文字偵測",
+        "深度學習",
+        "數位鑑識",
+        "深偽影像偵測"
+      ],
+      "lab": "",
+      "website": "https://academic.ntut.edu.tw/1781/1556/1890/",
+      "email": "tykuo@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "馬尚智",
+      "title": "副教授",
+      "dept": "電機工程系",
+      "deptType": "電機",
+      "areas": [
+        "深度學習醫學影像分割",
+        "衛星影像分類",
+        "無線感測網路編碼",
+        "物聯網通訊"
+      ],
+      "lab": "",
+      "website": "https://academic.ntut.edu.tw/1781/1556/2006/",
+      "email": "scma@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "張正春",
+      "title": "副教授",
+      "dept": "電機工程系",
+      "deptType": "電機",
+      "areas": [
+        "醫學影像處理",
+        "深度學習",
+        "生醫感測系統"
+      ],
+      "lab": "",
+      "website": "https://academic.ntut.edu.tw/1781/1556/2052/",
+      "email": "ccchang@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "林鈞陶",
+      "title": "助理教授",
+      "dept": "電機工程系",
+      "deptType": "電機",
+      "areas": [
+        "MIMO通訊系統",
+        "訊號處理",
+        "LDPC解碼",
+        "收發機設計"
+      ],
+      "lab": "",
+      "website": "https://academic.ntut.edu.tw/1781/1556/2168/",
+      "email": "ctl@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "張致遠",
+      "title": "助理教授",
+      "dept": "電機工程系",
+      "deptType": "電機",
+      "areas": [
+        "MIMO通訊系統",
+        "LDPC解碼",
+        "通訊訊號處理"
+      ],
+      "lab": "",
+      "website": "https://academic.ntut.edu.tw/1781/1556/2242/",
+      "email": "tofar@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "王永鐘",
+      "title": "教授",
+      "dept": "電機工程系",
+      "deptType": "電機",
+      "areas": [
+        "網路入侵偵測",
+        "資訊安全",
+        "大型語言模型應用",
+        "深度學習"
+      ],
+      "lab": "",
+      "website": "https://academic.ntut.edu.tw/1781/1556/1900/",
+      "email": "ycwang@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "張陽郎",
+      "title": "教授",
+      "dept": "電機工程系",
+      "deptType": "電機",
+      "areas": [
+        "遙測影像分析",
+        "機器學習",
+        "醫學影像診斷"
+      ],
+      "lab": "",
+      "website": "https://academic.ntut.edu.tw/1781/1556/1977/",
+      "email": "ylchang@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "宋國明",
+      "title": "教授",
+      "dept": "電機工程系",
+      "deptType": "電機",
+      "areas": [
+        "邊緣運算晶片設計",
+        "類神經網路",
+        "物聯網IC設計"
+      ],
+      "lab": "",
+      "website": "https://academic.ntut.edu.tw/1781/1556/1901/",
+      "email": "gmsung@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "于治平",
+      "title": "副教授",
+      "dept": "電機工程系",
+      "deptType": "電機",
+      "areas": [
+        "數位IC設計",
+        "網路通訊協定晶片",
+        "物聯網IC設計"
+      ],
+      "lab": "",
+      "website": "https://academic.ntut.edu.tw/1781/1556/1829/",
+      "email": "cpyu@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "吳昭正",
+      "title": "副教授",
+      "dept": "電機工程系",
+      "deptType": "電機",
+      "areas": [
+        "醫學影像深度學習",
+        "超光譜影像分析"
+      ],
+      "lab": "",
+      "website": "https://academic.ntut.edu.tw/1781/1556/2063/",
+      "email": "ccwu@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "李曉祺",
+      "title": "助理教授",
+      "dept": "電機工程系",
+      "deptType": "電機",
+      "areas": [
+        "深度學習",
+        "人臉辨識",
+        "醫學影像分割"
+      ],
+      "lab": "",
+      "website": "https://academic.ntut.edu.tw/1781/1556/2267/",
+      "email": "hcli@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "柯明仁",
+      "title": "講師",
+      "dept": "電機工程系",
+      "deptType": "電機",
+      "areas": [],
+      "lab": "",
+      "website": "",
+      "email": "mjko@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "李仁貴",
+      "title": "特聘教授",
+      "dept": "電子工程系",
+      "deptType": "電機",
+      "areas": [
+        "醫療電子",
+        "行動照護",
+        "穿戴式技術",
+        "醫學資訊"
+      ],
+      "lab": "綜科館 404 室",
+      "website": "https://ece.ntut.edu.tw/p/450-1071-14483,c0.php?Lang=zh-tw",
+      "email": "evans@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "段裘慶",
+      "title": "教授",
+      "dept": "電子工程系",
+      "deptType": "電機",
+      "areas": [
+        "行動計算",
+        "無線感測網路",
+        "生醫資訊處理",
+        "資料庫系統"
+      ],
+      "lab": "綜科館601-1",
+      "website": "https://ece.ntut.edu.tw/p/450-1071-5661,c0.php?Lang=zh-tw",
+      "email": "cctuan@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "黃士嘉",
+      "title": "特聘教授",
+      "dept": "電子工程系",
+      "deptType": "電機",
+      "areas": [
+        "智慧型多媒體系統",
+        "影像處理和視訊編碼",
+        "雲端運算和大資料分析",
+        "手機程式設計"
+      ],
+      "lab": "綜科館 405 室",
+      "website": "https://ece.ntut.edu.tw/p/450-1071-5659,c0.php?Lang=zh-tw",
+      "email": "schuang@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "潘孟鉉",
+      "title": "教授",
+      "dept": "電子工程系",
+      "deptType": "電機",
+      "areas": [
+        "次世代行動通訊協定設計",
+        "穿戴式裝置應用與物聯網",
+        "行動與網頁應用開發"
+      ],
+      "lab": "綜科館 207-1 室",
+      "website": "https://ece.ntut.edu.tw/p/450-1071-102638,c0.php?Lang=zh-tw",
+      "email": "mspan@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "譚巽言",
+      "title": "副教授",
+      "dept": "電子工程系",
+      "deptType": "電機",
+      "areas": [
+        "嵌入式生醫系統設計",
+        "非同步邏輯技術",
+        "VLSI系統設計",
+        "微處理機系統"
+      ],
+      "lab": "綜科館308-1",
+      "website": "https://ece.ntut.edu.tw/p/450-1071-26272,c0.php?Lang=zh-tw",
+      "email": "sytan@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "高立人",
+      "title": "副教授",
+      "dept": "電子工程系",
+      "deptType": "電機",
+      "areas": [
+        "微處理機系統設計",
+        "影像視訊編碼與處理",
+        "生醫電子與健康照護系統設計",
+        "智慧載具系統設計"
+      ],
+      "lab": "綜科館 302 室",
+      "website": "https://ece.ntut.edu.tw/p/450-1071-5660,c0.php?Lang=zh-tw",
+      "email": "ljkau@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "李昭賢",
+      "title": "副教授",
+      "dept": "電子工程系",
+      "deptType": "電機",
+      "areas": [
+        "輕量深度學習邊緣計算",
+        "視訊串流與智慧分析",
+        "先進網路與加密技術"
+      ],
+      "lab": "綜科館 207-2 室",
+      "website": "https://ece.ntut.edu.tw/p/450-1071-30213,c0.php?Lang=zh-tw",
+      "email": "chlee@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "賴冠廷",
+      "title": "副教授",
+      "dept": "電子工程系",
+      "deptType": "電機",
+      "areas": [
+        "電腦視覺",
+        "機器學習",
+        "深度學習",
+        "資料探勘",
+        "物聯網"
+      ],
+      "lab": "綜科館 403 室",
+      "website": "https://ece.ntut.edu.tw/p/450-1071-79813,c0.php?Lang=zh-tw",
+      "email": "ktlai@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "吳亦超",
+      "title": "副教授",
+      "dept": "電子工程系",
+      "deptType": "電機",
+      "areas": [
+        "智慧晶片嵌入式系統應用",
+        "電腦視覺",
+        "機器學習/深度學習",
+        "人工智慧物聯網",
+        "AI深度偽造與偵測",
+        "無線充電感測網路",
+        "車載隨意網路"
+      ],
+      "lab": "綜科館 209-2 室",
+      "website": "https://ece.ntut.edu.tw/p/450-1071-142865,c0.php?Lang=zh-tw",
+      "email": "alanwu@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳彥安",
+      "title": "助理教授",
+      "dept": "電子工程系",
+      "deptType": "電機",
+      "areas": [
+        "普適智慧",
+        "邊緣人工智慧",
+        "多模態智慧感測",
+        "智慧物聯網"
+      ],
+      "lab": "綜科館 205-1 室",
+      "website": "https://ece.ntut.edu.tw/p/450-1071-151539,c0.php?Lang=zh-tw",
+      "email": "chenya@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "劉玉蓀",
+      "title": "教授",
+      "dept": "電子工程系",
+      "deptType": "電機",
+      "areas": [
+        "無線區域網路",
+        "展頻通訊系統",
+        "消息理論"
+      ],
+      "lab": "綜科館 401 室",
+      "website": "https://ece.ntut.edu.tw/p/450-1071-5668,c0.php?Lang=zh-tw",
+      "email": "ysliu@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "曾恕銘",
+      "title": "教授",
+      "dept": "電子工程系",
+      "deptType": "電機",
+      "areas": [
+        "後5G無線通訊",
+        "深度學習",
+        "無線資源分配",
+        "視訊通訊"
+      ],
+      "lab": "綜科館 307-3 室",
+      "website": "https://ece.ntut.edu.tw/p/450-1071-5667,c0.php?Lang=zh-tw",
+      "email": "shuming@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "蔡偉和",
+      "title": "教授",
+      "dept": "電子工程系",
+      "deptType": "電機",
+      "areas": [
+        "數位訊號處理",
+        "多媒體資訊檢索",
+        "圖型識別",
+        "人工智慧"
+      ],
+      "lab": "綜科館 311-4 室",
+      "website": "https://ece.ntut.edu.tw/p/450-1071-5665,c0.php?Lang=zh-tw",
+      "email": "whtsai@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "曾柏軒",
+      "title": "教授",
+      "dept": "電子工程系",
+      "deptType": "電機",
+      "areas": [
+        "無線通訊網路",
+        "室內定位",
+        "統計信號處理",
+        "機器學習"
+      ],
+      "lab": "綜科館 207-3 室",
+      "website": "https://ece.ntut.edu.tw/p/450-1071-30218,c0.php?Lang=zh-tw",
+      "email": "phtseng@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "錢膺仁",
+      "title": "教授",
+      "dept": "電子工程系",
+      "deptType": "電機",
+      "areas": [
+        "可適性訊號處理",
+        "基頻通訊系統信號處理",
+        "干擾消除與抗干擾演算法設計",
+        "機器學習",
+        "深度學習與統計信號處理相關之應用",
+        "物聯網技術應用"
+      ],
+      "lab": "綜合科館307-1室",
+      "website": "https://ece.ntut.edu.tw/p/450-1071-143026,c0.php?Lang=zh-tw",
+      "email": "yrchien@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳維昌",
+      "title": "副教授",
+      "dept": "電子工程系",
+      "deptType": "電機",
+      "areas": [
+        "數位通信",
+        "無線通信",
+        "通訊信號處理"
+      ],
+      "lab": "綜科館 201 室",
+      "website": "https://ece.ntut.edu.tw/p/450-1071-70104,c0.php?Lang=zh-tw",
+      "email": "wcchen@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "林君玲",
+      "title": "副教授",
+      "dept": "電子工程系",
+      "deptType": "電機",
+      "areas": [
+        "EEG/ECG訊號處理",
+        "最佳化演算法",
+        "專家系統",
+        "類神經網路與模糊系統",
+        "嵌入式系統",
+        "Matlab與python程式語言"
+      ],
+      "lab": "綜合科館312-2室",
+      "website": "https://ece.ntut.edu.tw/p/450-1071-139829,c0.php?Lang=zh-tw",
+      "email": "ginnylin@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "范育成",
+      "title": "教授",
+      "dept": "電子工程系",
+      "deptType": "電機",
+      "areas": [
+        "數位多媒體晶片設計",
+        "人工智慧晶片設計",
+        "仿神經晶片設計",
+        "系統晶片設計"
+      ],
+      "lab": "綜科館 311-3 室",
+      "website": "https://ece.ntut.edu.tw/p/450-1071-5939,c0.php?Lang=zh-tw",
+      "email": "skystar@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "王多柏",
+      "title": "教授",
+      "dept": "電子工程系",
+      "deptType": "電機",
+      "areas": [
+        "射頻/微波/毫米波電路設計",
+        "低耗電電路設計",
+        "類比/數位系統(車用電子",
+        "生醫電子",
+        "地震預警)",
+        "嵌入式系統(Arduino",
+        "Raspberry Pi)",
+        "儀控系統",
+        "人工智慧(AI)"
+      ],
+      "lab": "綜科館 312-3 室",
+      "website": "https://ece.ntut.edu.tw/p/450-1071-5938,c0.php?Lang=zh-tw",
+      "email": "tpwang@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "李明哲",
+      "title": "助理教授",
+      "dept": "電子工程系",
+      "deptType": "電機",
+      "areas": [
+        "晶片設計與測試",
+        "機器學習"
+      ],
+      "lab": "綜科館 311-1 室",
+      "website": "https://ece.ntut.edu.tw/p/450-1071-139199,c0.php?Lang=zh-tw",
+      "email": "minglee@ntut.edu.tw",
+      "highlights": "",
+      "notes": ""
+    }
+  ]
+}
