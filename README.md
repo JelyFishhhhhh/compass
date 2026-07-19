@@ -25,7 +25,10 @@
 
 ## TODO（歡迎協作）
 
-- [ ] 研究領域 tag 正規化：中英文統一（Machine Learning ↔ 機器學習）、同義詞合併、大小寫一致
+- [ ] 研究領域標籤分類體系：受控詞彙表（`tags.json`：canonical／aliases／parent／related）——
+      中英文與同義詞統一（資安＝資訊安全＝cybersecurity）、階層分類（資訊安全 > 網頁安全／密碼學／系統安全），
+      查詢時同義詞展開＋上位類別擴展（查「資訊安全」涵蓋子類，查「密碼學」不上擴）、
+      加權排序 exact > alias > descendant > related
 - [ ] 補完剩餘學校：澎湖科大
 - [ ] `labWebsite` 欄位資料補充（各實驗室網頁連結）
 - [ ] `highlights` 欄位補充（教授近年研究亮點 1-3 行）

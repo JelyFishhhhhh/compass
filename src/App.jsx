@@ -76,7 +76,7 @@ export default function App() {
             aria-label="切換亮暗色主題"
             onClick={() => setTheme(theme === 'dark' ? 'light' : 'dark')}
           >
-            {theme === 'dark' ? '🌙' : '☀️'}
+            {theme === 'dark' ? '☾' : '☀'}
           </button>
         </div>
         <p className="tagline">台灣國立大學資訊領域教授查詢 · Comprehensive Professor and School Search System</p>
@@ -117,7 +117,7 @@ export default function App() {
           ))}
           <label className="fav-only">
             <input type="checkbox" checked={favOnly} onChange={() => setFavOnly(!favOnly)} />
-            ⭐ 只看最愛（{favs.size}）
+            ★ 只看最愛（{favs.size}）
           </label>
         </fieldset>
         <details className="top-areas">
@@ -199,7 +199,7 @@ export default function App() {
                   <p className="lab">{p.lab}</p>
                 ))}
               {p.highlights && <p className="hl">{p.highlights}</p>}
-              {p.notes && <p className="notes">📝 {p.notes}</p>}
+              {p.notes && <p className="notes">✎ {p.notes}</p>}
               <p className="links">
                 {p.website && (
                   <a href={p.website} target="_blank" rel="noreferrer">
