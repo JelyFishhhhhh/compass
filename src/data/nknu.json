@@ -1,0 +1,162 @@
+{
+  "school": "高師大",
+  "schoolFull": "國立高雄師範大學",
+  "professors": [
+    {
+      "name": "李文廷",
+      "title": "教授兼系主任",
+      "dept": "軟體工程與管理學系",
+      "deptType": "資工",
+      "areas": ["軟體工程", "軟體流程改善", "微服務架構", "敏捷方法", "人工智慧"],
+      "lab": "",
+      "website": "",
+      "email": "wtlee@mail.nknu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "孫培真",
+      "title": "教授",
+      "dept": "軟體工程與管理學系",
+      "deptType": "資工",
+      "areas": ["人工智慧", "資訊教育", "數據科學", "機器學習", "教育機器人"],
+      "lab": "",
+      "website": "",
+      "email": "sun@mail.nknu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "林哲正",
+      "title": "教授",
+      "dept": "軟體工程與管理學系",
+      "deptType": "資工",
+      "areas": ["人工智慧", "圖訊識別", "訊號處理/影像處理", "物件導向程式設計", "資訊教育"],
+      "lab": "",
+      "website": "",
+      "email": "cclin@mail.nknu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "何淑君",
+      "title": "教授",
+      "dept": "軟體工程與管理學系",
+      "deptType": "資工",
+      "areas": ["資訊管理", "電子商務", "設計思考", "使用者體驗"],
+      "lab": "",
+      "website": "",
+      "email": "sch@mail.nknu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "鄭伯壎",
+      "title": "教授",
+      "dept": "軟體工程與管理學系",
+      "deptType": "資工",
+      "areas": ["醫療資訊系統", "資訊管理", "軟體工程", "醫療資訊標準"],
+      "lab": "",
+      "website": "",
+      "email": "cph@mail.nknu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "郭家旭",
+      "title": "教授",
+      "dept": "軟體工程與管理學系",
+      "deptType": "資工",
+      "areas": ["AIoT智慧物聯網", "AI邊緣運算", "次世代通訊網路", "多媒體系統"],
+      "lab": "",
+      "website": "",
+      "email": "kuoch@mail.nknu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "余遠澤",
+      "title": "教授",
+      "dept": "軟體工程與管理學系",
+      "deptType": "資工",
+      "areas": ["大數據分析", "人工智慧及雲端運算", "物聯網平台設計"],
+      "lab": "",
+      "website": "",
+      "email": "yuyt@mail.nknu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "李哲瑋",
+      "title": "副教授",
+      "dept": "軟體工程與管理學系",
+      "deptType": "資工",
+      "areas": ["資訊安全", "隱私通訊", "數位影像處理", "密碼學"],
+      "lab": "",
+      "website": "",
+      "email": "t4917@mail.nknu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳立偉",
+      "title": "助理教授",
+      "dept": "軟體工程與管理學系",
+      "deptType": "資工",
+      "areas": [],
+      "lab": "",
+      "website": "",
+      "email": "lwchen@mail.nknu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "簡碩辰",
+      "title": "助理教授",
+      "dept": "軟體工程與管理學系",
+      "deptType": "資工",
+      "areas": ["人工智慧", "機器學習", "系統性文獻回顧", "臨床決策支援"],
+      "lab": "",
+      "website": "",
+      "email": "t4976@mail.nknu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "黃富鑫",
+      "title": "教授兼系主任",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": ["無線通訊傳輸技術", "統計通訊", "物聯網與雲端技術應用", "嵌入式系統應用", "深度學習"],
+      "lab": "",
+      "website": "",
+      "email": "fuhsin@mail.nknu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "曾秀松",
+      "title": "教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": ["無線網路", "資源分配", "服務品質", "計算機網路", "佇列理論", "智慧物聯網"],
+      "lab": "",
+      "website": "",
+      "email": "sstzeng@mail.nknu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "楊惟中",
+      "title": "助理教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": ["影像處理", "人工智慧", "深度學習", "聯邦式學習", "智慧駕駛"],
+      "lab": "",
+      "website": "",
+      "email": "WJYang@mail.nknu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    }
+  ]
+}

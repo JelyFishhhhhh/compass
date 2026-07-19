@@ -1,0 +1,150 @@
+{
+  "school": "金門",
+  "schoolFull": "國立金門大學",
+  "professors": [
+    {
+      "name": "趙于翔",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": ["類神經網路", "影像處理", "圖型識別", "數位訊號處理"],
+      "lab": "",
+      "website": "",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "馮玄明",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": ["資料庫系統", "最佳化系統", "嵌入式系統", "圖形辨識"],
+      "lab": "",
+      "website": "",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "李錫捷",
+      "title": "教授兼系主任",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": ["Artificial Intelligence", "Biomedical Informatics", "Renewable Energy Informatics", "Digital Humanities", "High-Performance Computing"],
+      "lab": "",
+      "website": "",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "柯志亨",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": ["多媒體網際網路", "網際網路品質保證", "無線網路", "網路模擬與效能分析"],
+      "lab": "",
+      "website": "https://csie.nqu.edu.tw/smallko",
+      "email": "smallko@nqu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳正德",
+      "title": "教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": ["電子電路", "線性系統", "控制工程"],
+      "lab": "",
+      "website": "",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "吳佳駿",
+      "title": "教授兼計算機與網路中心資訊網路組長",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": ["物聯網開發應用", "軟體工程與應用", "行動裝置程式設計", "程式語言", "網路程式設計", "動態網頁資料庫", "資訊安全管理"],
+      "lab": "",
+      "website": "",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "潘進儒",
+      "title": "副教授兼計算機與網路中心軟體系統組長",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": ["多媒體系統", "軟硬體系統設計", "人工智慧", "天線設計"],
+      "lab": "",
+      "website": "",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳鍾誠",
+      "title": "助理教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": ["程式設計", "開放原始碼", "自然語言處理", "全文檢索"],
+      "lab": "",
+      "website": "",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "王建鈞",
+      "title": "助理教授",
+      "dept": "資訊工程學系",
+      "deptType": "資工",
+      "areas": ["智慧型感測", "訊號處理", "控制架構與應用", "機器視覺與目標追蹤", "人機互動(含機器人認知)與多機器人協調與合作", "機器人行走模式", "即時動態分析與自我學習控制", "嵌入式系統", "人工智慧", "單晶片控制與設計", "物聯網應用設計", "資通訊安全"],
+      "lab": "",
+      "website": "",
+      "email": "",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "洪集輝",
+      "title": "特聘教授兼副校長",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": ["資訊安全", "影像處理", "視訊分析", "人工智慧"],
+      "lab": "",
+      "website": "",
+      "email": "horng@email.nqu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "李金譚",
+      "title": "教授兼系主任",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": ["單晶片控制與嵌入式系統應用", "機器人創意設計", "智慧運算", "電力系統控制與運行"],
+      "lab": "",
+      "website": "",
+      "email": "ktlee@nqu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "李志泓",
+      "title": "助理教授兼閱覽諮詢組組長",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": ["數位通訊", "通訊信號處理", "影像處理", "資訊安全"],
+      "lab": "",
+      "website": "",
+      "email": "peterlee@nqu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    }
+  ]
+}
