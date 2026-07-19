@@ -1,0 +1,126 @@
+{
+  "school": "屏科大",
+  "schoolFull": "國立屏東科技大學",
+  "professors": [
+    {
+      "name": "吳庭育",
+      "title": "教授兼系主任",
+      "dept": "資訊管理系",
+      "deptType": "資管",
+      "areas": ["智慧物聯網", "人工智慧", "雲端運算", "5G行動通訊", "智慧農業"],
+      "lab": "管理學院 CM452",
+      "website": "https://mis.npust.edu.tw/teacher/吳庭育/",
+      "email": "tyw@mail.npust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "龔旭陽",
+      "title": "終身特聘教授兼跨域特色發展中心主任",
+      "dept": "資訊管理系",
+      "deptType": "資管",
+      "areas": ["分散式多媒體應用系統", "電腦網路", "行動計算與無線網際網路", "多媒體資訊網路前瞻研究"],
+      "lab": "管理學院 CM426",
+      "website": "https://mis.npust.edu.tw/teacher/龔旭陽/",
+      "email": "kung@mail.npust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "蔡玉娟",
+      "title": "教授兼電子計算機中心主任",
+      "dept": "資訊管理系",
+      "deptType": "資管",
+      "areas": ["資料探勘", "影像辨識", "資訊管理", "大數據分析"],
+      "lab": "管理學院 CM418",
+      "website": "https://mis.npust.edu.tw/teacher/蔡玉娟/",
+      "email": "yjtsay@mail.npust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳灯能",
+      "title": "教授兼管理學院院長",
+      "dept": "資訊管理系",
+      "deptType": "資管",
+      "areas": ["大數據分析", "文字探勘", "人工智慧", "知識管理", "電子商務"],
+      "lab": "管理學院 CM449",
+      "website": "https://mis.npust.edu.tw/teacher/陳灯能/",
+      "email": "dnchen@mail.npust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "童曉儒",
+      "title": "教授",
+      "dept": "資訊管理系",
+      "deptType": "資管",
+      "areas": ["多媒體網際網路", "分散式多媒體系統", "隨選視訊系統", "無線與行動通訊"],
+      "lab": "管理學院 CM443",
+      "website": "https://mis.npust.edu.tw/teacher/童曉儒/",
+      "email": "srtong@mail.npust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "劉書助",
+      "title": "教授",
+      "dept": "資訊管理系",
+      "deptType": "資管",
+      "areas": ["決策分析", "人工智慧應用", "供應鏈管理", "電子商務"],
+      "lab": "管理學院 CM437",
+      "website": "https://mis.npust.edu.tw/teacher/劉書助/",
+      "email": "sliu@mail.npust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "劉寧漢",
+      "title": "教授",
+      "dept": "資訊管理系",
+      "deptType": "資管",
+      "areas": ["多媒體資料庫", "數位內容管理", "資料倉儲/探勘", "生物資訊"],
+      "lab": "管理學院 CM414",
+      "website": "https://mis.npust.edu.tw/teacher/劉寧漢/",
+      "email": "gregliu@mail.npust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "邵敏華",
+      "title": "副教授",
+      "dept": "資訊管理系",
+      "deptType": "資管",
+      "areas": ["資訊安全", "區塊鏈", "金融科技", "電子商務", "資料探勘與知識管理"],
+      "lab": "管理學院 CM432",
+      "website": "https://mis.npust.edu.tw/teacher/邵敏華/",
+      "email": "mhshao@mail.npust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "賴佳瑜",
+      "title": "副教授",
+      "dept": "資訊管理系",
+      "deptType": "資管",
+      "areas": ["大數據分析", "文字探勘", "機器學習", "金融財務探勘"],
+      "lab": "管理學院 CM458",
+      "website": "https://mis.npust.edu.tw/teacher/賴佳瑜/",
+      "email": "chiayulai@mail.npust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "林皇辰",
+      "title": "助理教授",
+      "dept": "資訊管理系",
+      "deptType": "資管",
+      "areas": ["醫學影像處理與分析", "人工智慧與深度學習", "電腦視覺", "自動光學檢測(AOI)", "智慧製造與非破壞檢測", "生醫訊號處理"],
+      "lab": "管理學院 CM439",
+      "website": "https://mis.npust.edu.tw/teacher/林皇辰/",
+      "email": "linhuangchen@mail.npust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    }
+  ]
+}
