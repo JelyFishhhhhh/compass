@@ -4,6 +4,8 @@
 
 推甄用：整理國立大學資工所、資訊相關偏所、資管所、電機所（資訊相關組）教授資料的查詢網站。純靜態 Vite + React，資料以 JSON 隨站打包，無後端。
 
+協作方式見 [CONTRIBUTING.md](CONTRIBUTING.md)。
+
 ## 開發
 
     npm install
@@ -16,7 +18,21 @@
 
 編輯 `src/data/<school>.json`（一校一檔），欄位格式見
 [設計文件](docs/superpowers/specs/2026-07-17-prof-summary-design.md)，改完跑 `npm run validate`。
-個人筆記寫在教授的 `notes` 欄位。
+個人筆記寫在教授的 `notes` 欄位；實驗室網頁可加選填欄位 `labWebsite`（http(s) 連結，
+有值時實驗室名稱會變成連結）。
+
+目前涵蓋 31 所國立大學、1498 位教授（四大四中台科北科＋各國立大學資工／偏所／資管／電機資訊相關）。
+
+## TODO（歡迎協作）
+
+- [ ] 研究領域 tag 正規化：中英文統一（Machine Learning ↔ 機器學習）、同義詞合併、大小寫一致
+- [ ] 補完剩餘學校：澎湖科大
+- [ ] `labWebsite` 欄位資料補充（各實驗室網頁連結）
+- [ ] `highlights` 欄位補充（教授近年研究亮點 1-3 行）
+- [ ] 第 3 批資料（政大等 16 校）人工抽查覆核
+- [x] 我的最愛（localStorage）
+- [x] 亮色／暗色主題
+- [x] 熱門領域標籤快速篩選
 
 ## 部署（GitHub Pages）
 
