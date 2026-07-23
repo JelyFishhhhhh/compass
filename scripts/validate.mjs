@@ -79,6 +79,57 @@ for (const file of schedFiles) {
   }
 }
 
+// 受控詞彙 src/tags.json
+import { existsSync } from 'node:fs'
+const tagsUrl = new URL('../src/tags.json', import.meta.url)
+if (existsSync(tagsUrl)) {
+  const terr = (msg) => {
+    console.error(`tags.json: ${msg}`)
+    errors++
+  }
+  let tags
+  try {
+    tags = JSON.parse(readFileSync(tagsUrl, 'utf8'))
+  } catch (e) {
+    terr(`JSON 解析失敗: ${e.message}`)
+    tags = []
+  }
+  const names = new Set()
+  const norm = (s) => s.trim().toLowerCase()
+  const seenAlias = new Map() // normalized -> 來源
+  for (const n of tags) {
+    if (typeof n.name !== 'string' || !n.name) terr('有節點缺 name')
+    if (names.has(n.name)) terr(`name 重複「${n.name}」`)
+    names.add(n.name)
+    if (!Array.isArray(n.aliases)) terr(`${n.name}: aliases 須為陣列`)
+    if (n.parent !== null && typeof n.parent !== 'string') terr(`${n.name}: parent 須為 null 或字串`)
+  }
+  for (const n of tags) {
+    if (n.parent !== null && !names.has(n.parent)) terr(`${n.name}: parent「${n.parent}」不存在`)
+    // 別名唯一、且不與任何 name 衝突
+    for (const a of n.aliases ?? []) {
+      const key = norm(a)
+      if (names.has(a) && a !== n.name) terr(`${n.name}: alias「${a}」與某 name 衝突`)
+      if (seenAlias.has(key)) terr(`alias「${a}」重複（${seenAlias.get(key)} 與 ${n.name}）`)
+      seenAlias.set(key, n.name)
+    }
+  }
+  // 無循環：沿 parent 上溯不得回到自身
+  const byName = new Map(tags.map((n) => [n.name, n]))
+  for (const n of tags) {
+    const seen = new Set()
+    let cur = n
+    while (cur && cur.parent !== null) {
+      if (seen.has(cur.name)) {
+        terr(`${n.name}: parent 鏈有循環`)
+        break
+      }
+      seen.add(cur.name)
+      cur = byName.get(cur.parent)
+    }
+  }
+}
+
 if (errors) {
   console.error(`✗ 共 ${errors} 個錯誤`)
   process.exit(1)

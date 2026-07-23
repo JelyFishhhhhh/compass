@@ -1,0 +1,890 @@
+[
+  {
+    "name": "人工智慧",
+    "parent": null,
+    "aliases": [
+      "AI",
+      "artificial intelligence"
+    ]
+  },
+  {
+    "name": "資訊安全",
+    "parent": null,
+    "aliases": [
+      "資安",
+      "cybersecurity",
+      "information security"
+    ]
+  },
+  {
+    "name": "網路與通訊",
+    "parent": null,
+    "aliases": []
+  },
+  {
+    "name": "系統與硬體",
+    "parent": null,
+    "aliases": []
+  },
+  {
+    "name": "資料與資料庫",
+    "parent": null,
+    "aliases": []
+  },
+  {
+    "name": "多媒體與視覺",
+    "parent": null,
+    "aliases": []
+  },
+  {
+    "name": "軟體工程",
+    "parent": null,
+    "aliases": [
+      "software engineering"
+    ]
+  },
+  {
+    "name": "人機互動",
+    "parent": null,
+    "aliases": [
+      "HCI",
+      "human computer interaction"
+    ]
+  },
+  {
+    "name": "資訊管理",
+    "parent": null,
+    "aliases": []
+  },
+  {
+    "name": "計算理論",
+    "parent": null,
+    "aliases": [
+      "theory of computation"
+    ]
+  },
+  {
+    "name": "生醫資訊",
+    "parent": null,
+    "aliases": [
+      "生物資訊",
+      "bioinformatics"
+    ]
+  },
+  {
+    "name": "機器學習",
+    "parent": "人工智慧",
+    "aliases": [
+      "machine learning",
+      "ML",
+      "機器學習(Machine Learning)"
+    ]
+  },
+  {
+    "name": "深度學習",
+    "parent": "人工智慧",
+    "aliases": [
+      "deep learning"
+    ]
+  },
+  {
+    "name": "類神經網路",
+    "parent": "人工智慧",
+    "aliases": [
+      "neural network",
+      "neural networks"
+    ]
+  },
+  {
+    "name": "自然語言處理",
+    "parent": "人工智慧",
+    "aliases": [
+      "NLP",
+      "natural language processing"
+    ]
+  },
+  {
+    "name": "人工智慧應用",
+    "parent": "人工智慧",
+    "aliases": []
+  },
+  {
+    "name": "生成式AI",
+    "parent": "人工智慧",
+    "aliases": [
+      "generative AI",
+      "GenAI"
+    ]
+  },
+  {
+    "name": "強化學習",
+    "parent": "人工智慧",
+    "aliases": [
+      "reinforcement learning"
+    ]
+  },
+  {
+    "name": "演化計算",
+    "parent": "人工智慧",
+    "aliases": [
+      "evolutionary computation"
+    ]
+  },
+  {
+    "name": "圖形識別",
+    "parent": "人工智慧",
+    "aliases": [
+      "圖形辨識",
+      "pattern recognition"
+    ]
+  },
+  {
+    "name": "智慧計算",
+    "parent": "人工智慧",
+    "aliases": [
+      "intelligent computing"
+    ]
+  },
+  {
+    "name": "智慧型系統",
+    "parent": "人工智慧",
+    "aliases": [
+      "intelligent systems"
+    ]
+  },
+  {
+    "name": "專家系統",
+    "parent": "人工智慧",
+    "aliases": [
+      "expert system",
+      "expert systems"
+    ]
+  },
+  {
+    "name": "網頁安全",
+    "parent": "資訊安全",
+    "aliases": [
+      "web security"
+    ]
+  },
+  {
+    "name": "網路安全",
+    "parent": "資訊安全",
+    "aliases": [
+      "network security"
+    ]
+  },
+  {
+    "name": "密碼學",
+    "parent": "資訊安全",
+    "aliases": [
+      "cryptography"
+    ]
+  },
+  {
+    "name": "系統安全",
+    "parent": "資訊安全",
+    "aliases": [
+      "system security"
+    ]
+  },
+  {
+    "name": "資訊安全管理",
+    "parent": "資訊安全",
+    "aliases": [
+      "information security management"
+    ]
+  },
+  {
+    "name": "人工智慧安全",
+    "parent": "資訊安全",
+    "aliases": [
+      "AI security"
+    ]
+  },
+  {
+    "name": "多媒體安全",
+    "parent": "資訊安全",
+    "aliases": [
+      "multimedia security"
+    ]
+  },
+  {
+    "name": "數位鑑識",
+    "parent": "資訊安全",
+    "aliases": [
+      "digital forensics"
+    ]
+  },
+  {
+    "name": "物聯網",
+    "parent": "網路與通訊",
+    "aliases": [
+      "IoT",
+      "internet of things"
+    ]
+  },
+  {
+    "name": "智慧物聯網",
+    "parent": "網路與通訊",
+    "aliases": [
+      "AIoT",
+      "人工智慧物聯網"
+    ]
+  },
+  {
+    "name": "無線網路",
+    "parent": "網路與通訊",
+    "aliases": [
+      "wireless network"
+    ]
+  },
+  {
+    "name": "無線通訊",
+    "parent": "網路與通訊",
+    "aliases": [
+      "wireless communication",
+      "Wireless Communications",
+      "無線通訊系統"
+    ]
+  },
+  {
+    "name": "電腦網路",
+    "parent": "網路與通訊",
+    "aliases": [
+      "computer network",
+      "計算機網路"
+    ]
+  },
+  {
+    "name": "行動計算",
+    "parent": "網路與通訊",
+    "aliases": [
+      "mobile computing"
+    ]
+  },
+  {
+    "name": "行動通訊",
+    "parent": "網路與通訊",
+    "aliases": [
+      "mobile communication"
+    ]
+  },
+  {
+    "name": "行動網路",
+    "parent": "網路與通訊",
+    "aliases": [
+      "mobile network"
+    ]
+  },
+  {
+    "name": "車聯網",
+    "parent": "網路與通訊",
+    "aliases": [
+      "IoV",
+      "internet of vehicles"
+    ]
+  },
+  {
+    "name": "工業物聯網",
+    "parent": "網路與通訊",
+    "aliases": [
+      "IIoT",
+      "industrial IoT"
+    ]
+  },
+  {
+    "name": "物聯網應用",
+    "parent": "網路與通訊",
+    "aliases": [
+      "IoT applications"
+    ]
+  },
+  {
+    "name": "無線感測網路",
+    "parent": "網路與通訊",
+    "aliases": [
+      "WSN",
+      "wireless sensor network"
+    ]
+  },
+  {
+    "name": "軟體定義網路",
+    "parent": "網路與通訊",
+    "aliases": [
+      "SDN",
+      "software defined network"
+    ]
+  },
+  {
+    "name": "網路管理",
+    "parent": "網路與通訊",
+    "aliases": [
+      "network management"
+    ]
+  },
+  {
+    "name": "網路最佳化",
+    "parent": "網路與通訊",
+    "aliases": [
+      "network optimization"
+    ]
+  },
+  {
+    "name": "通訊網路",
+    "parent": "網路與通訊",
+    "aliases": [
+      "communication network"
+    ]
+  },
+  {
+    "name": "通訊系統",
+    "parent": "網路與通訊",
+    "aliases": [
+      "communication system",
+      "communication systems"
+    ]
+  },
+  {
+    "name": "數位通訊",
+    "parent": "網路與通訊",
+    "aliases": [
+      "digital communication"
+    ]
+  },
+  {
+    "name": "通訊訊號處理",
+    "parent": "網路與通訊",
+    "aliases": [
+      "communication signal processing"
+    ]
+  },
+  {
+    "name": "嵌入式系統",
+    "parent": "系統與硬體",
+    "aliases": [
+      "embedded system",
+      "embedded systems",
+      "嵌入式系統設計"
+    ]
+  },
+  {
+    "name": "分散式系統",
+    "parent": "系統與硬體",
+    "aliases": [
+      "distributed system",
+      "distributed systems"
+    ]
+  },
+  {
+    "name": "雲端運算",
+    "parent": "系統與硬體",
+    "aliases": [
+      "cloud computing",
+      "雲端計算"
+    ]
+  },
+  {
+    "name": "邊緣運算",
+    "parent": "系統與硬體",
+    "aliases": [
+      "edge computing"
+    ]
+  },
+  {
+    "name": "數位訊號處理",
+    "parent": "系統與硬體",
+    "aliases": [
+      "DSP",
+      "訊號處理",
+      "digital signal processing",
+      "數位信號處理"
+    ]
+  },
+  {
+    "name": "作業系統",
+    "parent": "系統與硬體",
+    "aliases": [
+      "operating system",
+      "operating systems",
+      "OS"
+    ]
+  },
+  {
+    "name": "平行計算",
+    "parent": "系統與硬體",
+    "aliases": [
+      "平行處理",
+      "parallel computing",
+      "parallel processing"
+    ]
+  },
+  {
+    "name": "容錯計算",
+    "parent": "系統與硬體",
+    "aliases": [
+      "fault-tolerant computing"
+    ]
+  },
+  {
+    "name": "計算機結構",
+    "parent": "系統與硬體",
+    "aliases": [
+      "computer architecture"
+    ]
+  },
+  {
+    "name": "數位積體電路設計",
+    "parent": "系統與硬體",
+    "aliases": [
+      "數位IC設計",
+      "數位晶片設計",
+      "digital IC design",
+      "digital integrated circuit design"
+    ]
+  },
+  {
+    "name": "數位系統設計",
+    "parent": "系統與硬體",
+    "aliases": [
+      "digital system design"
+    ]
+  },
+  {
+    "name": "機器人學",
+    "parent": "系統與硬體",
+    "aliases": [
+      "機器人",
+      "robotics",
+      "robot"
+    ]
+  },
+  {
+    "name": "智慧型控制",
+    "parent": "系統與硬體",
+    "aliases": [
+      "intelligent control"
+    ]
+  },
+  {
+    "name": "模糊控制",
+    "parent": "系統與硬體",
+    "aliases": [
+      "fuzzy control"
+    ]
+  },
+  {
+    "name": "系統模擬",
+    "parent": "系統與硬體",
+    "aliases": [
+      "system simulation"
+    ]
+  },
+  {
+    "name": "資料探勘",
+    "parent": "資料與資料庫",
+    "aliases": [
+      "data mining"
+    ]
+  },
+  {
+    "name": "大數據分析",
+    "parent": "資料與資料庫",
+    "aliases": [
+      "big data",
+      "大數據",
+      "巨量資料分析",
+      "big data analytics"
+    ]
+  },
+  {
+    "name": "資料科學",
+    "parent": "資料與資料庫",
+    "aliases": [
+      "data science"
+    ]
+  },
+  {
+    "name": "文字探勘",
+    "parent": "資料與資料庫",
+    "aliases": [
+      "text mining"
+    ]
+  },
+  {
+    "name": "資訊檢索",
+    "parent": "資料與資料庫",
+    "aliases": [
+      "information retrieval"
+    ]
+  },
+  {
+    "name": "資料庫系統",
+    "parent": "資料與資料庫",
+    "aliases": [
+      "資料庫",
+      "database",
+      "database systems"
+    ]
+  },
+  {
+    "name": "商業智慧",
+    "parent": "資料與資料庫",
+    "aliases": [
+      "business intelligence",
+      "BI"
+    ]
+  },
+  {
+    "name": "資料分析",
+    "parent": "資料與資料庫",
+    "aliases": [
+      "數據分析",
+      "data analysis",
+      "data analytics"
+    ]
+  },
+  {
+    "name": "資料壓縮",
+    "parent": "資料與資料庫",
+    "aliases": [
+      "data compression"
+    ]
+  },
+  {
+    "name": "推薦系統",
+    "parent": "資料與資料庫",
+    "aliases": [
+      "recommendation system"
+    ]
+  },
+  {
+    "name": "社群網路分析",
+    "parent": "資料與資料庫",
+    "aliases": [
+      "社群網路",
+      "social network",
+      "social network analysis"
+    ]
+  },
+  {
+    "name": "多媒體資料庫",
+    "parent": "資料與資料庫",
+    "aliases": [
+      "multimedia database"
+    ]
+  },
+  {
+    "name": "電腦視覺",
+    "parent": "多媒體與視覺",
+    "aliases": [
+      "computer vision",
+      "CV",
+      "機器視覺"
+    ]
+  },
+  {
+    "name": "影像處理",
+    "parent": "多媒體與視覺",
+    "aliases": [
+      "image processing",
+      "數位影像處理",
+      "digital image processing"
+    ]
+  },
+  {
+    "name": "電腦圖學",
+    "parent": "多媒體與視覺",
+    "aliases": [
+      "computer graphics",
+      "計算機圖學"
+    ]
+  },
+  {
+    "name": "虛擬實境",
+    "parent": "多媒體與視覺",
+    "aliases": [
+      "VR",
+      "virtual reality"
+    ]
+  },
+  {
+    "name": "擴增實境",
+    "parent": "多媒體與視覺",
+    "aliases": [
+      "AR",
+      "augmented reality"
+    ]
+  },
+  {
+    "name": "多媒體系統",
+    "parent": "多媒體與視覺",
+    "aliases": []
+  },
+  {
+    "name": "多媒體網路",
+    "parent": "多媒體與視覺",
+    "aliases": [
+      "multimedia network"
+    ]
+  },
+  {
+    "name": "多媒體訊號處理",
+    "parent": "多媒體與視覺",
+    "aliases": [
+      "multimedia signal processing"
+    ]
+  },
+  {
+    "name": "影像辨識",
+    "parent": "多媒體與視覺",
+    "aliases": [
+      "image recognition"
+    ]
+  },
+  {
+    "name": "影像視訊處理",
+    "parent": "多媒體與視覺",
+    "aliases": [
+      "image and video processing"
+    ]
+  },
+  {
+    "name": "元宇宙",
+    "parent": "多媒體與視覺",
+    "aliases": [
+      "metaverse"
+    ]
+  },
+  {
+    "name": "程式設計",
+    "parent": "軟體工程",
+    "aliases": [
+      "programming",
+      "programming design"
+    ]
+  },
+  {
+    "name": "程式語言",
+    "parent": "軟體工程",
+    "aliases": [
+      "programming language",
+      "programming languages"
+    ]
+  },
+  {
+    "name": "電子商務",
+    "parent": "資訊管理",
+    "aliases": [
+      "e-commerce",
+      "電子商務(EC)"
+    ]
+  },
+  {
+    "name": "供應鏈管理",
+    "parent": "資訊管理",
+    "aliases": [
+      "supply chain management",
+      "SCM"
+    ]
+  },
+  {
+    "name": "金融科技",
+    "parent": "資訊管理",
+    "aliases": [
+      "fintech"
+    ]
+  },
+  {
+    "name": "數位學習",
+    "parent": "資訊管理",
+    "aliases": [
+      "e-learning"
+    ]
+  },
+  {
+    "name": "區塊鏈",
+    "parent": "資訊管理",
+    "aliases": [
+      "blockchain"
+    ]
+  },
+  {
+    "name": "智慧製造",
+    "parent": "資訊管理",
+    "aliases": [
+      "smart manufacturing"
+    ]
+  },
+  {
+    "name": "知識管理",
+    "parent": "資訊管理",
+    "aliases": [
+      "knowledge management"
+    ]
+  },
+  {
+    "name": "專案管理",
+    "parent": "資訊管理",
+    "aliases": [
+      "project management"
+    ]
+  },
+  {
+    "name": "管理資訊系統",
+    "parent": "資訊管理",
+    "aliases": [
+      "MIS",
+      "management information system"
+    ]
+  },
+  {
+    "name": "決策支援系統",
+    "parent": "資訊管理",
+    "aliases": [
+      "decision support system",
+      "decision support systems"
+    ]
+  },
+  {
+    "name": "決策分析",
+    "parent": "資訊管理",
+    "aliases": [
+      "decision analysis"
+    ]
+  },
+  {
+    "name": "資訊教育",
+    "parent": "資訊管理",
+    "aliases": [
+      "information education",
+      "IT education"
+    ]
+  },
+  {
+    "name": "網路行銷",
+    "parent": "資訊管理",
+    "aliases": [
+      "internet marketing",
+      "online marketing"
+    ]
+  },
+  {
+    "name": "行動商務",
+    "parent": "資訊管理",
+    "aliases": [
+      "mobile commerce"
+    ]
+  },
+  {
+    "name": "數位轉型",
+    "parent": "資訊管理",
+    "aliases": [
+      "digital transformation"
+    ]
+  },
+  {
+    "name": "企業資源規劃",
+    "parent": "資訊管理",
+    "aliases": [
+      "ERP",
+      "enterprise resource planning"
+    ]
+  },
+  {
+    "name": "顧客關係管理",
+    "parent": "資訊管理",
+    "aliases": [
+      "CRM",
+      "customer relationship management"
+    ]
+  },
+  {
+    "name": "作業研究",
+    "parent": "資訊管理",
+    "aliases": [
+      "operations research"
+    ]
+  },
+  {
+    "name": "演算法",
+    "parent": "計算理論",
+    "aliases": [
+      "algorithm",
+      "algorithms",
+      "演算法設計與分析"
+    ]
+  },
+  {
+    "name": "圖形理論",
+    "parent": "計算理論",
+    "aliases": [
+      "graph theory"
+    ]
+  },
+  {
+    "name": "賽局理論",
+    "parent": "計算理論",
+    "aliases": [
+      "game theory"
+    ]
+  },
+  {
+    "name": "量子計算",
+    "parent": "計算理論",
+    "aliases": [
+      "quantum computing"
+    ]
+  },
+  {
+    "name": "編碼理論",
+    "parent": "計算理論",
+    "aliases": [
+      "coding theory"
+    ]
+  },
+  {
+    "name": "錯誤更正碼",
+    "parent": "計算理論",
+    "aliases": [
+      "error correcting code",
+      "error-correcting code"
+    ]
+  },
+  {
+    "name": "最佳化",
+    "parent": "計算理論",
+    "aliases": [
+      "optimization"
+    ]
+  },
+  {
+    "name": "智慧醫療",
+    "parent": "生醫資訊",
+    "aliases": [
+      "smart healthcare"
+    ]
+  },
+  {
+    "name": "醫學資訊",
+    "parent": "生醫資訊",
+    "aliases": [
+      "醫療資訊",
+      "medical informatics"
+    ]
+  },
+  {
+    "name": "醫學影像處理",
+    "parent": "生醫資訊",
+    "aliases": [
+      "medical image processing"
+    ]
+  },
+  {
+    "name": "生醫訊號處理",
+    "parent": "生醫資訊",
+    "aliases": [
+      "biomedical signal processing"
+    ]
+  }
+]
