@@ -1,5 +1,6 @@
 import { useMemo, useState } from 'react'
 import { professors, schools } from './data.js'
+import { tags, tagIndex } from './tags.js'
 import { filterProfessors } from './filter.mjs'
 
 const DEPT_TYPES = ['資工', '偏所', '資管', '電機']
@@ -10,15 +11,8 @@ const toggle = (list, item) =>
 
 const profId = (p) => `${p.school}-${p.dept}-${p.name}`
 
-// ponytail: 熱門領域取全站出現次數前 24 名；tag 中英文正規化後這份名單會更乾淨（見 README TODO）
-const TOP_AREAS = (() => {
-  const count = new Map()
-  for (const p of professors) for (const a of p.areas) count.set(a, (count.get(a) ?? 0) + 1)
-  return [...count.entries()]
-    .sort((a, b) => b[1] - a[1])
-    .slice(0, 24)
-    .map(([a]) => a)
-})()
+const ROOTS = tags.filter((t) => t.parent === null)
+const childrenOf = (name) => tags.filter((t) => t.parent === name)
 
 const loadFavs = () => {
   try {
@@ -44,15 +38,17 @@ export default function ProfessorSearch() {
     localStorage.setItem(FAV_KEY, JSON.stringify([...next]))
   }
 
-  const results = useMemo(() => {
-    const base = filterProfessors(professors, {
-      query,
-      schools: selSchools,
-      deptTypes: selTypes,
-      areas: selAreas,
-    })
-    return favOnly ? base.filter((p) => favs.has(profId(p))) : base
-  }, [query, selSchools, selTypes, selAreas, favOnly, favs])
+  const results = useMemo(
+    () =>
+      filterProfessors(professors, {
+        query,
+        schools: selSchools,
+        deptTypes: selTypes,
+        areas: selAreas,
+        tagIndex,
+      }).filter((p) => (favOnly ? favs.has(profId(p)) : true)),
+    [query, selSchools, selTypes, selAreas, favOnly, favs],
+  )
 
   return (
     <>
@@ -95,21 +91,33 @@ export default function ProfessorSearch() {
             ★ 只看最愛（{favs.size}）
           </label>
         </fieldset>
-        <details className="top-areas">
-          <summary>熱門領域</summary>
-          <div className="tags">
-            {TOP_AREAS.map((a) => (
+        <details className="tag-tree">
+          <summary>研究領域分類</summary>
+          {ROOTS.map((root) => (
+            <div key={root.name} className="tag-group">
               <button
                 type="button"
-                key={a}
-                className={selAreas.includes(a) ? 'tag on' : 'tag'}
-                aria-pressed={selAreas.includes(a)}
-                onClick={() => setSelAreas(toggle(selAreas, a))}
+                className={selAreas.includes(root.name) ? 'tag on' : 'tag cat'}
+                aria-pressed={selAreas.includes(root.name)}
+                onClick={() => setSelAreas(toggle(selAreas, root.name))}
               >
-                {a}
+                {root.name}
               </button>
-            ))}
-          </div>
+              <div className="tag-children">
+                {childrenOf(root.name).map((c) => (
+                  <button
+                    type="button"
+                    key={c.name}
+                    className={selAreas.includes(c.name) ? 'tag on' : 'tag'}
+                    aria-pressed={selAreas.includes(c.name)}
+                    onClick={() => setSelAreas(toggle(selAreas, c.name))}
+                  >
+                    {c.name}
+                  </button>
+                ))}
+              </div>
+            </div>
+          ))}
         </details>
         {selAreas.length > 0 && (
           <div className="active-areas">

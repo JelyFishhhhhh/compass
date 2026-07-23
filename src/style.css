@@ -107,6 +107,20 @@ fieldset label { display: inline-flex; align-items: center; gap: 4px; cursor: po
 
 .top-areas .tags { margin-top: 8px; }
 
+.tag-tree {
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 8px 12px;
+}
+
+.tag-tree summary { font-size: 0.85rem; color: var(--muted); cursor: pointer; }
+
+.tag-group { margin-top: 10px; }
+
+.tag-children { display: flex; flex-wrap: wrap; gap: 6px; margin: 6px 0 0 12px; }
+
+.tag.cat { font-weight: 600; }
+
 .active-areas { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
 
 .active-areas button {
