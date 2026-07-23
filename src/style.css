@@ -97,16 +97,6 @@ fieldset label { display: inline-flex; align-items: center; gap: 4px; cursor: po
 
 .fav-only { margin-left: auto; }
 
-.top-areas {
-  border: 1px solid var(--border);
-  border-radius: 8px;
-  padding: 8px 12px;
-}
-
-.top-areas summary { font-size: 0.85rem; color: var(--muted); cursor: pointer; }
-
-.top-areas .tags { margin-top: 8px; }
-
 .tag-tree {
   border: 1px solid var(--border);
   border-radius: 8px;
