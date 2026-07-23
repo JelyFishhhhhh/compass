@@ -1,0 +1,30 @@
+{
+  "school": "中興",
+  "schoolFull": "國立中興大學",
+  "rounds": [
+    {
+      "round": "一推",
+      "academicYear": "115",
+      "applyStart": "2025-10-01",
+      "applyEnd": "2025-10-13",
+      "review": "2025-10-01~2025-10-13（同報名期間線上上傳審查資料；部分系所另須郵寄，郵戳為憑）",
+      "interview": "2025-10-18~2025-11-18（各系所甄試日期不同，詳簡章系所分則）",
+      "result": "2025-11-07（第一梯次〔含逕行錄取〕放榜、參加面試名單公告；新生暨遞補順序名單另於2025-11-19公告）",
+      "note": "校方以「第一梯次」稱之，對應本表之「一推」；與二推共用同一報名期間，僅放榜梯次不同。",
+      "isPreviousYear": false,
+      "source": "https://recruit.nchu.edu.tw/grade-exam/sele/115/115sele_Schedule.pdf"
+    },
+    {
+      "round": "二推",
+      "academicYear": "115",
+      "applyStart": "2025-10-01",
+      "applyEnd": "2025-10-13",
+      "review": "2025-10-01~2025-10-13（同報名期間線上上傳審查資料；部分系所另須郵寄，郵戳為憑）",
+      "interview": "2025-10-18~2025-11-18（各系所甄試日期不同，詳簡章系所分則）",
+      "result": "2025-11-25（第二梯次放榜；新生名單另於2025-12-08公告）",
+      "note": "校方以「第二梯次」稱之，對應本表之「二推」；與一推共用同一報名期間，僅放榜梯次不同。",
+      "isPreviousYear": false,
+      "source": "https://recruit.nchu.edu.tw/grade-exam/sele/115/115sele_Schedule.pdf"
+    }
+  ]
+}

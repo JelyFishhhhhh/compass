@@ -1,0 +1,18 @@
+{
+  "school": "台大",
+  "schoolFull": "國立臺灣大學",
+  "rounds": [
+    {
+      "round": "甄試",
+      "academicYear": "115",
+      "applyStart": "2025-10-01",
+      "applyEnd": "2025-10-08",
+      "review": "2025-10-01~2025-10-09（含資料上傳，紙本推薦函郵戳為憑）",
+      "interview": "",
+      "result": "2025-11-05（第1梯次放榜）、2025-11-20（第2梯次放榜）",
+      "note": "只有一次報名期間（114/10/1-10/8），放榜依各系所安排分兩梯次公告，非兩次獨立推甄（一推/二推）。筆試、口試日期依簡章各系所分則規定，校級日程表未列出統一日期。",
+      "isPreviousYear": false,
+      "source": "https://exam.aca.ntu.edu.tw/graf/papers/115%e6%9c%ac%e6%a0%a1%e7%b0%a1%e7%ab%a0%e6%97%a5%e7%a8%8b%e8%a1%a8.pdf"
+    }
+  ]
+}

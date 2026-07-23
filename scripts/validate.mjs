@@ -41,6 +41,44 @@ for (const file of readdirSync(dir).filter((f) => f.endsWith('.json'))) {
   }
 }
 
+// 推甄時程 src/data/schedule/*.json（school × 梯次）
+const ISO = /^(\d{4}-\d{2}(-\d{2})?)?$/ // 空字串、YYYY-MM 或 YYYY-MM-DD
+const schedDir = new URL('../src/data/schedule/', import.meta.url)
+let schedFiles = []
+try {
+  schedFiles = readdirSync(schedDir).filter((f) => f.endsWith('.json'))
+} catch {
+  // ponytail: schedule 目錄可選，不存在就跳過
+}
+for (const file of schedFiles) {
+  const err = (msg) => {
+    console.error(`schedule/${file}: ${msg}`)
+    errors++
+  }
+  let data
+  try {
+    data = JSON.parse(readFileSync(new URL(file, schedDir), 'utf8'))
+  } catch (e) {
+    err(`JSON 解析失敗: ${e.message}`)
+    continue
+  }
+  if (!data.school) err('缺 school')
+  if (!data.schoolFull) err('缺 schoolFull')
+  if (!Array.isArray(data.rounds)) {
+    err('rounds 須為陣列')
+    continue
+  }
+  for (const r of data.rounds) {
+    const id = r.round || '(無梯次)'
+    if (!r.round) err('有梯次缺 round')
+    if (!/^\d{3}$/.test(r.academicYear ?? '')) err(`${id}: academicYear 須為三位民國年字串`)
+    if (!ISO.test(r.applyStart ?? '')) err(`${id}: applyStart 須為 ISO 日期或空字串`)
+    if (!ISO.test(r.applyEnd ?? '')) err(`${id}: applyEnd 須為 ISO 日期或空字串`)
+    if (typeof r.isPreviousYear !== 'boolean') err(`${id}: isPreviousYear 須為布林`)
+    if (!r.source || !/^https?:\/\//.test(r.source)) err(`${id}: source 須為 http(s) 連結`)
+  }
+}
+
 if (errors) {
   console.error(`✗ 共 ${errors} 個錯誤`)
   process.exit(1)

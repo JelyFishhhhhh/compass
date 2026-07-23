@@ -1,0 +1,18 @@
+{
+  "school": "中山",
+  "schoolFull": "國立中山大學",
+  "rounds": [
+    {
+      "round": "甄試",
+      "academicYear": "115",
+      "applyStart": "2025-10-01",
+      "applyEnd": "2025-10-14",
+      "review": "2025-10-01~2025-10-14（上網取得繳費帳號及報名專用碼、繳交報名費、上傳報名及審查資料；未及者得於2025-10-15 17:00前補登錄）",
+      "interview": "2025-10-24~2025-11-13（各系所辦理甄試：審查面試系所2025-10-24~11-06，初審複試系所2025-11-07~11-13，實際日期依各系所公告為準）",
+      "result": "2025-11-25（教務處網頁公布榜單，預定；初審成績特優逕行錄取及通過初審參加複試名單另於2025-11-04公告）",
+      "note": "",
+      "isPreviousYear": false,
+      "source": "https://exam-acad.nsysu.edu.tw/exam_netlist/pdf_file/aca/TWpZeE1URXhOV1ZzWlY5aWNtbGxabDloWTJFeU1ESTFNVEl5TkE9PQ==.pdf"
+    }
+  ]
+}
