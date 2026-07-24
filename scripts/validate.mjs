@@ -79,6 +79,64 @@ for (const file of schedFiles) {
   }
 }
 
+// 受控詞彙 src/tags.json
+import { existsSync } from 'node:fs'
+const tagsUrl = new URL('../src/tags.json', import.meta.url)
+if (existsSync(tagsUrl)) {
+  const terr = (msg) => {
+    console.error(`tags.json: ${msg}`)
+    errors++
+  }
+  let tags
+  try {
+    tags = JSON.parse(readFileSync(tagsUrl, 'utf8'))
+  } catch (e) {
+    terr(`JSON 解析失敗: ${e.message}`)
+    tags = []
+  }
+  const names = new Set()
+  const normNames = new Set() // 正規化後的 name，供 alias 衝突比對（與 runtime 索引一致）
+  const norm = (s) => s.trim().toLowerCase()
+  const seenAlias = new Map() // normalized -> 來源
+  for (const n of tags) {
+    if (typeof n.name !== 'string' || !n.name) terr('有節點缺 name')
+    if (names.has(n.name)) terr(`name 重複「${n.name}」`)
+    names.add(n.name)
+    normNames.add(norm(n.name))
+    if (!Array.isArray(n.aliases)) terr(`${n.name}: aliases 須為陣列`)
+    if (n.parent !== null && typeof n.parent !== 'string') terr(`${n.name}: parent 須為 null 或字串`)
+  }
+  const rootNames = new Set(tags.filter((n) => n.parent === null).map((n) => n.name))
+  for (const n of tags) {
+    if (n.parent !== null && !names.has(n.parent)) terr(`${n.name}: parent「${n.parent}」不存在`)
+    // 只做兩層：非頂層節點的 parent 必須是頂層大類
+    if (n.parent !== null && names.has(n.parent) && !rootNames.has(n.parent)) {
+      terr(`${n.name}: parent「${n.parent}」非頂層大類（僅允許兩層）`)
+    }
+    // 別名唯一、且不與任何 name 衝突（比對正規化，與 buildTagIndex 一致）
+    for (const a of n.aliases ?? []) {
+      const key = norm(a)
+      if (normNames.has(key) && key !== norm(n.name)) terr(`${n.name}: alias「${a}」與某 name 衝突`)
+      if (seenAlias.has(key)) terr(`alias「${a}」重複（${seenAlias.get(key)} 與 ${n.name}）`)
+      seenAlias.set(key, n.name)
+    }
+  }
+  // 無循環：沿 parent 上溯不得回到自身
+  const byName = new Map(tags.map((n) => [n.name, n]))
+  for (const n of tags) {
+    const seen = new Set()
+    let cur = n
+    while (cur && cur.parent !== null) {
+      if (seen.has(cur.name)) {
+        terr(`${n.name}: parent 鏈有循環`)
+        break
+      }
+      seen.add(cur.name)
+      cur = byName.get(cur.parent)
+    }
+  }
+}
+
 if (errors) {
   console.error(`✗ 共 ${errors} 個錯誤`)
   process.exit(1)

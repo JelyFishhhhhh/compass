@@ -36,3 +36,59 @@ test('areas 為 AND 條件', () => {
 test('條件為交集', () => {
   assert.equal(filterProfessors(profs, { query: '王', schools: ['清大'] }).length, 0)
 })
+
+// Task 2: expandArea 和 taxonomy-aware 篩選
+import { buildTagIndex } from './tag-index.mjs'
+import { expandArea } from './filter.mjs'
+
+const TAX = buildTagIndex([
+  { name: '資訊安全', parent: null, aliases: ['資安', 'cybersecurity'] },
+  { name: '網頁安全', parent: '資訊安全', aliases: ['web security'] },
+  { name: '密碼學', parent: '資訊安全', aliases: [] },
+  { name: '機器學習', parent: null, aliases: ['machine learning'] },
+])
+
+const taxProfs = [
+  { name: '甲', school: 'A', dept: 'D', deptType: '資工', areas: ['網頁安全'], lab: '', highlights: '', notes: '' },
+  { name: '乙', school: 'A', dept: 'D', deptType: '資工', areas: ['密碼學'], lab: '', highlights: '', notes: '' },
+  { name: '丙', school: 'A', dept: 'D', deptType: '資工', areas: ['Machine Learning'], lab: '', highlights: '', notes: '' },
+]
+
+test('expandArea 上位含子樹與別名', () => {
+  const set = expandArea('資訊安全', TAX)
+  assert.ok(set.has('網頁安全'))
+  assert.ok(set.has('密碼學'))
+  assert.ok(set.has('web security'))
+  assert.ok(set.has('cybersecurity'))
+})
+
+test('expandArea 子類不上擴', () => {
+  const set = expandArea('密碼學', TAX)
+  assert.ok(set.has('密碼學'))
+  assert.ok(!set.has('網頁安全'))
+})
+
+test('expandArea 長尾字串 fallback 為自身', () => {
+  assert.deepEqual([...expandArea('某冷門領域', TAX)], ['某冷門領域'])
+  assert.deepEqual([...expandArea('某冷門領域', undefined)], ['某冷門領域'])
+})
+
+test('選上位類別命中子類教授', () => {
+  const r = filterProfessors(taxProfs, { areas: ['資訊安全'], tagIndex: TAX })
+  assert.deepEqual(r.map((p) => p.name), ['甲', '乙'])
+})
+
+test('選子類不命中兄弟或上位', () => {
+  const r = filterProfessors(taxProfs, { areas: ['密碼學'], tagIndex: TAX })
+  assert.deepEqual(r.map((p) => p.name), ['乙'])
+})
+
+test('同義詞折疊（大小寫不敏感）', () => {
+  const r = filterProfessors(taxProfs, { areas: ['機器學習'], tagIndex: TAX })
+  assert.deepEqual(r.map((p) => p.name), ['丙'])
+})
+
+test('無 tagIndex 時退回精確比對（向後相容）', () => {
+  const r = filterProfessors(taxProfs, { areas: ['資訊安全'] })
+  assert.equal(r.length, 0)
+})
