@@ -214,3 +214,169 @@ fieldset label { display: inline-flex; align-items: center; gap: 4px; cursor: po
 }
 
 .sched-table td { vertical-align: top; padding: 3px 0; }
+
+/* 行事曆／時間軸 */
+:root {
+  --k-apply: #2f6fd0;
+  --k-review: #7a5bd0;
+  --k-interview: #c2761c;
+  --k-result: #1f8f57;
+}
+
+:root[data-theme='dark'] {
+  --k-apply: #4d8ae8;
+  --k-review: #9a7fe8;
+  --k-interview: #d99441;
+  --k-result: #35ab70;
+}
+
+.sched-bar { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-bottom: 8px; }
+
+.tabs.sub { margin-bottom: 0; }
+
+.tabs.sub .tab { padding: 4px 12px; font-size: 0.9rem; }
+
+.ics-btn {
+  margin-left: auto;
+  border: 1px solid var(--chip-border);
+  background: var(--chip-bg);
+  color: var(--fg);
+  border-radius: 8px;
+  padding: 5px 12px;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+.kind-dot { width: 10px; height: 10px; border-radius: 3px; display: inline-block; }
+
+.kind-dot.apply { background: var(--k-apply); }
+.kind-dot.review { background: var(--k-review); }
+.kind-dot.interview { background: var(--k-interview); }
+.kind-dot.result { background: var(--k-result); }
+
+.event-detail {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--accent);
+  border-radius: 10px;
+  padding: 12px 14px;
+  margin-bottom: 12px;
+}
+
+.ed-head { display: flex; flex-wrap: wrap; gap: 8px; align-items: baseline; }
+
+.ed-close { margin-left: auto; border: none; background: none; color: var(--muted); cursor: pointer; font-size: 1rem; }
+
+.cal-month { margin-bottom: 20px; }
+
+.cal-month h3 { font-size: 1.05rem; margin-bottom: 6px; }
+
+.cal-weekdays,
+.cal-week { display: grid; grid-template-columns: repeat(7, 1fr); gap: 2px; }
+
+.cal-weekdays span {
+  font-size: 0.8rem;
+  color: var(--muted);
+  text-align: center;
+  padding-bottom: 2px;
+}
+
+.cal-week {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 4px;
+  margin-bottom: 4px;
+  align-content: start;
+}
+
+.cal-day { font-size: 0.8rem; color: var(--muted); text-align: right; padding: 0 4px; }
+
+.cal-day.out { opacity: 0.35; }
+
+.cal-bar {
+  border: none;
+  border-radius: 4px;
+  color: #fff;
+  font-size: 0.75rem;
+  line-height: 1.5;
+  padding: 1px 6px;
+  margin: 1px 0;
+  text-align: left;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  cursor: pointer;
+}
+
+.cal-bar.apply { background: var(--k-apply); }
+.cal-bar.review { background: var(--k-review); }
+.cal-bar.interview { background: var(--k-interview); }
+.cal-bar.result { background: var(--k-result); }
+
+.cal-bar.cont-l { border-top-left-radius: 0; border-bottom-left-radius: 0; }
+.cal-bar.cont-r { border-top-right-radius: 0; border-bottom-right-radius: 0; }
+
+.cal-bar.on { outline: 2px solid var(--fg); outline-offset: 1px; }
+
+.timeline {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 10px 12px;
+  overflow-x: auto;
+}
+
+.tl-months,
+.tl-row { display: flex; align-items: flex-start; gap: 8px; }
+
+.tl-months { align-items: center; min-height: 24px; }
+
+.tl-row + .tl-row { margin-top: 4px; padding-top: 4px; border-top: 1px dashed var(--border); }
+
+.tl-label {
+  width: 4.5em;
+  flex: none;
+  font-size: 0.85rem;
+  color: var(--muted);
+  text-align: right;
+}
+
+.tl-track { position: relative; flex: 1; min-width: 320px; height: 20px; }
+
+.tl-month {
+  position: absolute;
+  top: 0;
+  font-size: 0.75rem;
+  color: var(--muted);
+  border-left: 1px solid var(--border);
+  padding-left: 4px;
+}
+
+.tl-gridline { position: absolute; top: 0; bottom: 0; border-left: 1px solid var(--border); }
+
+.tl-bar {
+  position: absolute;
+  height: 14px;
+  min-width: 4px;
+  border: none;
+  border-radius: 3px;
+  padding: 0;
+  cursor: pointer;
+  overflow: hidden;
+}
+
+.tl-bar.apply { background: var(--k-apply); }
+.tl-bar.review { background: var(--k-review); }
+.tl-bar.interview { background: var(--k-interview); }
+.tl-bar.result { background: var(--k-result); }
+
+.tl-bar.on { outline: 2px solid var(--fg); outline-offset: 1px; }
+
+.tl-bar-text {
+  color: #fff;
+  font-size: 0.65rem;
+  line-height: 14px;
+  padding: 0 3px;
+  white-space: nowrap;
+}
