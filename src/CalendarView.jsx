@@ -1,10 +1,10 @@
 import { KIND_SLUG, monthsInRange, weeksOfMonth, barsForWeek, toIso } from './calendar-grid.mjs'
 import { eventTitle } from './schedule-events.mjs'
-
-const WEEKDAYS = ['一', '二', '三', '四', '五', '六', '日']
+import { useLang } from './i18n.jsx'
 
 export default function CalendarView({ events, selected, onSelect }) {
-  if (events.length === 0) return <p className="empty">沒有符合條件的事件</p>
+  const { t, kind, monthLabel } = useLang()
+  if (events.length === 0) return <p className="empty">{t('noEvents')}</p>
 
   const minIso = events.reduce((m, e) => (e.start < m ? e.start : m), events[0].start)
   const maxIso = events.reduce((m, e) => (e.end > m ? e.end : m), events[0].end)
@@ -13,11 +13,9 @@ export default function CalendarView({ events, selected, onSelect }) {
     <div className="calendar">
       {monthsInRange(minIso, maxIso).map(({ year, month }) => (
         <section key={`${year}-${month}`} className="cal-month">
-          <h3>
-            {year} 年 {month + 1} 月
-          </h3>
+          <h3>{monthLabel(year, month)}</h3>
           <div className="cal-weekdays">
-            {WEEKDAYS.map((w) => (
+            {t('weekdays').map((w) => (
               <span key={w}>{w}</span>
             ))}
           </div>
@@ -45,10 +43,10 @@ export default function CalendarView({ events, selected, onSelect }) {
                     .filter(Boolean)
                     .join(' ')}
                   style={{ gridColumn: `${colStart} / span ${span}` }}
-                  title={`${eventTitle(event)}（${event.start}${event.end !== event.start ? ` ~ ${event.end}` : ''}）`}
+                  title={`${eventTitle(event, kind)}（${event.start}${event.end !== event.start ? ` ~ ${event.end}` : ''}）`}
                   onClick={() => onSelect(selected?.id === event.id ? null : event)}
                 >
-                  {eventTitle(event)}
+                  {eventTitle(event, kind)}
                 </button>
               ))}
             </div>

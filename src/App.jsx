@@ -1,14 +1,12 @@
 import { useEffect, useState } from 'react'
+import { LangProvider, useLang } from './i18n.jsx'
 import ProfessorSearch from './ProfessorSearch.jsx'
 import ScheduleView from './ScheduleView.jsx'
 
 const THEME_KEY = 'compass-theme'
-const TABS = [
-  ['profs', '教授查詢'],
-  ['schedule', '推甄時程'],
-]
 
-export default function App() {
+function Shell() {
+  const { t, lang, toggleLang } = useLang()
   const [tab, setTab] = useState('profs')
   const [theme, setTheme] = useState(
     () =>
@@ -21,23 +19,33 @@ export default function App() {
     localStorage.setItem(THEME_KEY, theme)
   }, [theme])
 
+  const tabs = [
+    ['profs', t('tabProfs')],
+    ['schedule', t('tabSchedule')],
+  ]
+
   return (
     <div className="app">
       <header>
         <div className="header-row">
           <h1>COMPASS</h1>
-          <button
-            type="button"
-            className="theme-toggle"
-            aria-label="切換亮暗色主題"
-            onClick={() => setTheme(theme === 'dark' ? 'light' : 'dark')}
-          >
-            {theme === 'dark' ? '☾' : '☀'}
-          </button>
+          <div className="header-actions">
+            <button type="button" className="lang-toggle" aria-label={t('langToggle')} onClick={toggleLang}>
+              {lang === 'zh' ? 'EN' : '中'}
+            </button>
+            <button
+              type="button"
+              className="theme-toggle"
+              aria-label={t('themeToggle')}
+              onClick={() => setTheme(theme === 'dark' ? 'light' : 'dark')}
+            >
+              {theme === 'dark' ? '☾' : '☀'}
+            </button>
+          </div>
         </div>
-        <p className="tagline">台灣國立大學資訊領域教授查詢 · Comprehensive Professor and School Search System</p>
+        <p className="tagline">{t('tagline')}</p>
         <nav className="tabs">
-          {TABS.map(([id, label]) => (
+          {tabs.map(([id, label]) => (
             <button
               type="button"
               key={id}
@@ -53,5 +61,13 @@ export default function App() {
 
       {tab === 'profs' ? <ProfessorSearch /> : <ScheduleView />}
     </div>
+  )
+}
+
+export default function App() {
+  return (
+    <LangProvider>
+      <Shell />
+    </LangProvider>
   )
 }

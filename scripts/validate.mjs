@@ -105,6 +105,7 @@ if (existsSync(tagsUrl)) {
     normNames.add(norm(n.name))
     if (!Array.isArray(n.aliases)) terr(`${n.name}: aliases 須為陣列`)
     if (n.parent !== null && typeof n.parent !== 'string') terr(`${n.name}: parent 須為 null 或字串`)
+    if (typeof n.en !== 'string' || !n.en) terr(`${n.name}: 缺英文名稱 en（中英切換需要）`)
   }
   const rootNames = new Set(tags.filter((n) => n.parent === null).map((n) => n.name))
   for (const n of tags) {

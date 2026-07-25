@@ -78,6 +78,11 @@ test('eventTitle 甄試不重複標梯次', () => {
   assert.equal(eventTitle({ school: '中興', round: '一推', kind: '放榜' }), '中興一推放榜')
 })
 
+test('eventTitle 英文事件類型才補空格', () => {
+  const en = { 報名: 'Application' }
+  assert.equal(eventTitle({ school: '成大', round: '甄試', kind: '報名' }, (k) => en[k]), '成大 Application')
+})
+
 test('nextDay 跨月正確', () => {
   assert.equal(nextDay('2025-10-31'), '2025-11-01')
   assert.equal(nextDay('2025-12-31'), '2026-01-01')

@@ -2,6 +2,8 @@ import { useMemo, useState } from 'react'
 import { professors, schools } from './data.js'
 import { tags, tagIndex } from './tags.js'
 import { filterProfessors } from './filter.mjs'
+import { canonicalOf, displayArea } from './area-display.mjs'
+import { useLang } from './i18n.jsx'
 
 const DEPT_TYPES = ['資工', '偏所', '資管', '電機']
 const FAV_KEY = 'compass-favs'
@@ -23,12 +25,17 @@ const loadFavs = () => {
 }
 
 export default function ProfessorSearch() {
+  const { t, lang, deptType, title } = useLang()
   const [query, setQuery] = useState('')
   const [selSchools, setSelSchools] = useState([])
   const [selTypes, setSelTypes] = useState([])
   const [selAreas, setSelAreas] = useState([])
   const [favs, setFavs] = useState(loadFavs)
   const [favOnly, setFavOnly] = useState(false)
+
+  // 詞彙表內的標籤一律以 canonical 名稱進篩選，顯示時再依語言轉換
+  const pickArea = (raw) => setSelAreas(toggle(selAreas, canonicalOf(raw, tagIndex) ?? raw))
+  const show = (raw) => displayArea(raw, tagIndex, lang)
 
   const toggleFav = (id) => {
     const next = new Set(favs)
@@ -50,19 +57,31 @@ export default function ProfessorSearch() {
     [query, selSchools, selTypes, selAreas, favOnly, favs],
   )
 
+  const tagBtn = (raw, key) => (
+    <button
+      type="button"
+      key={key ?? raw}
+      className={selAreas.includes(canonicalOf(raw, tagIndex) ?? raw) ? 'tag on' : 'tag'}
+      aria-pressed={selAreas.includes(canonicalOf(raw, tagIndex) ?? raw)}
+      onClick={() => pickArea(raw)}
+    >
+      {show(raw)}
+    </button>
+  )
+
   return (
     <>
       <input
         type="search"
-        aria-label="搜尋"
-        placeholder="搜尋姓名、實驗室、研究領域…"
+        aria-label={t('search')}
+        placeholder={t('searchPlaceholder')}
         value={query}
         onChange={(e) => setQuery(e.target.value)}
       />
 
       <div className="filters">
         <fieldset>
-          <legend>學校</legend>
+          <legend>{t('school')}</legend>
           {schools.map((s) => (
             <label key={s.school}>
               <input
@@ -75,24 +94,24 @@ export default function ProfessorSearch() {
           ))}
         </fieldset>
         <fieldset>
-          <legend>系所類型</legend>
-          {DEPT_TYPES.map((t) => (
-            <label key={t}>
+          <legend>{t('deptType')}</legend>
+          {DEPT_TYPES.map((tp) => (
+            <label key={tp}>
               <input
                 type="checkbox"
-                checked={selTypes.includes(t)}
-                onChange={() => setSelTypes(toggle(selTypes, t))}
+                checked={selTypes.includes(tp)}
+                onChange={() => setSelTypes(toggle(selTypes, tp))}
               />
-              {t}
+              {deptType(tp)}
             </label>
           ))}
           <label className="fav-only">
             <input type="checkbox" checked={favOnly} onChange={() => setFavOnly(!favOnly)} />
-            ★ 只看最愛（{favs.size}）
+            ★ {t('favOnly')}（{favs.size}）
           </label>
         </fieldset>
         <details className="tag-tree">
-          <summary>研究領域分類</summary>
+          <summary>{t('areaTree')}</summary>
           {ROOTS.map((root) => (
             <div key={root.name} className="tag-group">
               <button
@@ -101,7 +120,7 @@ export default function ProfessorSearch() {
                 aria-pressed={selAreas.includes(root.name)}
                 onClick={() => setSelAreas(toggle(selAreas, root.name))}
               >
-                {root.name}
+                {show(root.name)}
               </button>
               <div className="tag-children">
                 {childrenOf(root.name).map((c) => (
@@ -112,7 +131,7 @@ export default function ProfessorSearch() {
                     aria-pressed={selAreas.includes(c.name)}
                     onClick={() => setSelAreas(toggle(selAreas, c.name))}
                   >
-                    {c.name}
+                    {show(c.name)}
                   </button>
                 ))}
               </div>
@@ -121,10 +140,10 @@ export default function ProfessorSearch() {
         </details>
         {selAreas.length > 0 && (
           <div className="active-areas">
-            領域篩選：
+            {t('areaFilter')}
             {selAreas.map((a) => (
               <button type="button" key={a} onClick={() => setSelAreas(toggle(selAreas, a))}>
-                {a} ✕
+                {show(a)} ✕
               </button>
             ))}
           </div>
@@ -132,7 +151,7 @@ export default function ProfessorSearch() {
       </div>
 
       <p className="count">
-        {results.length} / {professors.length} 位教授
+        {results.length} / {professors.length} {t('countSuffix')}
       </p>
 
       <ul className="cards">
@@ -142,14 +161,14 @@ export default function ProfessorSearch() {
             <li key={id} className="card">
               <div className="card-head">
                 <strong>{p.name}</strong>
-                <span className="title">{p.title}</span>
+                <span className="title">{title(p.title)}</span>
                 <span className="school">
                   {p.school}・{p.dept}
                 </span>
                 <button
                   type="button"
                   className={favs.has(id) ? 'fav on' : 'fav'}
-                  aria-label={favs.has(id) ? '移除最愛' : '加入最愛'}
+                  aria-label={favs.has(id) ? t('removeFav') : t('addFav')}
                   aria-pressed={favs.has(id)}
                   onClick={() => toggleFav(id)}
                 >
@@ -157,19 +176,7 @@ export default function ProfessorSearch() {
                 </button>
               </div>
               {p.areas.length > 0 && (
-                <div className="tags">
-                  {p.areas.map((a) => (
-                    <button
-                      type="button"
-                      key={a}
-                      className={selAreas.includes(a) ? 'tag on' : 'tag'}
-                      aria-pressed={selAreas.includes(a)}
-                      onClick={() => setSelAreas(toggle(selAreas, a))}
-                    >
-                      {a}
-                    </button>
-                  ))}
-                </div>
+                <div className="tags">{p.areas.map((a) => tagBtn(a, `${id}-${a}`))}</div>
               )}
               {p.lab &&
                 (p.labWebsite ? (
@@ -186,7 +193,7 @@ export default function ProfessorSearch() {
               <p className="links">
                 {p.website && (
                   <a href={p.website} target="_blank" rel="noreferrer">
-                    個人網頁
+                    {t('website')}
                   </a>
                 )}
                 {p.email && <a href={`mailto:${p.email}`}>{p.email}</a>}
@@ -195,7 +202,7 @@ export default function ProfessorSearch() {
           )
         })}
       </ul>
-      {results.length === 0 && <p className="empty">沒有符合條件的教授</p>}
+      {results.length === 0 && <p className="empty">{t('noProfs')}</p>}
     </>
   )
 }

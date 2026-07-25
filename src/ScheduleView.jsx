@@ -1,38 +1,44 @@
 import { useMemo, useState } from 'react'
-import { schedules } from './schedule.js'
+import { schedules, TARGET_YEAR } from './schedule.js'
 import { buildEvents, eventTitle, KINDS } from './schedule-events.mjs'
 import { toIcs, googleCalendarUrl } from './calendar-export.mjs'
 import { KIND_SLUG } from './calendar-grid.mjs'
+import { useLang } from './i18n.jsx'
 import CalendarView from './CalendarView.jsx'
 import TimelineView from './TimelineView.jsx'
 import ScheduleList from './ScheduleList.jsx'
 
-const MODES = [
-  ['calendar', '月曆'],
-  ['timeline', '時間軸'],
-  ['list', '清單'],
-]
-
 const ALL_EVENTS = buildEvents(schedules)
+
+// 資料所屬學年度（取最常見者）；與 TARGET_YEAR 不同代表目前只有往年資料
+const DATA_YEAR = schedules[0]?.rounds?.[0]?.academicYear ?? ''
+const IS_STALE = DATA_YEAR !== TARGET_YEAR
 
 const toggle = (list, item) =>
   list.includes(item) ? list.filter((x) => x !== item) : [...list, item]
 
-function downloadIcs(events) {
-  const blob = new Blob([toIcs(events)], { type: 'text/calendar;charset=utf-8' })
+export function downloadIcs(events, filename, kindFn) {
+  const blob = new Blob([toIcs(events, { kindFn })], { type: 'text/calendar;charset=utf-8' })
   const url = URL.createObjectURL(blob)
   const a = document.createElement('a')
   a.href = url
-  a.download = 'compass-推甄時程.ics'
+  a.download = filename
   a.click()
   URL.revokeObjectURL(url)
 }
 
 export default function ScheduleView() {
+  const { t, kind } = useLang()
   const [mode, setMode] = useState('calendar')
   const [selSchools, setSelSchools] = useState([])
   const [selKinds, setSelKinds] = useState([])
   const [selected, setSelected] = useState(null)
+
+  const modes = [
+    ['calendar', t('viewCalendar')],
+    ['timeline', t('viewTimeline')],
+    ['list', t('viewList')],
+  ]
 
   const events = useMemo(
     () =>
@@ -48,11 +54,18 @@ export default function ScheduleView() {
     ? schedules.filter((s) => selSchools.includes(s.school))
     : schedules
 
+  const downloadSchool = (school) =>
+    downloadIcs(
+      ALL_EVENTS.filter((e) => e.school === school),
+      `compass-${school}.ics`,
+      kind,
+    )
+
   return (
     <>
       <div className="sched-bar">
         <nav className="tabs sub">
-          {MODES.map(([id, label]) => (
+          {modes.map(([id, label]) => (
             <button
               type="button"
               key={id}
@@ -64,18 +77,27 @@ export default function ScheduleView() {
             </button>
           ))}
         </nav>
-        <button type="button" className="ics-btn" onClick={() => downloadIcs(events)}>
-          ⤓ 下載 .ics（{events.length} 個事件）
+        <button
+          type="button"
+          className="ics-btn"
+          onClick={() => downloadIcs(events, 'compass-schedule.ics', kind)}
+        >
+          ⤓ {t('downloadIcs')}（{events.length} {t('eventsSuffix')}）
         </button>
       </div>
-      <p className="sched-intro">
-        115 學年度碩士班甄試時程，資料以各校官方簡章為準。下載 .ics 可匯入 Google 日曆後分享給同學；
-        點事件可單獨加入 Google 日曆。
-      </p>
+
+      {IS_STALE && (
+        <div className="stale-notice">
+          <strong>⚠ {t('staleTitle', { year: DATA_YEAR })}</strong>
+          <p>{t('staleBody', { target: TARGET_YEAR })}</p>
+        </div>
+      )}
+
+      <p className="sched-intro">{t('schedIntro')}</p>
 
       <div className="filters">
         <fieldset>
-          <legend>學校</legend>
+          <legend>{t('school')}</legend>
           {schedules.map((s) => (
             <label key={s.school}>
               <input
@@ -89,7 +111,7 @@ export default function ScheduleView() {
         </fieldset>
         {mode !== 'list' && (
           <fieldset>
-            <legend>事件類型</legend>
+            <legend>{t('eventKind')}</legend>
             {KINDS.map((k) => (
               <label key={k}>
                 <input
@@ -98,7 +120,7 @@ export default function ScheduleView() {
                   onChange={() => setSelKinds(toggle(selKinds, k))}
                 />
                 <span className={`kind-dot ${KIND_SLUG[k]}`} />
-                {k}
+                {kind(k)}
               </label>
             ))}
           </fieldset>
@@ -108,23 +130,31 @@ export default function ScheduleView() {
       {selected && (
         <div className="event-detail">
           <div className="ed-head">
-            <strong>{eventTitle(selected)}</strong>
+            <strong>{eventTitle(selected, kind)}</strong>
             <span className="year">
               {selected.start}
               {selected.end !== selected.start && ` ~ ${selected.end}`}
             </span>
-            <button type="button" className="ed-close" aria-label="關閉" onClick={() => setSelected(null)}>
+            <button
+              type="button"
+              className="ed-close"
+              aria-label={t('close')}
+              onClick={() => setSelected(null)}
+            >
               ✕
             </button>
           </div>
           {selected.note && <p className="notes">✎ {selected.note}</p>}
           <p className="links">
-            <a href={googleCalendarUrl(selected)} target="_blank" rel="noreferrer">
-              加入 Google 日曆
+            <button type="button" className="ics-btn sm" onClick={() => downloadSchool(selected.school)}>
+              ⤓ {t('downloadSchool')}
+            </button>
+            <a href={googleCalendarUrl(selected, kind)} target="_blank" rel="noreferrer">
+              {t('addToGoogle')}
             </a>
             {selected.source && (
               <a href={selected.source} target="_blank" rel="noreferrer">
-                官方簡章
+                {t('officialDoc')}
               </a>
             )}
           </p>
@@ -137,7 +167,9 @@ export default function ScheduleView() {
       {mode === 'timeline' && (
         <TimelineView events={events} selected={selected} onSelect={setSelected} />
       )}
-      {mode === 'list' && <ScheduleList schedules={shownSchedules} />}
+      {mode === 'list' && (
+        <ScheduleList schedules={shownSchedules} onDownloadSchool={downloadSchool} />
+      )}
     </>
   )
 }
