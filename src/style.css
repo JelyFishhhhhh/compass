@@ -45,6 +45,19 @@ body {
 
 header h1 { font-size: 1.5rem; }
 
+.header-actions { display: flex; gap: 6px; }
+
+.lang-toggle {
+  border: 1px solid var(--border);
+  background: var(--card);
+  color: var(--fg);
+  border-radius: 8px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  padding: 4px 10px;
+  cursor: pointer;
+}
+
 .theme-toggle {
   border: 1px solid var(--border);
   background: var(--card);
@@ -246,6 +259,23 @@ fieldset label { display: inline-flex; align-items: center; gap: 4px; cursor: po
   font-size: 0.9rem;
   cursor: pointer;
 }
+
+.ics-btn.sm { margin-left: 0; padding: 3px 10px; font-size: 0.85rem; }
+
+.push-right { margin-left: auto; }
+
+.stale-notice {
+  background: var(--chip-bg);
+  border: 1px solid var(--notes);
+  border-left: 4px solid var(--notes);
+  border-radius: 8px;
+  padding: 10px 14px;
+  margin-bottom: 10px;
+}
+
+.stale-notice strong { color: var(--notes); }
+
+.stale-notice p { font-size: 0.9rem; color: var(--muted); margin-top: 2px; }
 
 .kind-dot { width: 10px; height: 10px; border-radius: 3px; display: inline-block; }
 

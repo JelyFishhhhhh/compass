@@ -73,5 +73,10 @@ export function buildEvents(schedules) {
   )
 }
 
-export const eventTitle = (e) =>
-  `${e.school}${e.round === '甄試' ? '' : e.round}${e.kind}`
+// kindFn 讓英文模式把「報名」等事件類型換成英文；學校與梯次為專有名詞，不譯
+export function eventTitle(e, kindFn = (k) => k) {
+  const prefix = `${e.school}${e.round === '甄試' ? '' : e.round}`
+  const kind = kindFn(e.kind)
+  // 中文不加空格（成大報名），英文才加（成大 Application）
+  return /[A-Za-z]/.test(kind) ? `${prefix} ${kind}` : `${prefix}${kind}`
+}

@@ -32,7 +32,8 @@ export function nextDay(iso) {
   return d.toISOString().slice(0, 10)
 }
 
-export function toIcs(events, now = new Date()) {
+// kindFn：把事件類型翻成目前介面語言，讓匯出的行事曆與畫面一致
+export function toIcs(events, { now = new Date(), kindFn } = {}) {
   const dtstamp = `${now.toISOString().replace(/[-:]/g, '').split('.')[0]}Z`
   const lines = [
     'BEGIN:VCALENDAR',
@@ -50,7 +51,7 @@ export function toIcs(events, now = new Date()) {
       `DTSTAMP:${dtstamp}`,
       `DTSTART;VALUE=DATE:${compact(e.start)}`,
       `DTEND;VALUE=DATE:${compact(nextDay(e.end))}`,
-      `SUMMARY:${esc(eventTitle(e))}`,
+      `SUMMARY:${esc(eventTitle(e, kindFn))}`,
     )
     if (e.note) lines.push(`DESCRIPTION:${esc(e.note)}`)
     if (e.source) lines.push(`URL:${esc(e.source)}`)
@@ -60,10 +61,10 @@ export function toIcs(events, now = new Date()) {
   return `${lines.map(foldLine).join('\r\n')}\r\n`
 }
 
-export function googleCalendarUrl(e) {
+export function googleCalendarUrl(e, kindFn) {
   const params = new URLSearchParams({
     action: 'TEMPLATE',
-    text: eventTitle(e),
+    text: eventTitle(e, kindFn),
     dates: `${compact(e.start)}/${compact(nextDay(e.end))}`,
     details: [e.note, e.source].filter(Boolean).join('\n'),
   })

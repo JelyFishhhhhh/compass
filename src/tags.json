@@ -1,43 +1,54 @@
 [
   {
     "name": "人工智慧",
+    "en": "Artificial Intelligence",
     "parent": null,
     "aliases": [
       "AI",
-      "artificial intelligence"
+      "artificial intelligence",
+      "人工智慧(Artificial Intelligence)",
+      "AI人工智慧",
+      "人工智慧(AI)"
     ]
   },
   {
     "name": "資訊安全",
+    "en": "Information Security",
     "parent": null,
     "aliases": [
       "資安",
       "cybersecurity",
-      "information security"
+      "information security",
+      "資通訊安全(Information and Communication Security)"
     ]
   },
   {
     "name": "網路與通訊",
+    "en": "Networking and Communications",
     "parent": null,
     "aliases": []
   },
   {
     "name": "系統與硬體",
+    "en": "Systems and Hardware",
     "parent": null,
     "aliases": []
   },
   {
     "name": "資料與資料庫",
+    "en": "Data and Databases",
     "parent": null,
     "aliases": []
   },
   {
     "name": "多媒體與視覺",
+    "en": "Multimedia and Vision",
     "parent": null,
     "aliases": []
   },
   {
     "name": "軟體工程",
+    "en": "Software Engineering",
     "parent": null,
     "aliases": [
       "software engineering"
@@ -45,6 +56,7 @@
   },
   {
     "name": "人機互動",
+    "en": "Human-Computer Interaction",
     "parent": null,
     "aliases": [
       "HCI",
@@ -53,11 +65,13 @@
   },
   {
     "name": "資訊管理",
+    "en": "Information Management",
     "parent": null,
     "aliases": []
   },
   {
     "name": "計算理論",
+    "en": "Theory of Computation",
     "parent": null,
     "aliases": [
       "theory of computation"
@@ -65,14 +79,17 @@
   },
   {
     "name": "生醫資訊",
+    "en": "Biomedical Informatics",
     "parent": null,
     "aliases": [
       "生物資訊",
-      "bioinformatics"
+      "bioinformatics",
+      "Biomedical Informatics"
     ]
   },
   {
     "name": "機器學習",
+    "en": "Machine Learning",
     "parent": "人工智慧",
     "aliases": [
       "machine learning",
@@ -82,13 +99,16 @@
   },
   {
     "name": "深度學習",
+    "en": "Deep Learning",
     "parent": "人工智慧",
     "aliases": [
-      "deep learning"
+      "deep learning",
+      "深度學習(Deep Learning)"
     ]
   },
   {
     "name": "類神經網路",
+    "en": "Neural Networks",
     "parent": "人工智慧",
     "aliases": [
       "neural network",
@@ -97,6 +117,7 @@
   },
   {
     "name": "自然語言處理",
+    "en": "Natural Language Processing",
     "parent": "人工智慧",
     "aliases": [
       "NLP",
@@ -105,11 +126,13 @@
   },
   {
     "name": "人工智慧應用",
+    "en": "AI Applications",
     "parent": "人工智慧",
     "aliases": []
   },
   {
     "name": "生成式AI",
+    "en": "Generative AI",
     "parent": "人工智慧",
     "aliases": [
       "generative AI",
@@ -118,6 +141,7 @@
   },
   {
     "name": "強化學習",
+    "en": "Reinforcement Learning",
     "parent": "人工智慧",
     "aliases": [
       "reinforcement learning"
@@ -125,6 +149,7 @@
   },
   {
     "name": "演化計算",
+    "en": "Evolutionary Computation",
     "parent": "人工智慧",
     "aliases": [
       "evolutionary computation"
@@ -132,6 +157,7 @@
   },
   {
     "name": "圖形識別",
+    "en": "Pattern Recognition",
     "parent": "人工智慧",
     "aliases": [
       "圖形辨識",
@@ -140,6 +166,7 @@
   },
   {
     "name": "智慧計算",
+    "en": "Intelligent Computing",
     "parent": "人工智慧",
     "aliases": [
       "intelligent computing"
@@ -147,6 +174,7 @@
   },
   {
     "name": "智慧型系統",
+    "en": "Intelligent Systems",
     "parent": "人工智慧",
     "aliases": [
       "intelligent systems"
@@ -154,6 +182,7 @@
   },
   {
     "name": "專家系統",
+    "en": "Expert Systems",
     "parent": "人工智慧",
     "aliases": [
       "expert system",
@@ -162,6 +191,7 @@
   },
   {
     "name": "網頁安全",
+    "en": "Web Security",
     "parent": "資訊安全",
     "aliases": [
       "web security"
@@ -169,6 +199,7 @@
   },
   {
     "name": "網路安全",
+    "en": "Network Security",
     "parent": "資訊安全",
     "aliases": [
       "network security"
@@ -176,6 +207,7 @@
   },
   {
     "name": "密碼學",
+    "en": "Cryptography",
     "parent": "資訊安全",
     "aliases": [
       "cryptography"
@@ -183,6 +215,7 @@
   },
   {
     "name": "系統安全",
+    "en": "System Security",
     "parent": "資訊安全",
     "aliases": [
       "system security"
@@ -190,6 +223,7 @@
   },
   {
     "name": "資訊安全管理",
+    "en": "Information Security Management",
     "parent": "資訊安全",
     "aliases": [
       "information security management"
@@ -197,6 +231,7 @@
   },
   {
     "name": "人工智慧安全",
+    "en": "AI Security",
     "parent": "資訊安全",
     "aliases": [
       "AI security"
@@ -204,6 +239,7 @@
   },
   {
     "name": "多媒體安全",
+    "en": "Multimedia Security",
     "parent": "資訊安全",
     "aliases": [
       "multimedia security"
@@ -211,6 +247,7 @@
   },
   {
     "name": "數位鑑識",
+    "en": "Digital Forensics",
     "parent": "資訊安全",
     "aliases": [
       "digital forensics"
@@ -218,14 +255,18 @@
   },
   {
     "name": "物聯網",
+    "en": "Internet of Things (IoT)",
     "parent": "網路與通訊",
     "aliases": [
       "IoT",
-      "internet of things"
+      "internet of things",
+      "物聯網(Internet of Things)",
+      "IoT物聯網"
     ]
   },
   {
     "name": "智慧物聯網",
+    "en": "AIoT (AI + Internet of Things)",
     "parent": "網路與通訊",
     "aliases": [
       "AIoT",
@@ -234,6 +275,7 @@
   },
   {
     "name": "無線網路",
+    "en": "Wireless Networks",
     "parent": "網路與通訊",
     "aliases": [
       "wireless network"
@@ -241,6 +283,7 @@
   },
   {
     "name": "無線通訊",
+    "en": "Wireless Communications",
     "parent": "網路與通訊",
     "aliases": [
       "wireless communication",
@@ -250,14 +293,17 @@
   },
   {
     "name": "電腦網路",
+    "en": "Computer Networks",
     "parent": "網路與通訊",
     "aliases": [
       "computer network",
-      "計算機網路"
+      "計算機網路",
+      "Network Computing"
     ]
   },
   {
     "name": "行動計算",
+    "en": "Mobile Computing",
     "parent": "網路與通訊",
     "aliases": [
       "mobile computing"
@@ -265,13 +311,16 @@
   },
   {
     "name": "行動通訊",
+    "en": "Mobile Communications",
     "parent": "網路與通訊",
     "aliases": [
-      "mobile communication"
+      "mobile communication",
+      "5G行動通訊"
     ]
   },
   {
     "name": "行動網路",
+    "en": "Mobile Networks",
     "parent": "網路與通訊",
     "aliases": [
       "mobile network"
@@ -279,6 +328,7 @@
   },
   {
     "name": "車聯網",
+    "en": "Internet of Vehicles (IoV)",
     "parent": "網路與通訊",
     "aliases": [
       "IoV",
@@ -287,6 +337,7 @@
   },
   {
     "name": "工業物聯網",
+    "en": "Industrial IoT (IIoT)",
     "parent": "網路與通訊",
     "aliases": [
       "IIoT",
@@ -295,6 +346,7 @@
   },
   {
     "name": "物聯網應用",
+    "en": "IoT Applications",
     "parent": "網路與通訊",
     "aliases": [
       "IoT applications"
@@ -302,22 +354,28 @@
   },
   {
     "name": "無線感測網路",
+    "en": "Wireless Sensor Networks (WSN)",
     "parent": "網路與通訊",
     "aliases": [
       "WSN",
-      "wireless sensor network"
+      "wireless sensor network",
+      "Sensor Networks",
+      "Wireless Sensor Networks"
     ]
   },
   {
     "name": "軟體定義網路",
+    "en": "Software-Defined Networking (SDN)",
     "parent": "網路與通訊",
     "aliases": [
       "SDN",
-      "software defined network"
+      "software defined network",
+      "SDN/NFV"
     ]
   },
   {
     "name": "網路管理",
+    "en": "Network Management",
     "parent": "網路與通訊",
     "aliases": [
       "network management"
@@ -325,6 +383,7 @@
   },
   {
     "name": "網路最佳化",
+    "en": "Network Optimization",
     "parent": "網路與通訊",
     "aliases": [
       "network optimization"
@@ -332,6 +391,7 @@
   },
   {
     "name": "通訊網路",
+    "en": "Communication Networks",
     "parent": "網路與通訊",
     "aliases": [
       "communication network"
@@ -339,6 +399,7 @@
   },
   {
     "name": "通訊系統",
+    "en": "Communication Systems",
     "parent": "網路與通訊",
     "aliases": [
       "communication system",
@@ -347,6 +408,7 @@
   },
   {
     "name": "數位通訊",
+    "en": "Digital Communications",
     "parent": "網路與通訊",
     "aliases": [
       "digital communication"
@@ -354,6 +416,7 @@
   },
   {
     "name": "通訊訊號處理",
+    "en": "Communication Signal Processing",
     "parent": "網路與通訊",
     "aliases": [
       "communication signal processing"
@@ -361,6 +424,7 @@
   },
   {
     "name": "嵌入式系統",
+    "en": "Embedded Systems",
     "parent": "系統與硬體",
     "aliases": [
       "embedded system",
@@ -370,14 +434,17 @@
   },
   {
     "name": "分散式系統",
+    "en": "Distributed Systems",
     "parent": "系統與硬體",
     "aliases": [
       "distributed system",
-      "distributed systems"
+      "distributed systems",
+      "Distributed Computing"
     ]
   },
   {
     "name": "雲端運算",
+    "en": "Cloud Computing",
     "parent": "系統與硬體",
     "aliases": [
       "cloud computing",
@@ -386,23 +453,28 @@
   },
   {
     "name": "邊緣運算",
+    "en": "Edge Computing",
     "parent": "系統與硬體",
     "aliases": [
-      "edge computing"
+      "edge computing",
+      "AI邊緣運算"
     ]
   },
   {
     "name": "數位訊號處理",
+    "en": "Digital Signal Processing (DSP)",
     "parent": "系統與硬體",
     "aliases": [
       "DSP",
       "訊號處理",
       "digital signal processing",
-      "數位信號處理"
+      "數位信號處理",
+      "Signal Processing"
     ]
   },
   {
     "name": "作業系統",
+    "en": "Operating Systems",
     "parent": "系統與硬體",
     "aliases": [
       "operating system",
@@ -412,6 +484,7 @@
   },
   {
     "name": "平行計算",
+    "en": "Parallel Computing",
     "parent": "系統與硬體",
     "aliases": [
       "平行處理",
@@ -421,6 +494,7 @@
   },
   {
     "name": "容錯計算",
+    "en": "Fault-Tolerant Computing",
     "parent": "系統與硬體",
     "aliases": [
       "fault-tolerant computing"
@@ -428,6 +502,7 @@
   },
   {
     "name": "計算機結構",
+    "en": "Computer Architecture",
     "parent": "系統與硬體",
     "aliases": [
       "computer architecture"
@@ -435,6 +510,7 @@
   },
   {
     "name": "數位積體電路設計",
+    "en": "Digital IC Design",
     "parent": "系統與硬體",
     "aliases": [
       "數位IC設計",
@@ -445,6 +521,7 @@
   },
   {
     "name": "數位系統設計",
+    "en": "Digital System Design",
     "parent": "系統與硬體",
     "aliases": [
       "digital system design"
@@ -452,15 +529,18 @@
   },
   {
     "name": "機器人學",
+    "en": "Robotics",
     "parent": "系統與硬體",
     "aliases": [
       "機器人",
       "robotics",
-      "robot"
+      "robot",
+      "機器人學(Robotics)"
     ]
   },
   {
     "name": "智慧型控制",
+    "en": "Intelligent Control",
     "parent": "系統與硬體",
     "aliases": [
       "intelligent control"
@@ -468,6 +548,7 @@
   },
   {
     "name": "模糊控制",
+    "en": "Fuzzy Control",
     "parent": "系統與硬體",
     "aliases": [
       "fuzzy control"
@@ -475,6 +556,7 @@
   },
   {
     "name": "系統模擬",
+    "en": "System Simulation",
     "parent": "系統與硬體",
     "aliases": [
       "system simulation"
@@ -482,6 +564,7 @@
   },
   {
     "name": "資料探勘",
+    "en": "Data Mining",
     "parent": "資料與資料庫",
     "aliases": [
       "data mining"
@@ -489,6 +572,7 @@
   },
   {
     "name": "大數據分析",
+    "en": "Big Data Analytics",
     "parent": "資料與資料庫",
     "aliases": [
       "big data",
@@ -499,6 +583,7 @@
   },
   {
     "name": "資料科學",
+    "en": "Data Science",
     "parent": "資料與資料庫",
     "aliases": [
       "data science"
@@ -506,6 +591,7 @@
   },
   {
     "name": "文字探勘",
+    "en": "Text Mining",
     "parent": "資料與資料庫",
     "aliases": [
       "text mining"
@@ -513,6 +599,7 @@
   },
   {
     "name": "資訊檢索",
+    "en": "Information Retrieval",
     "parent": "資料與資料庫",
     "aliases": [
       "information retrieval"
@@ -520,6 +607,7 @@
   },
   {
     "name": "資料庫系統",
+    "en": "Database Systems",
     "parent": "資料與資料庫",
     "aliases": [
       "資料庫",
@@ -529,6 +617,7 @@
   },
   {
     "name": "商業智慧",
+    "en": "Business Intelligence (BI)",
     "parent": "資料與資料庫",
     "aliases": [
       "business intelligence",
@@ -537,6 +626,7 @@
   },
   {
     "name": "資料分析",
+    "en": "Data Analytics",
     "parent": "資料與資料庫",
     "aliases": [
       "數據分析",
@@ -546,6 +636,7 @@
   },
   {
     "name": "資料壓縮",
+    "en": "Data Compression",
     "parent": "資料與資料庫",
     "aliases": [
       "data compression"
@@ -553,6 +644,7 @@
   },
   {
     "name": "推薦系統",
+    "en": "Recommender Systems",
     "parent": "資料與資料庫",
     "aliases": [
       "recommendation system"
@@ -560,6 +652,7 @@
   },
   {
     "name": "社群網路分析",
+    "en": "Social Network Analysis",
     "parent": "資料與資料庫",
     "aliases": [
       "社群網路",
@@ -569,6 +662,7 @@
   },
   {
     "name": "多媒體資料庫",
+    "en": "Multimedia Databases",
     "parent": "資料與資料庫",
     "aliases": [
       "multimedia database"
@@ -576,6 +670,7 @@
   },
   {
     "name": "電腦視覺",
+    "en": "Computer Vision",
     "parent": "多媒體與視覺",
     "aliases": [
       "computer vision",
@@ -585,15 +680,19 @@
   },
   {
     "name": "影像處理",
+    "en": "Image Processing",
     "parent": "多媒體與視覺",
     "aliases": [
       "image processing",
       "數位影像處理",
-      "digital image processing"
+      "digital image processing",
+      "影像處理(Image Processing)",
+      "人工智慧AI影像處理與應用"
     ]
   },
   {
     "name": "電腦圖學",
+    "en": "Computer Graphics",
     "parent": "多媒體與視覺",
     "aliases": [
       "computer graphics",
@@ -602,6 +701,7 @@
   },
   {
     "name": "虛擬實境",
+    "en": "Virtual Reality (VR)",
     "parent": "多媒體與視覺",
     "aliases": [
       "VR",
@@ -610,6 +710,7 @@
   },
   {
     "name": "擴增實境",
+    "en": "Augmented Reality (AR)",
     "parent": "多媒體與視覺",
     "aliases": [
       "AR",
@@ -618,18 +719,22 @@
   },
   {
     "name": "多媒體系統",
+    "en": "Multimedia Systems",
     "parent": "多媒體與視覺",
     "aliases": []
   },
   {
     "name": "多媒體網路",
+    "en": "Multimedia Networking",
     "parent": "多媒體與視覺",
     "aliases": [
-      "multimedia network"
+      "multimedia network",
+      "Multimedia Networking"
     ]
   },
   {
     "name": "多媒體訊號處理",
+    "en": "Multimedia Signal Processing",
     "parent": "多媒體與視覺",
     "aliases": [
       "multimedia signal processing"
@@ -637,6 +742,7 @@
   },
   {
     "name": "影像辨識",
+    "en": "Image Recognition",
     "parent": "多媒體與視覺",
     "aliases": [
       "image recognition"
@@ -644,6 +750,7 @@
   },
   {
     "name": "影像視訊處理",
+    "en": "Image and Video Processing",
     "parent": "多媒體與視覺",
     "aliases": [
       "image and video processing"
@@ -651,6 +758,7 @@
   },
   {
     "name": "元宇宙",
+    "en": "Metaverse",
     "parent": "多媒體與視覺",
     "aliases": [
       "metaverse"
@@ -658,6 +766,7 @@
   },
   {
     "name": "程式設計",
+    "en": "Programming",
     "parent": "軟體工程",
     "aliases": [
       "programming",
@@ -666,6 +775,7 @@
   },
   {
     "name": "程式語言",
+    "en": "Programming Languages",
     "parent": "軟體工程",
     "aliases": [
       "programming language",
@@ -674,6 +784,7 @@
   },
   {
     "name": "電子商務",
+    "en": "E-Commerce",
     "parent": "資訊管理",
     "aliases": [
       "e-commerce",
@@ -682,6 +793,7 @@
   },
   {
     "name": "供應鏈管理",
+    "en": "Supply Chain Management",
     "parent": "資訊管理",
     "aliases": [
       "supply chain management",
@@ -690,6 +802,7 @@
   },
   {
     "name": "金融科技",
+    "en": "FinTech",
     "parent": "資訊管理",
     "aliases": [
       "fintech"
@@ -697,6 +810,7 @@
   },
   {
     "name": "數位學習",
+    "en": "E-Learning",
     "parent": "資訊管理",
     "aliases": [
       "e-learning"
@@ -704,6 +818,7 @@
   },
   {
     "name": "區塊鏈",
+    "en": "Blockchain",
     "parent": "資訊管理",
     "aliases": [
       "blockchain"
@@ -711,6 +826,7 @@
   },
   {
     "name": "智慧製造",
+    "en": "Smart Manufacturing",
     "parent": "資訊管理",
     "aliases": [
       "smart manufacturing"
@@ -718,6 +834,7 @@
   },
   {
     "name": "知識管理",
+    "en": "Knowledge Management",
     "parent": "資訊管理",
     "aliases": [
       "knowledge management"
@@ -725,6 +842,7 @@
   },
   {
     "name": "專案管理",
+    "en": "Project Management",
     "parent": "資訊管理",
     "aliases": [
       "project management"
@@ -732,6 +850,7 @@
   },
   {
     "name": "管理資訊系統",
+    "en": "Management Information Systems (MIS)",
     "parent": "資訊管理",
     "aliases": [
       "MIS",
@@ -740,6 +859,7 @@
   },
   {
     "name": "決策支援系統",
+    "en": "Decision Support Systems",
     "parent": "資訊管理",
     "aliases": [
       "decision support system",
@@ -748,6 +868,7 @@
   },
   {
     "name": "決策分析",
+    "en": "Decision Analysis",
     "parent": "資訊管理",
     "aliases": [
       "decision analysis"
@@ -755,6 +876,7 @@
   },
   {
     "name": "資訊教育",
+    "en": "IT Education",
     "parent": "資訊管理",
     "aliases": [
       "information education",
@@ -763,6 +885,7 @@
   },
   {
     "name": "網路行銷",
+    "en": "Internet Marketing",
     "parent": "資訊管理",
     "aliases": [
       "internet marketing",
@@ -771,6 +894,7 @@
   },
   {
     "name": "行動商務",
+    "en": "Mobile Commerce",
     "parent": "資訊管理",
     "aliases": [
       "mobile commerce"
@@ -778,6 +902,7 @@
   },
   {
     "name": "數位轉型",
+    "en": "Digital Transformation",
     "parent": "資訊管理",
     "aliases": [
       "digital transformation"
@@ -785,6 +910,7 @@
   },
   {
     "name": "企業資源規劃",
+    "en": "Enterprise Resource Planning (ERP)",
     "parent": "資訊管理",
     "aliases": [
       "ERP",
@@ -793,6 +919,7 @@
   },
   {
     "name": "顧客關係管理",
+    "en": "Customer Relationship Management (CRM)",
     "parent": "資訊管理",
     "aliases": [
       "CRM",
@@ -801,6 +928,7 @@
   },
   {
     "name": "作業研究",
+    "en": "Operations Research",
     "parent": "資訊管理",
     "aliases": [
       "operations research"
@@ -808,6 +936,7 @@
   },
   {
     "name": "演算法",
+    "en": "Algorithms",
     "parent": "計算理論",
     "aliases": [
       "algorithm",
@@ -817,6 +946,7 @@
   },
   {
     "name": "圖形理論",
+    "en": "Graph Theory",
     "parent": "計算理論",
     "aliases": [
       "graph theory"
@@ -824,6 +954,7 @@
   },
   {
     "name": "賽局理論",
+    "en": "Game Theory",
     "parent": "計算理論",
     "aliases": [
       "game theory"
@@ -831,6 +962,7 @@
   },
   {
     "name": "量子計算",
+    "en": "Quantum Computing",
     "parent": "計算理論",
     "aliases": [
       "quantum computing"
@@ -838,6 +970,7 @@
   },
   {
     "name": "編碼理論",
+    "en": "Coding Theory",
     "parent": "計算理論",
     "aliases": [
       "coding theory"
@@ -845,6 +978,7 @@
   },
   {
     "name": "錯誤更正碼",
+    "en": "Error-Correcting Codes",
     "parent": "計算理論",
     "aliases": [
       "error correcting code",
@@ -853,6 +987,7 @@
   },
   {
     "name": "最佳化",
+    "en": "Optimization",
     "parent": "計算理論",
     "aliases": [
       "optimization"
@@ -860,13 +995,16 @@
   },
   {
     "name": "智慧醫療",
+    "en": "Smart Healthcare",
     "parent": "生醫資訊",
     "aliases": [
-      "smart healthcare"
+      "smart healthcare",
+      "AI醫療"
     ]
   },
   {
     "name": "醫學資訊",
+    "en": "Medical Informatics",
     "parent": "生醫資訊",
     "aliases": [
       "醫療資訊",
@@ -875,6 +1013,7 @@
   },
   {
     "name": "醫學影像處理",
+    "en": "Medical Image Processing",
     "parent": "生醫資訊",
     "aliases": [
       "medical image processing"
@@ -882,9 +1021,197 @@
   },
   {
     "name": "生醫訊號處理",
+    "en": "Biomedical Signal Processing",
     "parent": "生醫資訊",
     "aliases": [
       "biomedical signal processing"
+    ]
+  },
+  {
+    "name": "超大型積體電路設計",
+    "en": "VLSI (Very-Large-Scale Integration) Design",
+    "parent": "系統與硬體",
+    "aliases": [
+      "VLSI設計",
+      "VLSI Design",
+      "IC設計",
+      "物聯網IC設計"
+    ]
+  },
+  {
+    "name": "無線射頻辨識",
+    "en": "RFID (Radio-Frequency Identification)",
+    "parent": "網路與通訊",
+    "aliases": [
+      "RFID"
+    ]
+  },
+  {
+    "name": "延展實境",
+    "en": "XR (Extended Reality)",
+    "parent": "多媒體與視覺",
+    "aliases": [
+      "XR"
+    ]
+  },
+  {
+    "name": "積體電路設計自動化",
+    "en": "VLSI Design Automation",
+    "parent": "系統與硬體",
+    "aliases": [
+      "VLSI設計自動化",
+      "VLSI Design Automation",
+      "Design for Manufacturability"
+    ]
+  },
+  {
+    "name": "形式化驗證",
+    "en": "Formal Verification",
+    "parent": "計算理論",
+    "aliases": [
+      "Formal Verification",
+      "Formal Methods"
+    ]
+  },
+  {
+    "name": "跨平台應用程式開發",
+    "en": "Cross-Platform App Development",
+    "parent": "軟體工程",
+    "aliases": [
+      "跨平台APP開發",
+      "Cross-Platform App Development"
+    ]
+  },
+  {
+    "name": "積體電路測試",
+    "en": "VLSI Testing",
+    "parent": "系統與硬體",
+    "aliases": [
+      "VLSI Testing"
+    ]
+  },
+  {
+    "name": "系統生物學",
+    "en": "Systems Biology",
+    "parent": "生醫資訊",
+    "aliases": [
+      "Systems Biology"
+    ]
+  },
+  {
+    "name": "語音辨識",
+    "en": "Speech Recognition",
+    "parent": "人工智慧",
+    "aliases": [
+      "Speech Recognition"
+    ]
+  },
+  {
+    "name": "STEM教育",
+    "en": "STEM Education",
+    "parent": "資訊管理",
+    "aliases": [
+      "STEM Education"
+    ]
+  },
+  {
+    "name": "資源分配",
+    "en": "Resource Allocation",
+    "parent": "網路與通訊",
+    "aliases": [
+      "Resource Allocation"
+    ]
+  },
+  {
+    "name": "生產排程",
+    "en": "Production Scheduling",
+    "parent": "資訊管理",
+    "aliases": [
+      "Production Scheduling"
+    ]
+  },
+  {
+    "name": "實體層安全",
+    "en": "Physical Layer Security",
+    "parent": "資訊安全",
+    "aliases": [
+      "Physical Layer Security"
+    ]
+  },
+  {
+    "name": "正交分頻多工系統",
+    "en": "OFDM (Orthogonal Frequency-Division Multiplexing) Systems",
+    "parent": "網路與通訊",
+    "aliases": [
+      "OFDM Systems",
+      "OFDM"
+    ]
+  },
+  {
+    "name": "音樂資訊研究",
+    "en": "Music Information Research",
+    "parent": "多媒體與視覺",
+    "aliases": [
+      "Music Information Research"
+    ]
+  },
+  {
+    "name": "MIMO通訊系統",
+    "en": "MIMO (Multiple-Input Multiple-Output) Systems",
+    "parent": "網路與通訊",
+    "aliases": [
+      "MIMO Systems",
+      "MIMO"
+    ]
+  },
+  {
+    "name": "LDPC解碼",
+    "en": "LDPC (Low-Density Parity-Check) Decoding",
+    "parent": "網路與通訊",
+    "aliases": [
+      "LDPC Decoding"
+    ]
+  },
+  {
+    "name": "資訊理論",
+    "en": "Information Theory",
+    "parent": "計算理論",
+    "aliases": [
+      "Information Theory"
+    ]
+  },
+  {
+    "name": "現場可程式邏輯閘陣列",
+    "en": "FPGA (Field-Programmable Gate Array)",
+    "parent": "系統與硬體",
+    "aliases": [
+      "FPGA",
+      "FPGA設計",
+      "FPGA電路設計"
+    ]
+  },
+  {
+    "name": "差分隱私",
+    "en": "Differential Privacy",
+    "parent": "資訊安全",
+    "aliases": [
+      "Differential Privacy"
+    ]
+  },
+  {
+    "name": "通道估計",
+    "en": "Channel Estimation",
+    "parent": "網路與通訊",
+    "aliases": [
+      "Channel Estimation"
+    ]
+  },
+  {
+    "name": "服務品質",
+    "en": "QoS (Quality of Service)",
+    "parent": "網路與通訊",
+    "aliases": [
+      "QoS"
     ]
   }
 ]

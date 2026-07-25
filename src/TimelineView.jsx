@@ -1,10 +1,12 @@
 import { KIND_SLUG, toDate, dayDiff, monthsInRange, assignLanes } from './calendar-grid.mjs'
 import { eventTitle } from './schedule-events.mjs'
+import { useLang } from './i18n.jsx'
 
 const LANE_H = 17
 
 export default function TimelineView({ events, selected, onSelect }) {
-  if (events.length === 0) return <p className="empty">沒有符合條件的事件</p>
+  const { t, kind, monthShort } = useLang()
+  if (events.length === 0) return <p className="empty">{t('noEvents')}</p>
 
   const minIso = events.reduce((m, e) => (e.start < m ? e.start : m), events[0].start)
   const maxIso = events.reduce((m, e) => (e.end > m ? e.end : m), events[0].end)
@@ -27,7 +29,7 @@ export default function TimelineView({ events, selected, onSelect }) {
     const start = Math.max(0, dayDiff(min, first))
     const days = new Date(Date.UTC(year, month + 1, 0)).getUTCDate()
     const end = Math.min(total, dayDiff(min, first) + days)
-    return { key: `${year}-${month}`, label: `${month + 1} 月`, left: start, width: end - start }
+    return { key: `${year}-${month}`, label: monthShort(month), left: start, width: end - start }
   })
 
   return (
@@ -61,10 +63,10 @@ export default function TimelineView({ events, selected, onSelect }) {
                     width: pct(dayDiff(toDate(e.start), toDate(e.end)) + 1),
                     top: lane * LANE_H + 2,
                   }}
-                  title={`${eventTitle(e)}（${e.start}${e.end !== e.start ? ` ~ ${e.end}` : ''}）`}
+                  title={`${eventTitle(e, kind)}（${e.start}${e.end !== e.start ? ` ~ ${e.end}` : ''}）`}
                   onClick={() => onSelect(selected?.id === e.id ? null : e)}
                 >
-                  <span className="tl-bar-text">{e.kind}</span>
+                  <span className="tl-bar-text">{kind(e.kind)}</span>
                 </button>
               ))}
             </div>
