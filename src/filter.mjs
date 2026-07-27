@@ -16,14 +16,20 @@ export function expandArea(term, index) {
   return out
 }
 
+// 推甄是分所招生：合聘於偏所／學位學程的教授，主聘雖是資工/電機/資管，
+// 但報那個所時他就是該所的老師，所以「偏所」要涵蓋 institutes 非空者。
+export const matchesDeptType = (p, types) =>
+  types.includes(p.deptType) || (types.includes('偏所') && (p.institutes?.length ?? 0) > 0)
+
 export function filterProfessors(
   professors,
-  { query = '', schools = [], deptTypes = [], areas = [], tagIndex } = {},
+  { query = '', schools = [], deptTypes = [], areas = [], institutes = [], tagIndex } = {},
 ) {
   const q = query.trim().toLowerCase()
   return professors.filter((p) => {
     if (schools.length && !schools.includes(p.school)) return false
-    if (deptTypes.length && !deptTypes.includes(p.deptType)) return false
+    if (deptTypes.length && !matchesDeptType(p, deptTypes)) return false
+    if (institutes.length && !institutes.some((i) => p.institutes?.includes(i))) return false
     if (areas.length) {
       const normAreas = p.areas.map(normalize)
       const ok = areas.every((a) => {
@@ -33,7 +39,9 @@ export function filterProfessors(
       if (!ok) return false
     }
     if (q) {
-      const hay = [p.name, p.lab, p.dept, p.highlights, p.notes, ...p.areas].join(' ').toLowerCase()
+      const hay = [p.name, p.lab, p.dept, p.highlights, p.notes, ...(p.institutes ?? []), ...p.areas]
+        .join(' ')
+        .toLowerCase()
       if (!hay.includes(q)) return false
     }
     return true

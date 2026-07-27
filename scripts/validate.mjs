@@ -34,6 +34,12 @@ for (const file of readdirSync(dir).filter((f) => f.endsWith('.json'))) {
     if (!Array.isArray(p.areas)) err(`${id}: areas 須為陣列`)
     if (p.website && !/^https?:\/\//.test(p.website)) err(`${id}: website 須為 http(s) 連結`)
     if (p.email && !p.email.includes('@')) err(`${id}: email 格式錯誤`)
+    // institutes：兼屬的偏所／學位學程（推甄是分所招生，需能依所篩選）
+    if (p.institutes !== undefined) {
+      if (!Array.isArray(p.institutes)) err(`${id}: institutes 須為陣列`)
+      else if (p.institutes.some((x) => typeof x !== 'string' || !x))
+        err(`${id}: institutes 內須為非空字串`)
+    }
     if (p.labWebsite !== undefined) {
       if (typeof p.labWebsite !== 'string') err(`${id}: labWebsite 須為字串`)
       else if (p.labWebsite && !/^https?:\/\//.test(p.labWebsite)) err(`${id}: labWebsite 須為 http(s) 連結`)

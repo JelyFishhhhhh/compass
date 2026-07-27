@@ -92,3 +92,30 @@ test('無 tagIndex 時退回精確比對（向後相容）', () => {
   const r = filterProfessors(taxProfs, { areas: ['資訊安全'] })
   assert.equal(r.length, 0)
 })
+
+// ── institutes（兼屬偏所）──
+const instProfs = [
+  { name: '甲', school: 'A', dept: '資訊工程學系', deptType: '資工', areas: [], lab: '', highlights: '', notes: '', institutes: ['資訊網路與多媒體研究所'] },
+  { name: '乙', school: 'A', dept: '資訊工程學系', deptType: '資工', areas: [], lab: '', highlights: '', notes: '' },
+  { name: '丙', school: 'A', dept: '通訊工程學系', deptType: '偏所', areas: [], lab: '', highlights: '', notes: '' },
+]
+
+test('偏所篩選涵蓋合聘於偏所的資工教授', () => {
+  const r = filterProfessors(instProfs, { deptTypes: ['偏所'] })
+  assert.deepEqual(r.map((p) => p.name), ['甲', '丙'])
+})
+
+test('資工篩選仍以主聘為準（不因兼屬偏所而消失）', () => {
+  const r = filterProfessors(instProfs, { deptTypes: ['資工'] })
+  assert.deepEqual(r.map((p) => p.name), ['甲', '乙'])
+})
+
+test('可依特定偏所名稱篩選', () => {
+  const r = filterProfessors(instProfs, { institutes: ['資訊網路與多媒體研究所'] })
+  assert.deepEqual(r.map((p) => p.name), ['甲'])
+})
+
+test('關鍵字可搜到兼屬的偏所名稱', () => {
+  const r = filterProfessors(instProfs, { query: '網路與多媒體' })
+  assert.deepEqual(r.map((p) => p.name), ['甲'])
+})

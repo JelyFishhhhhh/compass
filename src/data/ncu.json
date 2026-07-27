@@ -7,7 +7,14 @@
       "title": "教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
-      "areas": ["深度學習應用", "自駕車", "智慧交通", "網路安全", "5G/6G", "物聯網"],
+      "areas": [
+        "深度學習應用",
+        "自駕車",
+        "智慧交通",
+        "網路安全",
+        "5G/6G",
+        "物聯網"
+      ],
       "lab": "WASN Lab",
       "website": "https://wasn.csie.ncu.edu.tw/",
       "email": "msun@csie.ncu.edu.tw",
@@ -19,7 +26,11 @@
       "title": "教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
-      "areas": ["圖形識別", "電腦視覺", "影像處理"],
+      "areas": [
+        "圖形識別",
+        "電腦視覺",
+        "影像處理"
+      ],
       "lab": "",
       "website": "https://sites.google.com/view/kuo-chin-fan",
       "email": "kcfan@csie.ncu.edu.tw",
@@ -31,7 +42,11 @@
       "title": "教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
-      "areas": ["智慧化數位實境", "教育機器人", "人機互動"],
+      "areas": [
+        "智慧化數位實境",
+        "教育機器人",
+        "人機互動"
+      ],
       "lab": "HCI Lab",
       "website": "https://hci.csie.ncu.edu.tw/",
       "email": "gwodong@gmail.com",
@@ -43,7 +58,11 @@
       "title": "教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
-      "areas": ["機器學習應用於抗藥平台", "故障預測", "氣象預測"],
+      "areas": [
+        "機器學習應用於抗藥平台",
+        "故障預測",
+        "氣象預測"
+      ],
       "lab": "FDB Lab",
       "website": "https://sites.google.com/db.csie.ncu.edu.tw/fdblab",
       "email": "horng@db.csie.ncu.edu.tw",
@@ -55,7 +74,13 @@
       "title": "教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
-      "areas": ["人工智慧", "機器學習", "類神經網路", "機器人", "復健科技"],
+      "areas": [
+        "人工智慧",
+        "機器學習",
+        "類神經網路",
+        "機器人",
+        "復健科技"
+      ],
       "lab": "CI Lab",
       "website": "https://cilab.csie.ncu.edu.tw/",
       "email": "muchun.su@g.ncu.edu.tw",
@@ -67,7 +92,12 @@
       "title": "教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
-      "areas": ["SDN/NFV", "資訊安全", "5G/邊緣運算", "區塊鏈"],
+      "areas": [
+        "SDN/NFV",
+        "資訊安全",
+        "5G/邊緣運算",
+        "區塊鏈"
+      ],
       "lab": "Network Lab",
       "website": "https://networklab.csie.ncu.edu.tw/",
       "email": "cld@csie.ncu.edu.tw",
@@ -79,7 +109,12 @@
       "title": "教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
-      "areas": ["5G多媒體網路", "人工智慧", "嵌入式系統", "VR"],
+      "areas": [
+        "5G多媒體網路",
+        "人工智慧",
+        "嵌入式系統",
+        "VR"
+      ],
       "lab": "WM Lab",
       "website": "https://wmlab.csie.ncu.edu.tw/",
       "email": "hsiao@csie.ncu.edu.tw",
@@ -91,7 +126,12 @@
       "title": "教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
-      "areas": ["人工智慧", "自然語言處理", "機器學習", "大數據"],
+      "areas": [
+        "人工智慧",
+        "自然語言處理",
+        "機器學習",
+        "大數據"
+      ],
       "lab": "",
       "website": "https://sites.google.com/view/Stephen-JH-Yang",
       "email": "stephen.yang.ac@gmail.com",
@@ -103,7 +143,12 @@
       "title": "教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
-      "areas": ["智慧型系統軟體", "軟體工程", "智慧製造", "資訊安全"],
+      "areas": [
+        "智慧型系統軟體",
+        "軟體工程",
+        "智慧製造",
+        "資訊安全"
+      ],
       "lab": "ISS Lab",
       "website": "https://isslab.csie.ncu.edu.tw/",
       "email": "deronliang@gmail.com",
@@ -115,7 +160,11 @@
       "title": "教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
-      "areas": ["LLM約束規劃", "量子計算", "量子機器學習"],
+      "areas": [
+        "LLM約束規劃",
+        "量子計算",
+        "量子機器學習"
+      ],
       "lab": "",
       "website": "https://www.csie.ncu.edu.tw/~jrjiang",
       "email": "jrjiang@g.ncu.edu.tw",
@@ -127,7 +176,12 @@
       "title": "教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
-      "areas": ["深度學習", "電腦音樂", "人機互動", "影像視訊處理"],
+      "areas": [
+        "深度學習",
+        "電腦音樂",
+        "人機互動",
+        "影像視訊處理"
+      ],
       "lab": "Mine Lab",
       "website": "https://sites.google.com/view/minelab",
       "email": "timothykshih@gmail.com",
@@ -139,7 +193,12 @@
       "title": "教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
-      "areas": ["LLM-Based Agents", "Physical AI", "訊息理解", "資料探勘"],
+      "areas": [
+        "LLM-Based Agents",
+        "Physical AI",
+        "訊息理解",
+        "資料探勘"
+      ],
       "lab": "",
       "website": "https://www.csie.ncu.edu.tw/~chia",
       "email": "chiahui@g.ncu.edu.tw",
@@ -151,7 +210,11 @@
       "title": "教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
-      "areas": ["物聯網", "無線感測網路", "演算法"],
+      "areas": [
+        "物聯網",
+        "無線感測網路",
+        "演算法"
+      ],
       "lab": "",
       "website": "https://www.csie.ncu.edu.tw/~gychang",
       "email": "gychang@csie.ncu.edu.tw",
@@ -163,7 +226,12 @@
       "title": "教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
-      "areas": ["系統安全", "網路安全", "作業系統", "行動裝置安全"],
+      "areas": [
+        "系統安全",
+        "網路安全",
+        "作業系統",
+        "行動裝置安全"
+      ],
       "lab": "",
       "website": "https://www.csie.ncu.edu.tw/~hsufh",
       "email": "hsufh@csie.ncu.edu.tw",
@@ -175,7 +243,12 @@
       "title": "教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
-      "areas": ["自然語言處理", "對話系統", "深度學習", "文本探勘"],
+      "areas": [
+        "自然語言處理",
+        "對話系統",
+        "深度學習",
+        "文本探勘"
+      ],
       "lab": "IISR Lab",
       "website": "https://iisr.csie.ncu.edu.tw/",
       "email": "thtsai@g.ncu.edu.tw",
@@ -187,7 +260,10 @@
       "title": "教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
-      "areas": ["影像與視訊處理", "多媒體資料壓縮"],
+      "areas": [
+        "影像與視訊處理",
+        "多媒體資料壓縮"
+      ],
       "lab": "",
       "website": "https://www.csie.ncu.edu.tw/~pochyisu",
       "email": "pochyisu@csie.ncu.edu.tw",
@@ -199,7 +275,11 @@
       "title": "教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
-      "areas": ["視訊分析", "機器學習", "影像訊號處理"],
+      "areas": [
+        "視訊分析",
+        "機器學習",
+        "影像訊號處理"
+      ],
       "lab": "",
       "website": "https://sites.google.com/view/hsu-yung-cheng",
       "email": "chengsy@csie.ncu.edu.tw",
@@ -211,7 +291,13 @@
       "title": "教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
-      "areas": ["人工智慧", "語音音樂處理", "影像視訊", "IC設計", "智慧生醫"],
+      "areas": [
+        "人工智慧",
+        "語音音樂處理",
+        "影像視訊",
+        "IC設計",
+        "智慧生醫"
+      ],
       "lab": "DLMSL Lab",
       "website": "https://dlmsl.csie.ncu.edu.tw/",
       "email": "jiacwang@gmail.com",
@@ -223,7 +309,11 @@
       "title": "教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
-      "areas": ["嵌入式系統", "生物辨識", "計算智慧"],
+      "areas": [
+        "嵌入式系統",
+        "生物辨識",
+        "計算智慧"
+      ],
       "lab": "MIAT Lab",
       "website": "https://intro.miat-lab.com/",
       "email": "pierre@g.ncu.edu.tw",
@@ -235,7 +325,12 @@
       "title": "教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
-      "areas": ["元宇宙", "智慧數位療法", "精準醫療", "神經復健"],
+      "areas": [
+        "元宇宙",
+        "智慧數位療法",
+        "精準醫療",
+        "神經復健"
+      ],
       "lab": "",
       "website": "https://staff.csie.ncu.edu.tw/shihchingyeh",
       "email": "shihching.yeh@g.ncu.edu.tw",
@@ -247,7 +342,11 @@
       "title": "教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
-      "areas": ["遊戲系統", "元宇宙虛擬空間", "AI代理人"],
+      "areas": [
+        "遊戲系統",
+        "元宇宙虛擬空間",
+        "AI代理人"
+      ],
       "lab": "iLearn Lab",
       "website": "https://ilearn.csie.ncu.edu.tw/",
       "email": "ccliu@cl.ncu.edu.tw",
@@ -259,7 +358,12 @@
       "title": "教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
-      "areas": ["軟體工程", "流程自動化", "軟體視覺化", "數位轉型"],
+      "areas": [
+        "軟體工程",
+        "流程自動化",
+        "軟體視覺化",
+        "數位轉型"
+      ],
       "lab": "",
       "website": "https://www.csie.ncu.edu.tw/~ypcheng",
       "email": "ypcheng.ncu.csie@gmail.com",
@@ -271,7 +375,11 @@
       "title": "教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
-      "areas": ["分散式程式語言", "雲端運算", "虛擬機器"],
+      "areas": [
+        "分散式程式語言",
+        "雲端運算",
+        "虛擬機器"
+      ],
       "lab": "",
       "website": "https://website.pdc.tw/",
       "email": "wjwang@csie.ncu.edu.tw",
@@ -283,7 +391,11 @@
       "title": "副教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
-      "areas": ["深度學習", "機器學習", "資料科學"],
+      "areas": [
+        "深度學習",
+        "機器學習",
+        "資料科學"
+      ],
       "lab": "",
       "website": "https://hhchen1105.github.io/",
       "email": "hhchen@ncu.edu.tw",
@@ -295,7 +407,12 @@
       "title": "副教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
-      "areas": ["程式語言", "程式教育", "軟體工程", "AI編譯器"],
+      "areas": [
+        "程式語言",
+        "程式教育",
+        "軟體工程",
+        "AI編譯器"
+      ],
       "lab": "",
       "website": "https://psl.csie.ncu.edu.tw/",
       "email": "yungyu@ncu.edu.tw",
@@ -307,7 +424,11 @@
       "title": "副教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
-      "areas": ["前瞻記憶體系統", "嵌入式記憶體", "機器學習架構"],
+      "areas": [
+        "前瞻記憶體系統",
+        "嵌入式記憶體",
+        "機器學習架構"
+      ],
       "lab": "",
       "website": "https://tychen0811.github.io/",
       "email": "tychen@g.ncu.edu.tw",
@@ -319,7 +440,12 @@
       "title": "副教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
-      "areas": ["人工智慧", "串流資料分析", "雲端運算", "智慧製造"],
+      "areas": [
+        "人工智慧",
+        "串流資料分析",
+        "雲端運算",
+        "智慧製造"
+      ],
       "lab": "",
       "website": "https://sites.google.com/view/sallylin/home",
       "email": "sallylin0121@ncu.edu.tw",
@@ -331,7 +457,12 @@
       "title": "助理教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
-      "areas": ["資料探勘", "分散式系統", "巨量資料分析", "雲端運算"],
+      "areas": [
+        "資料探勘",
+        "分散式系統",
+        "巨量資料分析",
+        "雲端運算"
+      ],
       "lab": "DW Lab",
       "website": "https://dwlab.csie.ncu.edu.tw/",
       "email": "mftsai@csie.ncu.edu.tw",
@@ -343,7 +474,11 @@
       "title": "助理教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
-      "areas": ["可解釋性AI", "資料隱私", "代理人自動化系統"],
+      "areas": [
+        "可解釋性AI",
+        "資料隱私",
+        "代理人自動化系統"
+      ],
       "lab": "",
       "website": "https://sites.google.com/stonybrook.edu/haotyang",
       "email": "htyang@g.ncu.edu.tw",
@@ -355,7 +490,11 @@
       "title": "助理教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
-      "areas": ["生物與醫學大數據", "抗藥性分析", "多體學數據"],
+      "areas": [
+        "生物與醫學大數據",
+        "抗藥性分析",
+        "多體學數據"
+      ],
       "lab": "IntelliBioMed Lab",
       "website": "https://sites.google.com/view/intellibiomedlab",
       "email": "chungchiaru@ncu.edu.tw",
@@ -367,7 +506,11 @@
       "title": "助理教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
-      "areas": ["演化式計算", "機器學習", "資訊安全"],
+      "areas": [
+        "演化式計算",
+        "機器學習",
+        "資訊安全"
+      ],
       "lab": "",
       "website": "https://poweiharn.github.io/",
       "email": "harnpowei@ncu.edu.tw",
@@ -379,7 +522,12 @@
       "title": "助理教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
-      "areas": ["社群網路分析", "圖論最佳化", "資料探勘", "深度學習"],
+      "areas": [
+        "社群網路分析",
+        "圖論最佳化",
+        "資料探勘",
+        "深度學習"
+      ],
       "lab": "",
       "website": "https://hjhung.github.io/",
       "email": "hjhung@ncu.edu.tw",
@@ -391,7 +539,13 @@
       "title": "教授",
       "dept": "網路學習科技研究所",
       "deptType": "偏所",
-      "areas": ["遊戲式學習", "跨域教學設計", "質性研究", "多模行為分析", "STEAM與機器人"],
+      "areas": [
+        "遊戲式學習",
+        "跨域教學設計",
+        "質性研究",
+        "多模行為分析",
+        "STEAM與機器人"
+      ],
       "lab": "",
       "website": "https://sites.google.com/site/shihjuling",
       "email": "juling@cl.ncu.edu.tw",
@@ -415,7 +569,13 @@
       "title": "講座教授",
       "dept": "網路學習科技研究所",
       "deptType": "偏所",
-      "areas": ["個體差異與數位學習", "個人化資訊系統", "遊戲式學習", "行動學習", "合作學習"],
+      "areas": [
+        "個體差異與數位學習",
+        "個人化資訊系統",
+        "遊戲式學習",
+        "行動學習",
+        "合作學習"
+      ],
       "lab": "",
       "website": "https://sites.google.com/view/sherry-y-chen/home",
       "email": "sherry@cl.ncu.edu.tw",
@@ -427,7 +587,10 @@
       "title": "特聘教授",
       "dept": "網路學習科技研究所",
       "deptType": "偏所",
-      "areas": ["數位語言學習", "數位遊戲式學習"],
+      "areas": [
+        "數位語言學習",
+        "數位遊戲式學習"
+      ],
       "lab": "學習科技中心",
       "website": "https://staff.csie.ncu.edu.tw/yangjc/index_c.html",
       "email": "yang@cl.ncu.edu.tw",
@@ -439,7 +602,12 @@
       "title": "特聘教授",
       "dept": "網路學習科技研究所",
       "deptType": "偏所",
-      "areas": ["真實情境辨識技術結合生成式AI", "生成式AI推理研究", "多媒體互動設計與提示工程", "行動智慧學習設計"],
+      "areas": [
+        "真實情境辨識技術結合生成式AI",
+        "生成式AI推理研究",
+        "多媒體互動設計與提示工程",
+        "行動智慧學習設計"
+      ],
       "lab": "",
       "website": "https://www.researchgate.net/profile/Wu-Yuin-Hwang",
       "email": "wyhwang@cc.ncu.edu.tw",
@@ -451,7 +619,13 @@
       "title": "教授",
       "dept": "網路學習科技研究所",
       "deptType": "偏所",
-      "areas": ["人工智慧之教育應用", "學習科技設計", "知識翻新教育", "科學教育", "STEM教育"],
+      "areas": [
+        "人工智慧之教育應用",
+        "學習科技設計",
+        "知識翻新教育",
+        "科學教育",
+        "STEM教育"
+      ],
       "lab": "",
       "website": "https://sites.google.com/cl.ncu.edu.tw/wuret/",
       "email": "ytwu@cl.ncu.edu.tw",
@@ -463,7 +637,12 @@
       "title": "副教授",
       "dept": "網路學習科技研究所",
       "deptType": "偏所",
-      "areas": ["教育資料探勘", "資料視覺化", "網路學習行為分析", "人機介面設計與行為分析"],
+      "areas": [
+        "教育資料探勘",
+        "資料視覺化",
+        "網路學習行為分析",
+        "人機介面設計與行為分析"
+      ],
       "lab": "Data Insights Lab",
       "website": "https://sites.google.com/cl.ncu.edu.tw/datainsightslab",
       "email": "hch@cl.ncu.edu.tw",
@@ -475,7 +654,12 @@
       "title": "助理教授",
       "dept": "網路學習科技研究所",
       "deptType": "偏所",
-      "areas": ["人工智慧在教育與社會應用", "電腦輔助語言學習", "遊戲化與遊戲式學習", "學習分析與教育大數據"],
+      "areas": [
+        "人工智慧在教育與社會應用",
+        "電腦輔助語言學習",
+        "遊戲化與遊戲式學習",
+        "學習分析與教育大數據"
+      ],
       "lab": "",
       "website": "https://sites.google.com/view/changyen-liao/",
       "email": "CalvinCYLiao@gmail.com",
@@ -487,7 +671,11 @@
       "title": "教授",
       "dept": "資訊管理學系",
       "deptType": "資管",
-      "areas": ["Project management", "Transaction cost theory", "ERP implementation"],
+      "areas": [
+        "Project management",
+        "Transaction cost theory",
+        "ERP implementation"
+      ],
       "lab": "",
       "website": "https://cis.ncu.edu.tw/iTeacher/home/0x103e350f9172fab225c05dad78c8413b",
       "email": "ewang@mgt.ncu.edu.tw",
@@ -499,7 +687,11 @@
       "title": "教授",
       "dept": "資訊管理學系",
       "deptType": "資管",
-      "areas": ["Complex fuzzy set", "Machine learning", "Self-organization"],
+      "areas": [
+        "Complex fuzzy set",
+        "Machine learning",
+        "Self-organization"
+      ],
       "lab": "",
       "website": "https://cis.ncu.edu.tw/iTeacher/home/0xe58e15ab5918b4dbfa2dc8242215f82b",
       "email": "jamesli@mgt.ncu.edu.tw",
@@ -511,7 +703,11 @@
       "title": "副教授",
       "dept": "資訊管理學系",
       "deptType": "資管",
-      "areas": ["行銷管理", "網路行銷", "Social exchange theory"],
+      "areas": [
+        "行銷管理",
+        "網路行銷",
+        "Social exchange theory"
+      ],
       "lab": "",
       "website": "https://cis.ncu.edu.tw/iTeacher/home/0x925c41b199402f3a218551d6abf43e91",
       "email": "eychou@mgt.ncu.edu.tw",
@@ -523,7 +719,11 @@
       "title": "副教授",
       "dept": "資訊管理學系",
       "deptType": "資管",
-      "areas": ["財務管理", "Asset pricing", "disposition effect"],
+      "areas": [
+        "財務管理",
+        "Asset pricing",
+        "disposition effect"
+      ],
       "lab": "",
       "website": "https://cis.ncu.edu.tw/iTeacher/home/0x19d05e8574cbe7058600d4b66bbde0aa",
       "email": "hychiu@ncu.edu.tw",
@@ -535,7 +735,11 @@
       "title": "副教授",
       "dept": "資訊管理學系",
       "deptType": "資管",
-      "areas": ["Computer Vision", "電腦視覺", "影像處理及圖形識別"],
+      "areas": [
+        "Computer Vision",
+        "電腦視覺",
+        "影像處理及圖形識別"
+      ],
       "lab": "",
       "website": "https://cis.ncu.edu.tw/iTeacher/home/0x13300a1dce027fb67534d986a1590a52",
       "email": "shih@ncu.edu.tw",
@@ -547,7 +751,11 @@
       "title": "助理教授",
       "dept": "資訊管理學系",
       "deptType": "資管",
-      "areas": ["data mining", "Instance selection", "machine learning"],
+      "areas": [
+        "data mining",
+        "Instance selection",
+        "machine learning"
+      ],
       "lab": "",
       "website": "https://cis.ncu.edu.tw/iTeacher/home/0x89cd8b9ff801e340ba275d08da458ee8",
       "email": "swgke@ncu.edu.tw",
@@ -559,7 +767,11 @@
       "title": "教授",
       "dept": "資訊管理學系",
       "deptType": "資管",
-      "areas": ["data mining", "machine learning", "text mining"],
+      "areas": [
+        "data mining",
+        "machine learning",
+        "text mining"
+      ],
       "lab": "",
       "website": "https://cis.ncu.edu.tw/iTeacher/home/0xc85dedc15d8c3ec1306c23ee93d00a0e",
       "email": "yhhu@ncu.edu.tw",
@@ -571,7 +783,11 @@
       "title": "副教授",
       "dept": "資訊管理學系",
       "deptType": "資管",
-      "areas": ["資訊系統策略", "資訊經濟", "電子化企業"],
+      "areas": [
+        "資訊系統策略",
+        "資訊經濟",
+        "電子化企業"
+      ],
       "lab": "",
       "website": "https://cis.ncu.edu.tw/iTeacher/home/0x47b52e6d51370d96a0aa6250a2f654e0",
       "email": "jhangli@mgt.ncu.edu.tw",
@@ -583,7 +799,11 @@
       "title": "教授",
       "dept": "資訊管理學系",
       "deptType": "資管",
-      "areas": ["Technology Acceptance Model", "Health education", "Smart Services"],
+      "areas": [
+        "Technology Acceptance Model",
+        "Health education",
+        "Smart Services"
+      ],
       "lab": "",
       "website": "https://cis.ncu.edu.tw/iTeacher/home/0x1b3ff38f73a45ebc184051fad8fdb17c",
       "email": "hsuwc@ncu.edu.tw",
@@ -595,7 +815,11 @@
       "title": "副教授",
       "dept": "資訊管理學系",
       "deptType": "資管",
-      "areas": ["python建置資料探勘系統", "Knowledge-based query processing", "Software engineering"],
+      "areas": [
+        "python建置資料探勘系統",
+        "Knowledge-based query processing",
+        "Software engineering"
+      ],
       "lab": "",
       "website": "https://cis.ncu.edu.tw/iTeacher/home/0xfc604744021e51d8479f9b141d9fdc43",
       "email": "khsu@mgt.ncu.edu.tw",
@@ -607,7 +831,11 @@
       "title": "教授",
       "dept": "資訊管理學系",
       "deptType": "資管",
-      "areas": ["deep learning", "recommendation system", "深度學習"],
+      "areas": [
+        "deep learning",
+        "recommendation system",
+        "深度學習"
+      ],
       "lab": "",
       "website": "https://cis.ncu.edu.tw/iTeacher/home/0x2cfad06bae573b44efe945e7f12baa45",
       "email": "ycchen@mgt.ncu.edu.tw",
@@ -619,7 +847,10 @@
       "title": "教授",
       "dept": "資訊管理學系",
       "deptType": "資管",
-      "areas": ["Software process tailoring (SPT)", "absorptive capacity"],
+      "areas": [
+        "Software process tailoring (SPT)",
+        "absorptive capacity"
+      ],
       "lab": "",
       "website": "https://cis.ncu.edu.tw/iTeacher/home/0xa4509a9ff17f6198e717fc3149f94133",
       "email": "cychen@mgt.ncu.edu.tw",
@@ -631,7 +862,11 @@
       "title": "教授",
       "dept": "資訊管理學系",
       "deptType": "資管",
-      "areas": ["網路安全", "deep learning", "Authentication"],
+      "areas": [
+        "網路安全",
+        "deep learning",
+        "Authentication"
+      ],
       "lab": "",
       "website": "https://cis.ncu.edu.tw/iTeacher/home/0x682b34dabbdcf4e7aea4453ec7a82bc0",
       "email": "cym@mgt.ncu.edu.tw",
@@ -643,7 +878,11 @@
       "title": "教授",
       "dept": "資訊管理學系",
       "deptType": "資管",
-      "areas": ["Data mining", "deep learning", "Decision tree"],
+      "areas": [
+        "Data mining",
+        "deep learning",
+        "Decision tree"
+      ],
       "lab": "",
       "website": "https://cis.ncu.edu.tw/iTeacher/home/0xe0ae35a63b4effe0ffbcff36c26cbfba",
       "email": "ylchen@mgt.ncu.edu.tw",
@@ -655,7 +894,11 @@
       "title": "副教授",
       "dept": "資訊管理學系",
       "deptType": "資管",
-      "areas": ["Social commerce", "Deep Learning", "醫療資訊管理"],
+      "areas": [
+        "Social commerce",
+        "Deep Learning",
+        "醫療資訊管理"
+      ],
       "lab": "",
       "website": "https://cis.ncu.edu.tw/iTeacher/home/0x24f67cd6166fad6ed5cb90aaf72e084c",
       "email": "httseng@g.ncu.edu.tw",
@@ -667,7 +910,11 @@
       "title": "助理教授",
       "dept": "資訊管理學系",
       "deptType": "資管",
-      "areas": ["survey", "Online game", "structural equation modeling"],
+      "areas": [
+        "survey",
+        "Online game",
+        "structural equation modeling"
+      ],
       "lab": "",
       "website": "https://cis.ncu.edu.tw/iTeacher/home/0x7f21b77b84fe9045505671c2b66e70be",
       "email": "tlhuang@cc.ncu.edu.tw",
@@ -679,7 +926,11 @@
       "title": "副教授",
       "dept": "資訊管理學系",
       "deptType": "資管",
-      "areas": ["Blockchain", "區塊鏈", "authentication"],
+      "areas": [
+        "Blockchain",
+        "區塊鏈",
+        "authentication"
+      ],
       "lab": "",
       "website": "https://cis.ncu.edu.tw/iTeacher/home/0x794bca30da75810b707bb8b2f18c1d7b",
       "email": "yehloyao@ncu.edu.tw",
@@ -691,7 +942,11 @@
       "title": "助理教授",
       "dept": "資訊管理學系",
       "deptType": "資管",
-      "areas": ["資訊安全", "quantum-resistant", "generic construction"],
+      "areas": [
+        "資訊安全",
+        "quantum-resistant",
+        "generic construction"
+      ],
       "lab": "",
       "website": "https://cis.ncu.edu.tw/iTeacher/home/0x11a42029824638a980fe0cbbedcba76e",
       "email": "zyliu@ncu.edu.tw",
@@ -703,7 +958,11 @@
       "title": "教授",
       "dept": "資訊管理學系",
       "deptType": "資管",
-      "areas": ["data mining", "machine learning", "instance selection"],
+      "areas": [
+        "data mining",
+        "machine learning",
+        "instance selection"
+      ],
       "lab": "",
       "website": "https://cis.ncu.edu.tw/iTeacher/home/0x19bcd7d69d7e63d9e9b9631958530dae",
       "email": "cftsai@mgt.ncu.edu.tw",
@@ -715,7 +974,11 @@
       "title": "副教授",
       "dept": "資訊管理學系",
       "deptType": "資管",
-      "areas": ["Program management", "Legacy Information Systems", "行為科學量化分析"],
+      "areas": [
+        "Program management",
+        "Legacy Information Systems",
+        "行為科學量化分析"
+      ],
       "lab": "",
       "website": "https://cis.ncu.edu.tw/iTeacher/home/0xe48aa49b50cad6fadb94d335007cf762",
       "email": "jtsai@cc.ncu.edu.tw",
@@ -727,7 +990,11 @@
       "title": "教授",
       "dept": "資訊管理學系",
       "deptType": "資管",
-      "areas": ["Brand story", "Relationship marketing", "Information asymmetry"],
+      "areas": [
+        "Brand story",
+        "Relationship marketing",
+        "Information asymmetry"
+      ],
       "lab": "",
       "website": "https://cis.ncu.edu.tw/iTeacher/home/0x4f5ed2caf123f74e2fe37a8cbf13d368",
       "email": "ychsieh.ncumgt@gmail.com",
@@ -739,7 +1006,11 @@
       "title": "助理教授",
       "dept": "資訊管理學系",
       "deptType": "資管",
-      "areas": ["Data mining", "Machine learning", "Deep learning"],
+      "areas": [
+        "Data mining",
+        "Machine learning",
+        "Deep learning"
+      ],
       "lab": "",
       "website": "https://cis.ncu.edu.tw/iTeacher/home/0xe022ad99b1f5cea08120e60f50f31550",
       "email": "klsue@mgt.ncu.edu.tw",
@@ -751,7 +1022,11 @@
       "title": "副教授",
       "dept": "資訊管理學系",
       "deptType": "資管",
-      "areas": ["創業家精神", "Business model innovation", "技術創新"],
+      "areas": [
+        "創業家精神",
+        "Business model innovation",
+        "技術創新"
+      ],
       "lab": "",
       "website": "https://cis.ncu.edu.tw/iTeacher/home/0x54af080a61c7b8650fc9f31a5328e8f0",
       "email": "suesu@ncu.edu.tw",
@@ -763,7 +1038,11 @@
       "title": "教授",
       "dept": "電機工程學系",
       "deptType": "電機",
-      "areas": ["前饋式等化器", "Phase-locked loop (PLL)", "time-to-digital converter (TDC)"],
+      "areas": [
+        "前饋式等化器",
+        "Phase-locked loop (PLL)",
+        "time-to-digital converter (TDC)"
+      ],
       "lab": "",
       "website": "",
       "email": "cheng@ee.ncu.edu.tw",
@@ -775,7 +1054,11 @@
       "title": "教授",
       "dept": "電機工程學系",
       "deptType": "電機",
-      "areas": ["Deep learning", "FPGA", "深度學習"],
+      "areas": [
+        "Deep learning",
+        "FPGA",
+        "深度學習"
+      ],
       "lab": "",
       "website": "",
       "email": "han@ee.ncu.edu.tw",
@@ -787,7 +1070,11 @@
       "title": "特聘教授",
       "dept": "電機工程學系",
       "deptType": "電機",
-      "areas": ["March test", "memory testing", "built-in self-test"],
+      "areas": [
+        "March test",
+        "memory testing",
+        "built-in self-test"
+      ],
       "lab": "",
       "website": "",
       "email": "jfli@ee.ncu.edu.tw",
@@ -799,7 +1086,11 @@
       "title": "副教授",
       "dept": "電機工程學系",
       "deptType": "電機",
-      "areas": ["Deep Learning", "constant multiplier", "SoC"],
+      "areas": [
+        "Deep Learning",
+        "constant multiplier",
+        "SoC"
+      ],
       "lab": "",
       "website": "",
       "email": "mtshiue@ee.ncu.edu.tw",
@@ -811,7 +1102,10 @@
       "title": "副教授",
       "dept": "電機工程學系",
       "deptType": "電機",
-      "areas": ["Area overhead", "Fault coverage"],
+      "areas": [
+        "Area overhead",
+        "Fault coverage"
+      ],
       "lab": "",
       "website": "",
       "email": "chunlunghsu@gmail.com",
@@ -823,7 +1117,11 @@
       "title": "副教授",
       "dept": "電機工程學系",
       "deptType": "電機",
-      "areas": ["Integrated Circuit", "積體電路", "CIM"],
+      "areas": [
+        "Integrated Circuit",
+        "積體電路",
+        "CIM"
+      ],
       "lab": "",
       "website": "",
       "email": "andyygchen@ee.ncu.edu.tw",
@@ -835,7 +1133,11 @@
       "title": "助理教授",
       "dept": "電機工程學系",
       "deptType": "電機",
-      "areas": ["電腦視覺與深度學習", "模型加速與硬體感知式設計", "邊緣人工智慧"],
+      "areas": [
+        "電腦視覺與深度學習",
+        "模型加速與硬體感知式設計",
+        "邊緣人工智慧"
+      ],
       "lab": "",
       "website": "",
       "email": "yhhuang@ncu.edu.tw",
@@ -847,7 +1149,12 @@
       "title": "電機講座教授",
       "dept": "電機工程學系",
       "deptType": "電機",
-      "areas": ["模糊理論", "控制系統", "機器人", "影像處理"],
+      "areas": [
+        "模糊理論",
+        "控制系統",
+        "機器人",
+        "影像處理"
+      ],
       "lab": "",
       "website": "http://www.ee.ncu.edu.tw/~fuzzylab/",
       "email": "wjwang@ee.ncu.edu.tw",
@@ -859,7 +1166,13 @@
       "title": "電機講座教授",
       "dept": "電機工程學系",
       "deptType": "電機",
-      "areas": ["機電控制系統", "伺服馬達控制", "AI生醫信號處理", "Image segmentation", "Brain computer interface"],
+      "areas": [
+        "機電控制系統",
+        "伺服馬達控制",
+        "AI生醫信號處理",
+        "Image segmentation",
+        "Brain computer interface"
+      ],
       "lab": "",
       "website": "http://www.ee.ncu.edu.tw/~E1113/",
       "email": "kkshyu@ee.ncu.edu.tw",
@@ -871,7 +1184,10 @@
       "title": "特聘教授",
       "dept": "電機工程學系",
       "deptType": "電機",
-      "areas": ["Electroencephalography (EEG)", "Brain-computer interface (BCI)"],
+      "areas": [
+        "Electroencephalography (EEG)",
+        "Brain-computer interface (BCI)"
+      ],
       "lab": "",
       "website": "",
       "email": "pllee@ee.ncu.edu.tw",
@@ -883,10 +1199,277 @@
       "title": "助理教授",
       "dept": "電機工程學系",
       "deptType": "電機",
-      "areas": ["系統整合與設計", "智慧型控制與應用", "智慧型機器人開發與設計"],
+      "areas": [
+        "系統整合與設計",
+        "智慧型控制與應用",
+        "智慧型機器人開發與設計"
+      ],
       "lab": "",
       "website": "",
       "email": "chienwulan@cc.ncu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "許獻聰",
+      "title": "教授",
+      "dept": "通訊工程學系",
+      "deptType": "偏所",
+      "areas": [
+        "高速電腦網路",
+        "無線網路",
+        "通訊協定設計",
+        "嵌入式系統",
+        "演算法"
+      ],
+      "lab": "行動暨無線網路實驗室",
+      "website": "",
+      "email": "stsheu@ce.ncu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳彥文",
+      "title": "教授",
+      "dept": "通訊工程學系",
+      "deptType": "偏所",
+      "areas": [
+        "寬頻行動網路",
+        "雲端架構與服務",
+        "新世代網路技術",
+        "智慧型行動裝置應用服務",
+        "嵌入式軟體設計"
+      ],
+      "lab": "寬頻網路與應用實驗室",
+      "website": "",
+      "email": "ywchen@ce.ncu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "胡誌麟",
+      "title": "教授",
+      "dept": "通訊工程學系",
+      "deptType": "偏所",
+      "areas": [
+        "行動計算",
+        "物聯網技術",
+        "數位家庭",
+        "動態資訊傳播系統"
+      ],
+      "lab": "網路計算實驗室",
+      "website": "",
+      "email": "clhu@ce.ncu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "黃志煒",
+      "title": "教授",
+      "dept": "通訊工程學系",
+      "deptType": "偏所",
+      "areas": [
+        "無線網路",
+        "多媒體通訊",
+        "機器學習",
+        "數位信號處理"
+      ],
+      "lab": "資訊處理與通訊實驗室",
+      "website": "",
+      "email": "cwhuang@ce.ncu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳昱嘉",
+      "title": "副教授",
+      "dept": "通訊工程學系",
+      "deptType": "偏所",
+      "areas": [
+        "無線與行動網路",
+        "無人機通訊與控制",
+        "智慧感測與定位",
+        "物聯網安全與區塊鏈",
+        "人工智慧在無線網路的應用"
+      ],
+      "lab": "智慧通訊與前瞻網路實驗室",
+      "website": "",
+      "email": "yjchen@ce.ncu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "沈立翔",
+      "title": "助理教授",
+      "dept": "通訊工程學系",
+      "deptType": "偏所",
+      "areas": [
+        "無線網路通訊系統",
+        "通訊協定",
+        "三維網路",
+        "最佳化演算法",
+        "人工智慧與機器學習"
+      ],
+      "lab": "無線與智慧網路實驗室",
+      "website": "",
+      "email": "shen@ncu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "江育綺",
+      "title": "助理教授",
+      "dept": "通訊工程學系",
+      "deptType": "偏所",
+      "areas": [
+        "量子啟發式計算最佳化",
+        "量子與可逆電路合成最佳化",
+        "智慧金融與多目標最佳化"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "yuchi08j@gmail.com",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "林嘉慶",
+      "title": "特聘教授",
+      "dept": "通訊工程學系",
+      "deptType": "偏所",
+      "areas": [
+        "無線通訊",
+        "同步技術",
+        "正交頻分多工",
+        "檢測與估計理論"
+      ],
+      "lab": "新世代無線通訊實驗室",
+      "website": "",
+      "email": "jiachin@ce.ncu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "魏瑞益",
+      "title": "教授",
+      "dept": "通訊工程學系",
+      "deptType": "偏所",
+      "areas": [
+        "無線通訊",
+        "編碼調變",
+        "非同調檢測"
+      ],
+      "lab": "編碼調變實驗室",
+      "website": "",
+      "email": "rywei@ncu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳永芳",
+      "title": "特聘教授",
+      "dept": "通訊工程學系",
+      "deptType": "偏所",
+      "areas": [],
+      "lab": "訊號處理技術實驗室",
+      "website": "",
+      "email": "yfchen@ce.ncu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "張大中",
+      "title": "教授",
+      "dept": "通訊工程學系",
+      "deptType": "偏所",
+      "areas": [
+        "無線通訊",
+        "基頻傳輸架構設計",
+        "調適性訊號處理",
+        "估計演算法"
+      ],
+      "lab": "數位傳輸與訊號處理實驗室",
+      "website": "",
+      "email": "dcchang@ce.ncu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "古孟霖",
+      "title": "特聘教授",
+      "dept": "通訊工程學系",
+      "deptType": "偏所",
+      "areas": [
+        "無線通訊",
+        "訊號處理",
+        "最佳化理論"
+      ],
+      "lab": "寬頻行動通訊實驗室",
+      "website": "",
+      "email": "mlku@ce.ncu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "陳逸民",
+      "title": "副教授",
+      "dept": "通訊工程學系",
+      "deptType": "偏所",
+      "areas": [
+        "軟體定義無線電",
+        "通訊基頻訊號處理",
+        "FPGA系統"
+      ],
+      "lab": "訊號處理實驗室",
+      "website": "",
+      "email": "ymchen@ce.ncu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "唐之瑋",
+      "title": "副教授",
+      "dept": "通訊工程學系",
+      "deptType": "偏所",
+      "areas": [
+        "視訊訊號處理與分析",
+        "深度學習"
+      ],
+      "lab": "視覺通訊實驗室",
+      "website": "",
+      "email": "cwtang@ce.ncu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "白承祐",
+      "title": "助理教授",
+      "dept": "通訊工程學系",
+      "deptType": "偏所",
+      "areas": [
+        "通訊訊號處理",
+        "無線通訊",
+        "錯誤更正碼"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "cypai@ncu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "黃亮齊",
+      "title": "助理教授",
+      "dept": "通訊工程學系",
+      "deptType": "偏所",
+      "areas": [
+        "訊號處理",
+        "最佳化理論",
+        "機器學習"
+      ],
+      "lab": "",
+      "website": "",
+      "email": "uuranus001@gmail.com",
       "highlights": "",
       "notes": ""
     }

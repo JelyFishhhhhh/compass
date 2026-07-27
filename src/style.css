@@ -179,6 +179,28 @@ fieldset label { display: inline-flex; align-items: center; gap: 4px; cursor: po
 
 .tag.on { background: var(--accent); color: var(--accent-fg); border-color: var(--accent); }
 
+.institutes {
+  font-size: 0.85rem;
+  color: var(--muted);
+  margin-top: 6px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  align-items: center;
+}
+
+.inst {
+  border: 1px dashed var(--chip-border);
+  background: none;
+  color: var(--fg);
+  border-radius: 6px;
+  padding: 0 8px;
+  font-size: 0.8rem;
+  cursor: pointer;
+}
+
+.inst.on { background: var(--accent); color: var(--accent-fg); border-style: solid; }
+
 .lab { font-size: 0.9rem; color: var(--muted); }
 
 .lab a { color: var(--link); }

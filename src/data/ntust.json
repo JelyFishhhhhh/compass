@@ -535,7 +535,8 @@
       "website": "https://www.cs.ntust.edu.tw/p/406-1102-105977,r2079.php?Lang=zh-tw",
       "email": "nwlo@cs.ntust.edu.tw",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": ["資訊安全科技與管理碩士班"]
     },
     {
       "name": "查士朝",
@@ -552,7 +553,8 @@
       "website": "https://sites.google.com/cs.ntust.edu.tw/shihchaocha",
       "email": "csc@cs.ntust.edu.tw",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": ["資訊安全科技與管理碩士班"]
     },
     {
       "name": "朱宇倩",
@@ -622,7 +624,8 @@
       "website": "https://www.cs.ntust.edu.tw/p/406-1102-115538,r2079.php?Lang=zh-tw",
       "email": "raymundlin@mail.ntust.edu.tw",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": ["資訊安全科技與管理碩士班"]
     },
     {
       "name": "黃政嘉",
@@ -639,7 +642,8 @@
       "website": "https://www.cs.ntust.edu.tw/p/406-1102-105983,r2079.php?Lang=zh-tw",
       "email": "jhengjia.huang@mail.ntust.edu.tw",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": ["資訊安全科技與管理碩士班"]
     },
     {
       "name": "洪政煌",
@@ -674,7 +678,8 @@
       "website": "https://www.cs.ntust.edu.tw/p/406-1102-121077,r2079.php?Lang=zh-tw",
       "email": "mhtsai@cs.ntust.edu.tw",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": ["資訊安全科技與管理碩士班"]
     },
     {
       "name": "邱建樺",
@@ -1460,6 +1465,66 @@
       "lab": "",
       "website": "https://www.et.ntust.edu.tw/et/faculty.php?user=jison",
       "email": "jison@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "林士勛",
+      "title": "副教授",
+      "dept": "人工智慧跨域科技研究所",
+      "deptType": "偏所",
+      "areas": ["Computer Graphics", "Data Visualization", "Computer Vision", "Pattern Recognition"],
+      "lab": "浩揚實驗大樓5樓",
+      "website": "",
+      "email": "linss@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "潘則佑",
+      "title": "助理教授",
+      "dept": "人工智慧跨域科技研究所",
+      "deptType": "偏所",
+      "areas": ["Multimedia Content Analysis", "Computer Vision", "Human-Computer Interaction", "Extended Reality"],
+      "lab": "IA-B05",
+      "website": "",
+      "email": "typan@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "羅一峰",
+      "title": "副教授",
+      "dept": "人工智慧跨域科技研究所",
+      "deptType": "偏所",
+      "areas": ["Fast Charging Technology", "Battery Management System (BMS)", "Optimization Algorithms"],
+      "lab": "IA-B04",
+      "website": "",
+      "email": "YF.Luo@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "林儀佳",
+      "title": "助理教授",
+      "dept": "人工智慧跨域科技研究所",
+      "deptType": "偏所",
+      "areas": ["Rehabilitation Medicine", "Sports Science", "Athletic Training", "Intelligent Health Technology", "Biomedical Engineering"],
+      "lab": "IA-B09",
+      "website": "",
+      "email": "yijia@mail.ntust.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "詹鈞評",
+      "title": "助理教授",
+      "dept": "人工智慧跨域科技研究所",
+      "deptType": "偏所",
+      "areas": ["3D Scene Reconstruction", "Unmanned Aerial Vehicles", "Intelligent Roads", "Structural Damage Inspection", "Geographic Information System (GIS)"],
+      "lab": "國際大樓11樓(臺灣建築科技中心)",
+      "website": "",
+      "email": "jpjhan@mail.ntust.edu.tw",
       "highlights": "",
       "notes": ""
     }
