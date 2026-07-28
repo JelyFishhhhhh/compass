@@ -19,7 +19,11 @@
       "website": "http://buslab.csie.ncku.edu.tw/",
       "email": "shyhhau@gmail.com",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "醫學資訊研究所",
+        "人工智慧科技碩士學位學程"
+      ]
     },
     {
       "name": "郭耀煌",
@@ -39,7 +43,11 @@
       "website": "http://ismp.csie.ncku.edu.tw/",
       "email": "kuoyh@ismp.csie.ncku.edu.tw",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "醫學資訊研究所",
+        "人工智慧科技碩士學位學程"
+      ]
     },
     {
       "name": "謝孫源",
@@ -60,7 +68,11 @@
       "website": "http://algorithm.csie.ncku.edu.tw/",
       "email": "hsiehsy@mail.ncku.edu.tw",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "醫學資訊研究所",
+        "人工智慧科技碩士學位學程"
+      ]
     },
     {
       "name": "連震杰",
@@ -82,7 +94,10 @@
       "website": "http://robotics.csie.ncku.edu.tw/",
       "email": "jjlien@mail.csie.ncku.edu.tw",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "人工智慧科技碩士學位學程"
+      ]
     },
     {
       "name": "楊中平",
@@ -98,7 +113,11 @@
       "website": "http://neat.csie.ncku.edu.tw/",
       "email": "cpyoung@mail.csie.ncku.edu.tw",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "醫學資訊研究所",
+        "人工智慧科技碩士學位學程"
+      ]
     },
     {
       "name": "梁勝富",
@@ -116,7 +135,12 @@
       "website": "http://ncbci.csie.ncku.edu.tw/",
       "email": "sfliang@mail.ncku.edu.tw",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "醫學資訊研究所",
+        "製造資訊與系統研究所",
+        "人工智慧科技碩士學位學程"
+      ]
     },
     {
       "name": "李同益",
@@ -138,7 +162,10 @@
       "website": "http://graphics.csie.ncku.edu.tw/",
       "email": "tonylee@mail.ncku.edu.tw",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "人工智慧科技碩士學位學程"
+      ]
     },
     {
       "name": "吳宗憲",
@@ -160,7 +187,10 @@
       "website": "http://mhmc.csie.ncku.edu.tw",
       "email": "chunghsienwu@gmail.com",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "人工智慧科技碩士學位學程"
+      ]
     },
     {
       "name": "黃崇明",
@@ -177,7 +207,10 @@
       "website": "https://nckummlab.github.io/mmnlab-website/",
       "email": "huangcm@locust.csie.ncku.edu.tw",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "人工智慧科技碩士學位學程"
+      ]
     },
     {
       "name": "陳裕民",
@@ -189,7 +222,10 @@
       "website": "https://sblab.imis.ncku.edu.tw/",
       "email": "ymchen@mail.ncku.edu.tw",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "製造資訊與系統研究所"
+      ]
     },
     {
       "name": "陳響亮",
@@ -209,7 +245,10 @@
       "website": "https://imilab.imis.ncku.edu.tw/",
       "email": "slchen@mail.ncku.edu.tw",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "製造資訊與系統研究所"
+      ]
     },
     {
       "name": "蔣榮先",
@@ -228,7 +267,11 @@
       "website": "http://iir.csie.ncku.edu.tw/",
       "email": "jchiang@mail.ncku.edu.tw",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "醫學資訊研究所",
+        "人工智慧科技碩士學位學程"
+      ]
     },
     {
       "name": "陳培殷",
@@ -245,7 +288,10 @@
       "website": "http://dic.csie.ncku.edu.tw/",
       "email": "pychen@mail.ncku.edu.tw",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "人工智慧科技碩士學位學程"
+      ]
     },
     {
       "name": "鄭憲宗",
@@ -266,7 +312,10 @@
       "website": "http://plato.csie.ncku.edu.tw/",
       "email": "stevecheng1688@gmail.com",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "人工智慧科技碩士學位學程"
+      ]
     },
     {
       "name": "楊大和",
@@ -284,7 +333,10 @@
       "website": "https://mmlab.imis.ncku.edu.tw/",
       "email": "tyang@mail.ncku.edu.tw",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "製造資訊與系統研究所"
+      ]
     },
     {
       "name": "蘇文鈺",
@@ -304,7 +356,11 @@
       "website": "http://screamlab-ncku-2008.blogspot.com/",
       "email": "alvinsu@mail.ncku.edu.tw",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "醫學資訊研究所",
+        "人工智慧科技碩士學位學程"
+      ]
     },
     {
       "name": "張燕光",
@@ -325,7 +381,10 @@
       "website": "http://140.116.82.170/",
       "email": "ykchang@mail.ncku.edu.tw",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "人工智慧科技碩士學位學程"
+      ]
     },
     {
       "name": "蘇銓清",
@@ -342,7 +401,10 @@
       "website": "http://140.116.247.66/",
       "email": "suecc@mail.ncku.edu.tw",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "人工智慧科技碩士學位學程"
+      ]
     },
     {
       "name": "蕭宏章",
@@ -359,7 +421,10 @@
       "website": "https://sites.google.com/view/hung-chang-hsiao/home",
       "email": "hchsiao@csie.ncku.edu.tw",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "人工智慧科技碩士學位學程"
+      ]
     },
     {
       "name": "盧文祥",
@@ -377,7 +442,11 @@
       "website": "http://wmmks.csie.ncku.edu.tw/wmmks/",
       "email": "whlu@mail.ncku.edu.tw",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "醫學資訊研究所",
+        "人工智慧科技碩士學位學程"
+      ]
     },
     {
       "name": "張大緯",
@@ -395,7 +464,10 @@
       "website": "http://os.csie.ncku.edu.tw/",
       "email": "davidchang@csie.ncku.edu.tw",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "人工智慧科技碩士學位學程"
+      ]
     },
     {
       "name": "藍崑展",
@@ -414,7 +486,11 @@
       "website": "https://lens.csie.ncku.edu.tw/",
       "email": "9602016@gs.ncku.edu.tw",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "醫學資訊研究所",
+        "人工智慧科技碩士學位學程"
+      ]
     },
     {
       "name": "賀保羅",
@@ -433,7 +509,11 @@
       "website": "https://www.csie.ncku.edu.tw/ncku_csie/depmember/teacherdetail/id/78",
       "email": "paulh@iscb.org",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "醫學資訊研究所",
+        "人工智慧科技碩士學位學程"
+      ]
     },
     {
       "name": "朱威達",
@@ -449,7 +529,10 @@
       "website": "http://mmcv.csie.ncku.edu.tw/",
       "email": "wtchu@gs.ncku.edu.tw",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "人工智慧科技碩士學位學程"
+      ]
     },
     {
       "name": "陳朝鈞",
@@ -484,7 +567,10 @@
       "website": "http://ciot.imis.ncku.edu.tw/",
       "email": "chencc@imis.ncku.edu.tw",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "製造資訊與系統研究所"
+      ]
     },
     {
       "name": "李政德",
@@ -504,7 +590,11 @@
       "website": "https://sites.google.com/view/chengteli/",
       "email": "chengte@ncku.edu.tw",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "醫學資訊研究所",
+        "人工智慧科技碩士學位學程"
+      ]
     },
     {
       "name": "洪昌鈺",
@@ -524,7 +614,11 @@
       "website": "https://sites.google.com/gs.ncku.edu.tw/ncku-csie-vslab",
       "email": "horng@mail.csie.ncku.edu.tw",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "醫學資訊研究所",
+        "人工智慧科技碩士學位學程"
+      ]
     },
     {
       "name": "蔡佩璇",
@@ -547,7 +641,10 @@
       "website": "http://cps.imis.ncku.edu.tw/",
       "email": "phtsai@mail.ncku.edu.tw",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "製造資訊與系統研究所"
+      ]
     },
     {
       "name": "莊坤達",
@@ -566,7 +663,11 @@
       "website": "https://ktchuang.github.io/netdb-page/",
       "email": "ktchuang@mail.ncku.edu.tw",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "醫學資訊研究所",
+        "人工智慧科技碩士學位學程"
+      ]
     },
     {
       "name": "涂嘉恒",
@@ -582,7 +683,10 @@
       "website": "http://chiaheng.wordpress.com/advanced-systems-research-lab/",
       "email": "chiaheng@ncku.edu.tw",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "人工智慧科技碩士學位學程"
+      ]
     },
     {
       "name": "吳明龍",
@@ -602,7 +706,11 @@
       "website": "http://bmilab.csie.ncku.edu.tw/",
       "email": "minglong.wu@csie.ncku.edu.tw",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "醫學資訊研究所",
+        "人工智慧科技碩士學位學程"
+      ]
     },
     {
       "name": "許靜芳",
@@ -618,7 +726,10 @@
       "website": "http://hsnl.csie.ncku.edu.tw/",
       "email": "hsucf@csie.ncku.edu.tw",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "人工智慧科技碩士學位學程"
+      ]
     },
     {
       "name": "陳奇業",
@@ -635,7 +746,11 @@
       "website": "http://sivslab.csie.ncku.edu.tw/",
       "email": "chency@mail.csie.ncku.edu.tw",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "醫學資訊研究所",
+        "人工智慧科技碩士學位學程"
+      ]
     },
     {
       "name": "曾繁勛",
@@ -651,7 +766,10 @@
       "website": "https://sites.google.com/view/mcnlab",
       "email": "tsengfh@gs.ncku.edu.tw",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "人工智慧科技碩士學位學程"
+      ]
     },
     {
       "name": "何建忠",
@@ -668,7 +786,10 @@
       "website": "https://www.csie.ncku.edu.tw/zh-hant/members/47",
       "email": "ccho@gs.ncku.edu.tw",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "人工智慧科技碩士學位學程"
+      ]
     },
     {
       "name": "許舒涵",
@@ -684,7 +805,10 @@
       "website": "https://www.csie.ncku.edu.tw/ncku_csie/",
       "email": "shhsu@gs.ncku.edu.tw",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "人工智慧科技碩士學位學程"
+      ]
     },
     {
       "name": "詹慧伶",
@@ -706,7 +830,11 @@
       "website": "https://baisp-lab.csie.ncku.edu.tw/",
       "email": "hlchan@gs.ncku.edu.tw",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "醫學資訊研究所",
+        "人工智慧科技碩士學位學程"
+      ]
     },
     {
       "name": "謝昀珊",
@@ -718,7 +846,10 @@
       "website": "https://www.csie.ncku.edu.tw/zh-hant/members/72",
       "email": "yshsieh@gs.ncku.edu.tw",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "人工智慧科技碩士學位學程"
+      ]
     },
     {
       "name": "郭紘睿",
@@ -737,7 +868,10 @@
       "website": "https://mmxsyslab-ncku.github.io/",
       "email": "hjguo@gs.ncku.edu.tw",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "人工智慧科技碩士學位學程"
+      ]
     },
     {
       "name": "郭軒安",
@@ -756,7 +890,12 @@
       "website": "https://sites.google.com/view/imdalab/%E9%A6%96%E9%A0%81?authuser=0",
       "email": "hsuanankuo@gs.ncku.edu.tw",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "醫學資訊研究所",
+        "製造資訊與系統研究所",
+        "人工智慧科技碩士學位學程"
+      ]
     },
     {
       "name": "程芙茵",
@@ -773,7 +912,11 @@
       "website": "https://www.csie.ncku.edu.tw/zh-hant/members/77",
       "email": "fuyincherng@gs.ncku.edu.tw",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "醫學資訊研究所",
+        "人工智慧科技碩士學位學程"
+      ]
     },
     {
       "name": "陳怡君",
@@ -1376,7 +1519,10 @@
       "website": "https://ncku-aislab.github.io/",
       "email": "",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "智慧資訊安全碩士學位學程"
+      ]
     },
     {
       "name": "陳榮杰",
@@ -1426,7 +1572,10 @@
       "website": "https://itlab.ee.ncku.edu.tw/",
       "email": "",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "智慧資訊安全碩士學位學程"
+      ]
     },
     {
       "name": "劉奕賢",
@@ -1444,7 +1593,10 @@
       "website": "https://www.cysec.ee.ncku.edu.tw",
       "email": "",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "智慧資訊安全碩士學位學程"
+      ]
     },
     {
       "name": "吳士駿",
@@ -1464,7 +1616,10 @@
       "website": "https://ethikos.github.io/",
       "email": "",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "智慧資訊安全碩士學位學程"
+      ]
     },
     {
       "name": "楊明勳",
@@ -1494,7 +1649,10 @@
       "website": "https://www.cans.ee.ncku.edu.tw/",
       "email": "",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "智慧資訊安全碩士學位學程"
+      ]
     },
     {
       "name": "賴癸江",
@@ -1568,7 +1726,10 @@
       "website": "https://www.nsda.ee.ncku.edu.tw/",
       "email": "",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "institutes": [
+        "智慧資訊安全碩士學位學程"
+      ]
     },
     {
       "name": "李國君",
@@ -1685,6 +1846,341 @@
       "email": "",
       "highlights": "",
       "notes": ""
+    },
+    {
+      "name": "李國榮",
+      "title": "教授",
+      "dept": "數據科學研究所",
+      "deptType": "偏所",
+      "areas": [
+        "貝氏分析",
+        "蒙地卡羅演算法",
+        "時空統計模型",
+        "功能性核磁共振影像及擴散張量影像資料分析"
+      ],
+      "lab": "",
+      "website": "https://sites.google.com/view/kuojunglee",
+      "email": "kuojunglee@ncku.edu.tw",
+      "highlights": "",
+      "notes": "",
+      "institutes": [
+        "數據科學研究所"
+      ]
+    },
+    {
+      "name": "蘇佩芳",
+      "title": "教授",
+      "dept": "數據科學研究所",
+      "deptType": "偏所",
+      "areas": [
+        "存活分析",
+        "生物醫學統計",
+        "臨床試驗設計",
+        "大數據分析"
+      ],
+      "lab": "",
+      "website": "https://researchoutput.ncku.edu.tw/zh/persons/pei-fang-su",
+      "email": "pfsu@ncku.edu.tw",
+      "highlights": "",
+      "notes": "",
+      "institutes": [
+        "數據科學研究所"
+      ]
+    },
+    {
+      "name": "王婉倫",
+      "title": "教授",
+      "dept": "數據科學研究所",
+      "deptType": "偏所",
+      "areas": [
+        "長期資料分析",
+        "多變量分析",
+        "統計計算",
+        "貝氏統計"
+      ],
+      "lab": "",
+      "website": "https://sites.google.com/gs.ncku.edu.tw/wangwl/",
+      "email": "wangwl@gs.ncku.edu.tw",
+      "highlights": "",
+      "notes": "",
+      "institutes": [
+        "數據科學研究所"
+      ]
+    },
+    {
+      "name": "鄭順林",
+      "title": "教授",
+      "dept": "數據科學研究所",
+      "deptType": "偏所",
+      "areas": [
+        "可靠度分析",
+        "資料採礦",
+        "生物資訊分析",
+        "統計計算與模擬",
+        "工業統計",
+        "大數據分析",
+        "機器學習"
+      ],
+      "lab": "",
+      "website": "https://researchoutput.ncku.edu.tw/zh/persons/shuen-lin-jeng",
+      "email": "sljeng@ncku.edu.tw",
+      "highlights": "",
+      "notes": "",
+      "institutes": [
+        "數據科學研究所"
+      ]
+    },
+    {
+      "name": "林良靖",
+      "title": "教授",
+      "dept": "數據科學研究所",
+      "deptType": "偏所",
+      "areas": [
+        "時間序列",
+        "數理財務",
+        "高頻財務資料分析",
+        "區間數值分析"
+      ],
+      "lab": "",
+      "website": "http://www.stat.ncku.edu.tw/index.php?option=module&lang=en&task=pageinfo&id=379&index=13",
+      "email": "lclin@ncku.edu.tw",
+      "highlights": "",
+      "notes": "",
+      "institutes": [
+        "數據科學研究所"
+      ]
+    },
+    {
+      "name": "馬瀰嘉",
+      "title": "副教授",
+      "dept": "數據科學研究所",
+      "deptType": "偏所",
+      "areas": [
+        "生物資訊",
+        "資料分析",
+        "生物統計",
+        "數理統計",
+        "生態統計",
+        "統計諮詢"
+      ],
+      "lab": "",
+      "website": "https://researchoutput.ncku.edu.tw/zh/persons/mi-chia-ma",
+      "email": "mcma@ncku.edu.tw",
+      "highlights": "",
+      "notes": "",
+      "institutes": [
+        "數據科學研究所"
+      ]
+    },
+    {
+      "name": "趙昌泰",
+      "title": "副教授",
+      "dept": "數據科學研究所",
+      "deptType": "偏所",
+      "areas": [
+        "抽樣理論與方法",
+        "調適型抽樣",
+        "最佳化抽樣策略"
+      ],
+      "lab": "",
+      "website": "https://researchoutput.ncku.edu.tw/zh/persons/chang-tai-chao",
+      "email": "ctchao@ncku.edu.tw",
+      "highlights": "",
+      "notes": "",
+      "institutes": [
+        "數據科學研究所"
+      ]
+    },
+    {
+      "name": "李俊毅",
+      "title": "副教授",
+      "dept": "數據科學研究所",
+      "deptType": "偏所",
+      "areas": [
+        "工業統計",
+        "統計計算",
+        "生物資訊",
+        "統計諮詢"
+      ],
+      "lab": "",
+      "website": "https://researchoutput.ncku.edu.tw/zh/persons/chung-i-li",
+      "email": "cili@ncku.edu.tw",
+      "highlights": "",
+      "notes": "",
+      "institutes": [
+        "數據科學研究所"
+      ]
+    },
+    {
+      "name": "李宜真",
+      "title": "副教授",
+      "dept": "數據科學研究所",
+      "deptType": "偏所",
+      "areas": [
+        "可靠度分析",
+        "工業統計",
+        "貝氏分析"
+      ],
+      "lab": "",
+      "website": "https://researchoutput.ncku.edu.tw/zh/persons/i-chen-lee",
+      "email": "iclee@ncku.edu.tw",
+      "highlights": "",
+      "notes": "",
+      "institutes": [
+        "數據科學研究所"
+      ]
+    },
+    {
+      "name": "張欣民",
+      "title": "副教授",
+      "dept": "數據科學研究所",
+      "deptType": "偏所",
+      "areas": [
+        "FMCI技巧於分級列隊等候之應用",
+        "空間群聚檢測方法與應用"
+      ],
+      "lab": "",
+      "website": "https://sites.google.com/site/umchang5/",
+      "email": "nckuhmchang@ncku.edu.tw",
+      "highlights": "",
+      "notes": "",
+      "institutes": [
+        "數據科學研究所"
+      ]
+    },
+    {
+      "name": "王義富",
+      "title": "副教授",
+      "dept": "數據科學研究所",
+      "deptType": "偏所",
+      "areas": [
+        "貝氏分析",
+        "可靠度分析",
+        "衰變分析"
+      ],
+      "lab": "",
+      "website": "https://researchoutput.ncku.edu.tw/zh/persons/yi-fu-wang",
+      "email": "ifwang027@gs.ncku.edu.tw",
+      "highlights": "",
+      "notes": "",
+      "institutes": [
+        "數據科學研究所"
+      ]
+    },
+    {
+      "name": "李宗翰",
+      "title": "助理教授",
+      "dept": "數據科學研究所",
+      "deptType": "偏所",
+      "areas": [
+        "統計區間估計",
+        "不完整資料分析",
+        "統計製程管制"
+      ],
+      "lab": "",
+      "website": "https://chunghanlee.weebly.com/",
+      "email": "lee@gs.ncku.edu.tw",
+      "highlights": "",
+      "notes": "",
+      "institutes": [
+        "數據科學研究所"
+      ]
+    },
+    {
+      "name": "戴齊賢",
+      "title": "助理教授",
+      "dept": "數據科學研究所",
+      "deptType": "偏所",
+      "areas": [
+        "資料整合",
+        "高維度統計"
+      ],
+      "lab": "",
+      "website": "https://drive.google.com/file/d/18D1pph86kfFACJ8cp5T31jOTpBtlB4Pr/view?usp=sharing",
+      "email": "cdai@gs.ncku.edu.tw",
+      "highlights": "",
+      "notes": "",
+      "institutes": [
+        "數據科學研究所"
+      ]
+    },
+    {
+      "name": "謝昱銘",
+      "title": "助理教授",
+      "dept": "半導體封測學位學程",
+      "deptType": "偏所",
+      "areas": [
+        "預測保養",
+        "良率管理",
+        "虛擬量測",
+        "半導體產業智慧製造應用"
+      ],
+      "lab": "",
+      "website": "https://sites.google.com/gs.ncku.edu.tw/ymhsieh-lab/home?authuser=2",
+      "email": "yuming@gs.ncku.edu.tw",
+      "highlights": "",
+      "notes": "",
+      "institutes": [
+        "製造資訊與系統研究所"
+      ]
+    },
+    {
+      "name": "莊智清",
+      "title": "特聘教授",
+      "dept": "電機工程學系",
+      "deptType": "電機",
+      "areas": [
+        "控制工程",
+        "強健控制",
+        "伺服控制",
+        "航空工程",
+        "衛星姿控",
+        "導引控制",
+        "電子導航",
+        "全球定位系統"
+      ],
+      "lab": "",
+      "website": "https://www.ee.ncku.edu.tw/teacher/index2.php?teacher_id=58",
+      "email": "",
+      "highlights": "",
+      "notes": "",
+      "institutes": [
+        "智慧資訊安全碩士學位學程"
+      ]
+    },
+    {
+      "name": "李南逸",
+      "title": "教授",
+      "dept": "計算機與網路中心",
+      "deptType": "偏所",
+      "areas": [
+        "資訊安全",
+        "密碼學",
+        "網路安全"
+      ],
+      "lab": "",
+      "website": "https://www.ee.ncku.edu.tw/teacher/index2.php?teacher_id=186",
+      "email": "",
+      "highlights": "智慧資訊安全碩士學位學程之合聘教師，該學程頁面註明不指導學生。",
+      "notes": "",
+      "institutes": [
+        "智慧資訊安全碩士學位學程"
+      ]
+    },
+    {
+      "name": "莊宜勳",
+      "title": "助理教授",
+      "dept": "計算機與網路中心",
+      "deptType": "偏所",
+      "areas": [],
+      "lab": "",
+      "website": "https://www.ee.ncku.edu.tw/teacher/index2.php?teacher_id=187",
+      "email": "",
+      "highlights": "智慧資訊安全碩士學位學程之合聘教師，該學程頁面註明不指導學生。",
+      "notes": "",
+      "institutes": [
+        "智慧資訊安全碩士學位學程"
+      ]
     }
   ]
 }

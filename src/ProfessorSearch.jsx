@@ -30,6 +30,7 @@ export default function ProfessorSearch() {
   const [selSchools, setSelSchools] = useState([])
   const [selTypes, setSelTypes] = useState([])
   const [selAreas, setSelAreas] = useState([])
+  const [selInstitutes, setSelInstitutes] = useState([])
   const [favs, setFavs] = useState(loadFavs)
   const [favOnly, setFavOnly] = useState(false)
 
@@ -52,9 +53,10 @@ export default function ProfessorSearch() {
         schools: selSchools,
         deptTypes: selTypes,
         areas: selAreas,
+        institutes: selInstitutes,
         tagIndex,
       }).filter((p) => (favOnly ? favs.has(profId(p)) : true)),
-    [query, selSchools, selTypes, selAreas, favOnly, favs],
+    [query, selSchools, selTypes, selAreas, selInstitutes, favOnly, favs],
   )
 
   const tagBtn = (raw, key) => (
@@ -148,6 +150,20 @@ export default function ProfessorSearch() {
             ))}
           </div>
         )}
+        {selInstitutes.length > 0 && (
+          <div className="active-areas">
+            {t('instituteFilter')}
+            {selInstitutes.map((i) => (
+              <button
+                type="button"
+                key={i}
+                onClick={() => setSelInstitutes(toggle(selInstitutes, i))}
+              >
+                {i} ✕
+              </button>
+            ))}
+          </div>
+        )}
       </div>
 
       <p className="count">
@@ -175,6 +191,22 @@ export default function ProfessorSearch() {
                   {favs.has(id) ? '★' : '☆'}
                 </button>
               </div>
+              {p.institutes?.length > 0 && (
+                <p className="institutes">
+                  {t('instituteLabel')}：
+                  {p.institutes.map((i) => (
+                    <button
+                      type="button"
+                      key={i}
+                      className={selInstitutes.includes(i) ? 'inst on' : 'inst'}
+                      aria-pressed={selInstitutes.includes(i)}
+                      onClick={() => setSelInstitutes(toggle(selInstitutes, i))}
+                    >
+                      {i}
+                    </button>
+                  ))}
+                </p>
+              )}
               {p.areas.length > 0 && (
                 <div className="tags">{p.areas.map((a) => tagBtn(a, `${id}-${a}`))}</div>
               )}

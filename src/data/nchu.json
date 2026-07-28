@@ -553,6 +553,102 @@
       "email": "cbwu@dragon.nchu.edu.tw",
       "highlights": "",
       "notes": ""
+    },
+    {
+      "name": "蔡鴻旭",
+      "title": "教授兼系主任",
+      "dept": "資料科學與資訊計算研究所",
+      "deptType": "偏所",
+      "areas": ["人工智慧", "大數據分析", "智慧視覺計算", "多媒體安全", "數位學習", "智慧聯網"],
+      "lab": "621室、417室(主任辦公室)",
+      "website": "",
+      "email": "afhmthh@nchu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "謝博文",
+      "title": "教授",
+      "dept": "資料科學與資訊計算研究所",
+      "deptType": "偏所",
+      "areas": ["影像處理", "數值偏微分方程"],
+      "lab": "610室",
+      "website": "",
+      "email": "pwhsieh@nchu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "凃瀞珽",
+      "title": "教授",
+      "dept": "資料科學與資訊計算研究所",
+      "deptType": "偏所",
+      "areas": ["電腦視覺與人機互動", "圖形辨識與機器學習", "人臉定位追蹤與辨識系統"],
+      "lab": "504室",
+      "website": "",
+      "email": "cttu@nchu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "彭冠舉",
+      "title": "副教授",
+      "dept": "資料科學與資訊計算研究所",
+      "deptType": "偏所",
+      "areas": ["影像處理", "數學建模", "機器學習"],
+      "lab": "507室",
+      "website": "",
+      "email": "gjpeng@email.nchu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "顏增昌",
+      "title": "副教授",
+      "dept": "資料科學與資訊計算研究所",
+      "deptType": "偏所",
+      "areas": ["計算機網路"],
+      "lab": "623室",
+      "website": "",
+      "email": "tcyen@nchu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "郭至恩",
+      "title": "副教授",
+      "dept": "資料科學與資訊計算研究所",
+      "deptType": "偏所",
+      "areas": ["機器學習", "深度學習", "智慧輔助診斷系統", "腦科學與腦機介面"],
+      "lab": "404室",
+      "website": "",
+      "email": "cekuo@nchu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "李珮如",
+      "title": "副教授",
+      "dept": "資料科學與資訊計算研究所",
+      "deptType": "偏所",
+      "areas": ["資料探勘與文字探勘", "資料庫管理與資訊融合", "UI/UX", "資訊安全"],
+      "lab": "619室",
+      "website": "",
+      "email": "pjlee@nchu.edu.tw",
+      "highlights": "",
+      "notes": ""
+    },
+    {
+      "name": "邵皓強",
+      "title": "副教授",
+      "dept": "資料科學與資訊計算研究所",
+      "deptType": "偏所",
+      "areas": ["影像與信號處理", "電腦視覺", "深度學習", "生醫影像圖譜化(生醫影像對位與切割)", "電子設計自動化(IC布局圖微影模擬、瑕疵熱點偵測、高度不平衡瑕疵影像分類、自動化光學檢測)", "三維網格點表面模型處理與小波分析"],
+      "lab": "403室",
+      "website": "",
+      "email": "shao.haochiang@gmail.com",
+      "highlights": "",
+      "notes": ""
     }
   ]
 }
