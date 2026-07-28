@@ -5,7 +5,7 @@ import { useLang } from './i18n.jsx'
 const LANE_H = 17
 
 export default function TimelineView({ events, selected, onSelect }) {
-  const { t, kind, monthShort } = useLang()
+  const { t, kind, monthShort, school: schoolName } = useLang()
   if (events.length === 0) return <p className="empty">{t('noEvents')}</p>
 
   const minIso = events.reduce((m, e) => (e.start < m ? e.start : m), events[0].start)
@@ -48,7 +48,7 @@ export default function TimelineView({ events, selected, onSelect }) {
         const { placed, laneCount } = assignLanes(evs)
         return (
           <div key={school} className="tl-row">
-            <span className="tl-label">{school}</span>
+            <span className="tl-label">{schoolName(school)}</span>
             <div className="tl-track" style={{ height: laneCount * LANE_H + 4 }}>
               {months.map((m) => (
                 <span key={m.key} className="tl-gridline" style={{ left: pct(m.left) }} />

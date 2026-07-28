@@ -6,11 +6,17 @@ export function canonicalOf(raw, index) {
   return index.aliasToCanonical.get(normalize(raw)) ?? null
 }
 
-// 顯示用文字：詞彙表內依語言回中文 canonical 或英文 en；
-// ponytail: 長尾字串（3300+ 只出現一兩次）沒有對照，原樣顯示——不臆測翻譯
-export function displayArea(raw, index, lang = 'zh') {
+// 顯示用文字，三層查找：
+// 1. 受控詞彙 tags.json（canonical 中文 / en）
+// 2. 長尾對照表 area-i18n（{zh, en}）
+// 3. 都查不到就原樣顯示——不臆測翻譯
+export function displayArea(raw, index, lang = 'zh', i18nMap) {
   const canonical = canonicalOf(raw, index)
-  if (!canonical) return raw
-  if (lang !== 'en') return canonical
-  return index.byName.get(canonical)?.en || canonical
+  if (canonical) {
+    if (lang !== 'en') return canonical
+    return index.byName.get(canonical)?.en || canonical
+  }
+  const entry = i18nMap?.[raw.trim()] ?? i18nMap?.[normalize(raw)]
+  if (entry) return (lang === 'en' ? entry.en : entry.zh) || raw
+  return raw
 }
