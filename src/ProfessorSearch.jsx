@@ -3,6 +3,7 @@ import { professors, schools } from './data.js'
 import { tags, tagIndex } from './tags.js'
 import { filterProfessors } from './filter.mjs'
 import { canonicalOf, displayArea } from './area-display.mjs'
+import { areaI18n } from './area-i18n.js'
 import { useLang } from './i18n.jsx'
 
 const DEPT_TYPES = ['資工', '偏所', '資管', '電機']
@@ -25,7 +26,7 @@ const loadFavs = () => {
 }
 
 export default function ProfessorSearch() {
-  const { t, lang, deptType, title } = useLang()
+  const { t, lang, deptType, title, school: schoolName, dept: deptName, profName } = useLang()
   const [query, setQuery] = useState('')
   const [selSchools, setSelSchools] = useState([])
   const [selTypes, setSelTypes] = useState([])
@@ -36,7 +37,7 @@ export default function ProfessorSearch() {
 
   // 詞彙表內的標籤一律以 canonical 名稱進篩選，顯示時再依語言轉換
   const pickArea = (raw) => setSelAreas(toggle(selAreas, canonicalOf(raw, tagIndex) ?? raw))
-  const show = (raw) => displayArea(raw, tagIndex, lang)
+  const show = (raw) => displayArea(raw, tagIndex, lang, areaI18n)
 
   const toggleFav = (id) => {
     const next = new Set(favs)
@@ -91,7 +92,7 @@ export default function ProfessorSearch() {
                 checked={selSchools.includes(s.school)}
                 onChange={() => setSelSchools(toggle(selSchools, s.school))}
               />
-              {s.school}
+              {schoolName(s.school)}
             </label>
           ))}
         </fieldset>
@@ -176,10 +177,10 @@ export default function ProfessorSearch() {
           return (
             <li key={id} className="card">
               <div className="card-head">
-                <strong>{p.name}</strong>
+                <strong>{profName(p)}</strong>
                 <span className="title">{title(p.title)}</span>
                 <span className="school">
-                  {p.school}・{p.dept}
+                  {schoolName(p.school)}・{deptName(p.dept)}
                 </span>
                 <button
                   type="button"

@@ -1,4 +1,5 @@
 import { createContext, useContext, useEffect, useState } from 'react'
+import schoolDeptEn from './school-dept-en.json'
 
 const LANG_KEY = 'compass-lang'
 
@@ -142,6 +143,12 @@ export function LangProvider({ children }) {
     deptType: (v) => td(DEPT_TYPE_EN, v),
     kind: (v) => td(KIND_EN, v),
     title: (v) => td(TITLE_EN, v),
+    school: (v) => (lang === 'en' ? (schoolDeptEn.schools[v]?.abbr ?? v) : v),
+    schoolFull: (v, full) =>
+      lang === 'en' ? (schoolDeptEn.schools[v]?.full ?? full ?? v) : (full ?? v),
+    dept: (v) => (lang === 'en' ? (schoolDeptEn.depts[v] ?? v) : v),
+    // 教授姓名：有官方英文名才用，沒有就顯示中文（絕不音譯猜測）
+    profName: (p) => (lang === 'en' ? (p.nameEn || p.name) : p.name),
     // month 為 0-based
     monthLabel: (year, month) =>
       lang === 'en' ? `${MONTHS_EN[month]} ${year}` : `${year} 年 ${month + 1} 月`,

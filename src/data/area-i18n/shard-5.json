@@ -1,0 +1,2254 @@
+{
+  "分散式計算": {
+    "zh": "分散式計算",
+    "en": "Distributed Computing"
+  },
+  "晶片設計": {
+    "zh": "晶片設計",
+    "en": "Chip Design"
+  },
+  "機器學習應用": {
+    "zh": "機器學習應用",
+    "en": "Machine Learning Applications"
+  },
+  "物聯網系統": {
+    "zh": "物聯網系統",
+    "en": "IoT Systems"
+  },
+  "計算智慧": {
+    "zh": "計算智慧",
+    "en": "Computational Intelligence"
+  },
+  "軟體專案管理": {
+    "zh": "軟體專案管理",
+    "en": "Software Project Management"
+  },
+  "電子設計自動化": {
+    "zh": "電子設計自動化",
+    "en": "Electronic Design Automation (EDA)"
+  },
+  "公司治理": {
+    "zh": "公司治理",
+    "en": "Corporate Governance"
+  },
+  "多媒體處理": {
+    "zh": "多媒體處理",
+    "en": "Multimedia Processing"
+  },
+  "感測網路": {
+    "zh": "感測網路",
+    "en": "Sensor Networks"
+  },
+  "數位電路設計": {
+    "zh": "數位電路設計",
+    "en": "Digital Circuit Design"
+  },
+  "深度學習應用": {
+    "zh": "深度學習應用",
+    "en": "Deep Learning Applications"
+  },
+  "生成式人工智慧": {
+    "zh": "生成式人工智慧",
+    "en": "Generative Artificial Intelligence"
+  },
+  "社會網絡分析": {
+    "zh": "社會網絡分析",
+    "en": "Social Network Analysis"
+  },
+  "網路通訊": {
+    "zh": "網路通訊",
+    "en": "Network Communications"
+  },
+  "行動學習": {
+    "zh": "行動學習",
+    "en": "Mobile Learning"
+  },
+  "語音訊號處理": {
+    "zh": "語音訊號處理",
+    "en": "Speech Signal Processing"
+  },
+  "資通訊安全": {
+    "zh": "資通訊安全",
+    "en": "Information and Communication Security"
+  },
+  "邊緣人工智慧": {
+    "zh": "邊緣人工智慧",
+    "en": "Edge Artificial Intelligence"
+  },
+  "FPGA系統": {
+    "zh": "FPGA系統",
+    "en": "FPGA Systems"
+  },
+  "人工智能": {
+    "zh": "人工智能",
+    "en": "Artificial Intelligence"
+  },
+  "光纖通訊系統": {
+    "zh": "光纖通訊系統",
+    "en": "Optical Fiber Communication Systems"
+  },
+  "區塊鏈應用": {
+    "zh": "區塊鏈應用",
+    "en": "Blockchain Applications"
+  },
+  "同儕計算": {
+    "zh": "同儕計算",
+    "en": "Peer-to-Peer Computing"
+  },
+  "多媒體": {
+    "zh": "多媒體",
+    "en": "Multimedia"
+  },
+  "大數據分析與應用": {
+    "zh": "大數據分析與應用",
+    "en": "Big Data Analysis and Applications"
+  },
+  "嵌入式系統開發設計": {
+    "zh": "嵌入式系統開發設計",
+    "en": "Embedded System Development and Design"
+  },
+  "平行與分散式系統": {
+    "zh": "平行與分散式系統",
+    "en": "Parallel and Distributed Systems"
+  },
+  "影像視訊編碼": {
+    "zh": "影像視訊編碼",
+    "en": "Image and Video Coding"
+  },
+  "感測器網路": {
+    "zh": "感測器網路",
+    "en": "Sensor Networks"
+  },
+  "數位學習科技": {
+    "zh": "數位學習科技",
+    "en": "Digital Learning Technology"
+  },
+  "數據科學": {
+    "zh": "數據科學",
+    "en": "Data Science"
+  },
+  "智慧交通": {
+    "zh": "智慧交通",
+    "en": "Intelligent Transportation"
+  },
+  "智慧能源管理": {
+    "zh": "智慧能源管理",
+    "en": "Smart Energy Management"
+  },
+  "模糊決策分析": {
+    "zh": "模糊決策分析",
+    "en": "Fuzzy Decision Analysis"
+  },
+  "次世代定序": {
+    "zh": "次世代定序",
+    "en": "Next-Generation Sequencing"
+  },
+  "演算法分析": {
+    "zh": "演算法分析",
+    "en": "Algorithm Analysis"
+  },
+  "無線通訊與行動計算": {
+    "zh": "無線通訊與行動計算",
+    "en": "Wireless Communications and Mobile Computing"
+  },
+  "生物資訊演算法": {
+    "zh": "生物資訊演算法",
+    "en": "Bioinformatics Algorithms"
+  },
+  "科學計算": {
+    "zh": "科學計算",
+    "en": "Scientific Computing"
+  },
+  "精準運動科學": {
+    "zh": "精準運動科學",
+    "en": "Precision Sports Science"
+  },
+  "網路探勘": {
+    "zh": "網路探勘",
+    "en": "Web Mining"
+  },
+  "網路通訊協定": {
+    "zh": "網路通訊協定",
+    "en": "Network Communication Protocols"
+  },
+  "自動化系統": {
+    "zh": "自動化系統",
+    "en": "Automation Systems"
+  },
+  "行動通訊系統": {
+    "zh": "行動通訊系統",
+    "en": "Mobile Communication Systems"
+  },
+  "計算幾何": {
+    "zh": "計算幾何",
+    "en": "Computational Geometry"
+  },
+  "語言理解": {
+    "zh": "語言理解",
+    "en": "Language Understanding"
+  },
+  "資料庫系統管理": {
+    "zh": "資料庫系統管理",
+    "en": "Database System Management"
+  },
+  "超啟發式演算法": {
+    "zh": "超啟發式演算法",
+    "en": "Metaheuristic Algorithms"
+  },
+  "近似演算法": {
+    "zh": "近似演算法",
+    "en": "Approximation Algorithms"
+  },
+  "通訊積體電路設計": {
+    "zh": "通訊積體電路設計",
+    "en": "Communication IC Design"
+  },
+  "邊緣計算": {
+    "zh": "邊緣計算",
+    "en": "Edge Computing"
+  },
+  "開放資料": {
+    "zh": "開放資料",
+    "en": "Open Data"
+  },
+  "電磁相容": {
+    "zh": "電磁相容",
+    "en": "Electromagnetic Compatibility (EMC)"
+  },
+  "霧端邊緣運算": {
+    "zh": "霧端邊緣運算",
+    "en": "Fog and Edge Computing"
+  },
+  "高速交換機": {
+    "zh": "高速交換機",
+    "en": "High-Speed Switches"
+  },
+  "- 訊號偵測、等化、通道估計、同步": {
+    "zh": "- 訊號偵測、等化、通道估計、同步",
+    "en": "Signal Detection, Equalization, Channel Estimation, and Synchronization"
+  },
+  "3D互動": {
+    "zh": "3D互動",
+    "en": "3D Interaction"
+  },
+  "3D電腦視覺 / 模式識別": {
+    "zh": "3D電腦視覺 / 模式識別",
+    "en": "3D Computer Vision / Pattern Recognition"
+  },
+  "5G/6G": {
+    "zh": "5G/6G",
+    "en": "5G/6G"
+  },
+  "5G/6G行動通訊": {
+    "zh": "5G/6G行動通訊",
+    "en": "5G/6G Mobile Communications"
+  },
+  "5G毫米波封裝天線模組設計和量測": {
+    "zh": "5G毫米波封裝天線模組設計和量測",
+    "en": "5G Millimeter-Wave Antenna-in-Package Module Design and Measurement"
+  },
+  "5G行動科技": {
+    "zh": "5G行動科技",
+    "en": "5G Mobile Technology"
+  },
+  "AI Accelerator": {
+    "zh": "AI加速器",
+    "en": "AI Accelerator"
+  },
+  "AI 人工智慧": {
+    "zh": "AI 人工智慧",
+    "en": "AI / Artificial Intelligence"
+  },
+  "AI-based Vision/Audio Application": {
+    "zh": "基於AI的視覺/音訊應用",
+    "en": "AI-based Vision/Audio Application"
+  },
+  "AIoT 應用與智能控制技術": {
+    "zh": "AIoT 應用與智能控制技術",
+    "en": "AIoT Applications and Intelligent Control Technology"
+  },
+  "AI倫理": {
+    "zh": "AI倫理",
+    "en": "AI Ethics"
+  },
+  "AI安全與攻防": {
+    "zh": "AI安全與攻防",
+    "en": "AI Security and Attack-Defense"
+  },
+  "AI晶片系統": {
+    "zh": "AI晶片系統",
+    "en": "AI Chip Systems"
+  },
+  "AI的採用及管理": {
+    "zh": "AI的採用及管理",
+    "en": "AI Adoption and Management"
+  },
+  "AI與人機協同合作": {
+    "zh": "AI與人機協同合作",
+    "en": "AI and Human-Machine Collaboration"
+  },
+  "AI醫學影像": {
+    "zh": "AI醫學影像",
+    "en": "AI Medical Imaging"
+  },
+  "APP 程式開發": {
+    "zh": "APP 程式開發",
+    "en": "App Development"
+  },
+  "Affective Computing": {
+    "zh": "情感運算",
+    "en": "Affective Computing"
+  },
+  "Android 安卓虛擬機及編譯器": {
+    "zh": "Android 安卓虛擬機及編譯器",
+    "en": "Android Virtual Machine and Compiler"
+  },
+  "Area overhead": {
+    "zh": "面積開銷",
+    "en": "Area overhead"
+  },
+  "Automated reasoning": {
+    "zh": "自動推理",
+    "en": "Automated reasoning"
+  },
+  "Beamforming and Precoding": {
+    "zh": "波束成形與預編碼",
+    "en": "Beamforming and Precoding"
+  },
+  "Blind Signal Processing": {
+    "zh": "盲訊號處理",
+    "en": "Blind Signal Processing"
+  },
+  "Built-In Self Test": {
+    "zh": "內建自我測試",
+    "en": "Built-In Self Test"
+  },
+  "CEO特徵": {
+    "zh": "CEO特徵",
+    "en": "CEO Characteristics"
+  },
+  "Carrier Frequency Offset Compensation": {
+    "zh": "載波頻率偏移補償",
+    "en": "Carrier Frequency Offset Compensation"
+  },
+  "Clustering": {
+    "zh": "分群分析",
+    "en": "Clustering"
+  },
+  "Communication Standards": {
+    "zh": "通訊標準",
+    "en": "Communication Standards"
+  },
+  "Computational Musicology": {
+    "zh": "計算音樂學",
+    "en": "Computational Musicology"
+  },
+  "Cooperative Transmission": {
+    "zh": "合作式傳輸",
+    "en": "Cooperative Transmission"
+  },
+  "Cyber-Physical Systems": {
+    "zh": "網宇實體系統",
+    "en": "Cyber-Physical Systems"
+  },
+  "DSP與FPGA系統設計": {
+    "zh": "DSP與FPGA系統設計",
+    "en": "DSP and FPGA System Design"
+  },
+  "Data Management on Mobile P2P/Mobile Sensor Network": {
+    "zh": "行動P2P/行動感測網路上的資料管理",
+    "en": "Data Management on Mobile P2P/Mobile Sensor Network"
+  },
+  "Data Visualization": {
+    "zh": "資料視覺化",
+    "en": "Data Visualization"
+  },
+  "Deep Learning and Reinforcement Learning": {
+    "zh": "深度學習與強化學習",
+    "en": "Deep Learning and Reinforcement Learning"
+  },
+  "Design-for-Test": {
+    "zh": "可測試性設計",
+    "en": "Design-for-Test"
+  },
+  "Digital Image/Video Processing": {
+    "zh": "數位影像/視訊處理",
+    "en": "Digital Image/Video Processing"
+  },
+  "Document Mining": {
+    "zh": "文件探勘",
+    "en": "Document Mining"
+  },
+  "ERP系統": {
+    "zh": "ERP系統",
+    "en": "ERP Systems"
+  },
+  "Electronic Commerce": {
+    "zh": "電子商務",
+    "en": "Electronic Commerce"
+  },
+  "Embodied AI": {
+    "zh": "具身人工智慧",
+    "en": "Embodied AI"
+  },
+  "Ethics-aware Computing": {
+    "zh": "倫理感知運算",
+    "en": "Ethics-aware Computing"
+  },
+  "FPGA應用設計(FPGA Application Design)": {
+    "zh": "FPGA應用設計(FPGA Application Design)",
+    "en": "FPGA Application Design"
+  },
+  "Facility Location Problems": {
+    "zh": "設施選址問題",
+    "en": "Facility Location Problems"
+  },
+  "Fractional Fourier Transform": {
+    "zh": "分數傅立葉轉換",
+    "en": "Fractional Fourier Transform"
+  },
+  "GPS系統": {
+    "zh": "GPS系統",
+    "en": "GPS Systems"
+  },
+  "Generative AI (生成式人工智慧)": {
+    "zh": "Generative AI (生成式人工智慧)",
+    "en": "Generative AI"
+  },
+  "Graph Algorithms": {
+    "zh": "圖論演算法",
+    "en": "Graph Algorithms"
+  },
+  "Groupware": {
+    "zh": "群組軟體",
+    "en": "Groupware"
+  },
+  "Health education": {
+    "zh": "健康教育",
+    "en": "Health education"
+  },
+  "High-Performance Computing": {
+    "zh": "高效能運算",
+    "en": "High-Performance Computing"
+  },
+  "IP Telephone (Voice over IP)": {
+    "zh": "IP電話（網路電話）",
+    "en": "IP Telephone (Voice over IP)"
+  },
+  "IT價值": {
+    "zh": "IT價值",
+    "en": "IT Value"
+  },
+  "Image Retrieval System": {
+    "zh": "影像檢索系統",
+    "en": "Image Retrieval System"
+  },
+  "Information Economics": {
+    "zh": "資訊經濟學",
+    "en": "Information Economics"
+  },
+  "Instance selection": {
+    "zh": "實例選取",
+    "en": "Instance selection"
+  },
+  "Intelligent Web-based Interactive Learning": {
+    "zh": "智慧型網路互動學習",
+    "en": "Intelligent Web-based Interactive Learning"
+  },
+  "IoT Application business model": {
+    "zh": "物聯網應用商業模式",
+    "en": "IoT Application business model"
+  },
+  "Keras": {
+    "zh": "Keras（深度學習框架）",
+    "en": "Keras"
+  },
+  "LEO Satellite Networks": {
+    "zh": "低軌衛星網路",
+    "en": "LEO Satellite Networks"
+  },
+  "Linear Algebra": {
+    "zh": "線性代數",
+    "en": "Linear Algebra"
+  },
+  "Logistics": {
+    "zh": "物流",
+    "en": "Logistics"
+  },
+  "Machine Learning and Data Mining": {
+    "zh": "機器學習與資料探勘",
+    "en": "Machine Learning and Data Mining"
+  },
+  "March test": {
+    "zh": "March測試法",
+    "en": "March test"
+  },
+  "Metaverse and IoT": {
+    "zh": "元宇宙與物聯網",
+    "en": "Metaverse and IoT"
+  },
+  "Model Building": {
+    "zh": "模型建構",
+    "en": "Model Building"
+  },
+  "Multi-sided Platform Mechanism Design": {
+    "zh": "多邊平台機制設計",
+    "en": "Multi-sided Platform Mechanism Design"
+  },
+  "Multimedia Data Mining (多媒體資料分析)": {
+    "zh": "Multimedia Data Mining (多媒體資料分析)",
+    "en": "Multimedia Data Mining"
+  },
+  "Music Data Mining": {
+    "zh": "音樂資料探勘",
+    "en": "Music Data Mining"
+  },
+  "Network Protocol": {
+    "zh": "網路協定",
+    "en": "Network Protocol"
+  },
+  "OFDM系統訊號處理": {
+    "zh": "OFDM系統訊號處理",
+    "en": "OFDM System Signal Processing"
+  },
+  "Open API 技術與資安": {
+    "zh": "Open API 技術與資安",
+    "en": "Open API Technology and Information Security"
+  },
+  "Organizational innovation": {
+    "zh": "組織創新",
+    "en": "Organizational innovation"
+  },
+  "Predictive Statistical Modeling": {
+    "zh": "預測性統計建模",
+    "en": "Predictive Statistical Modeling"
+  },
+  "Program Synthesis": {
+    "zh": "程式合成",
+    "en": "Program Synthesis"
+  },
+  "Protein Subcellular Localization Informatics": {
+    "zh": "蛋白質亞細胞定位資訊學",
+    "en": "Protein Subcellular Localization Informatics"
+  },
+  "Quantum Cryptography": {
+    "zh": "量子密碼學",
+    "en": "Quantum Cryptography"
+  },
+  "RFIC": {
+    "zh": "射頻積體電路",
+    "en": "RFIC"
+  },
+  "Real-Time Systems": {
+    "zh": "即時系統",
+    "en": "Real-Time Systems"
+  },
+  "Relationship marketing": {
+    "zh": "關係行銷",
+    "en": "Relationship marketing"
+  },
+  "Router & Switch Design": {
+    "zh": "路由器與交換器設計",
+    "en": "Router & Switch Design"
+  },
+  "STEM/STEAM教育": {
+    "zh": "STEM/STEAM教育",
+    "en": "STEM/STEAM Education"
+  },
+  "Security Informatics": {
+    "zh": "資安資訊學",
+    "en": "Security Informatics"
+  },
+  "Service science": {
+    "zh": "服務科學",
+    "en": "Service science"
+  },
+  "SoC系統整合": {
+    "zh": "SoC系統整合",
+    "en": "SoC System Integration"
+  },
+  "Social commerce": {
+    "zh": "社群商務",
+    "en": "Social commerce"
+  },
+  "Software Testing": {
+    "zh": "軟體測試",
+    "en": "Software Testing"
+  },
+  "Spectral Precoding": {
+    "zh": "頻譜預編碼",
+    "en": "Spectral Precoding"
+  },
+  "Strategic management": {
+    "zh": "策略管理",
+    "en": "Strategic management"
+  },
+  "System-on-Chip Methodology": {
+    "zh": "系統單晶片方法論",
+    "en": "System-on-Chip Methodology"
+  },
+  "Tensor Problems": {
+    "zh": "張量問題",
+    "en": "Tensor Problems"
+  },
+  "Transfer Learning": {
+    "zh": "遷移學習",
+    "en": "Transfer Learning"
+  },
+  "VLSI": {
+    "zh": "超大型積體電路（VLSI）",
+    "en": "VLSI (Very Large Scale Integration)"
+  },
+  "VLSI系統及RF晶片設計": {
+    "zh": "VLSI系統及RF晶片設計",
+    "en": "VLSI Systems and RF Chip Design"
+  },
+  "VR/AR與數位牙醫學": {
+    "zh": "VR/AR與數位牙醫學",
+    "en": "VR/AR and Digital Dentistry"
+  },
+  "Virtual Instrumentation": {
+    "zh": "虛擬儀表",
+    "en": "Virtual Instrumentation"
+  },
+  "Web Intelligence(網路智慧運算)": {
+    "zh": "Web Intelligence(網路智慧運算)",
+    "en": "Web Intelligence"
+  },
+  "Wireless Communication Systems": {
+    "zh": "無線通訊系統",
+    "en": "Wireless Communication Systems"
+  },
+  "Workflow Management": {
+    "zh": "工作流程管理",
+    "en": "Workflow Management"
+  },
+  "constant multiplier": {
+    "zh": "常數乘法器",
+    "en": "constant multiplier"
+  },
+  "e化學習": {
+    "zh": "e化學習",
+    "en": "e-Learning"
+  },
+  "python建置資料探勘系統": {
+    "zh": "python建置資料探勘系統",
+    "en": "Building Data Mining Systems with Python"
+  },
+  "survey": {
+    "zh": "調查研究",
+    "en": "Survey"
+  },
+  "三維網格點表面模型處理與小波分析": {
+    "zh": "三維網格點表面模型處理與小波分析",
+    "en": "3D Mesh Surface Model Processing and Wavelet Analysis"
+  },
+  "不完整資料分析": {
+    "zh": "不完整資料分析",
+    "en": "Incomplete Data Analysis"
+  },
+  "主/被動光纖元件研製": {
+    "zh": "主/被動光纖元件研製",
+    "en": "Development of Active/Passive Optical Fiber Components"
+  },
+  "互動式系統設計": {
+    "zh": "互動式系統設計",
+    "en": "Interactive System Design"
+  },
+  "交易系統硬體加速": {
+    "zh": "交易系統硬體加速",
+    "en": "Hardware Acceleration for Trading Systems"
+  },
+  "人因與健康資訊管理": {
+    "zh": "人因與健康資訊管理",
+    "en": "Human Factors and Health Information Management"
+  },
+  "人工智慧之教育應用": {
+    "zh": "人工智慧之教育應用",
+    "en": "Educational Applications of Artificial Intelligence"
+  },
+  "人工智慧及機器學習": {
+    "zh": "人工智慧及機器學習",
+    "en": "Artificial Intelligence and Machine Learning"
+  },
+  "人工智慧地震偵測與預警": {
+    "zh": "人工智慧地震偵測與預警",
+    "en": "AI-based Earthquake Detection and Early Warning"
+  },
+  "人工智慧晶片": {
+    "zh": "人工智慧晶片",
+    "en": "Artificial Intelligence Chips"
+  },
+  "人工智慧柔性計算": {
+    "zh": "人工智慧柔性計算",
+    "en": "AI Soft Computing"
+  },
+  "人工智慧策略": {
+    "zh": "人工智慧策略",
+    "en": "Artificial Intelligence Strategy"
+  },
+  "人工智慧與大數據": {
+    "zh": "人工智慧與大數據",
+    "en": "Artificial Intelligence and Big Data"
+  },
+  "人工智慧跨領域應用與數據服務開發 Artificial Intelligence Service and Big Data Management (生物資訊跨領域應用與數據服務、數據資訊跨領域應用與數據服務)": {
+    "zh": "人工智慧跨領域應用與數據服務開發 Artificial Intelligence Service and Big Data Management (生物資訊跨領域應用與數據服務、數據資訊跨領域應用與數據服務)",
+    "en": "Artificial Intelligence Service and Big Data Management (Cross-disciplinary Applications and Data Services for Bioinformatics and Data Informatics)"
+  },
+  "人智互動（Human-AI Interaction, HAX)": {
+    "zh": "人智互動（Human-AI Interaction, HAX)",
+    "en": "Human-AI Interaction (HAX)"
+  },
+  "人機互動介面": {
+    "zh": "人機互動介面",
+    "en": "Human-Computer Interaction Interface"
+  },
+  "人機互動設計": {
+    "zh": "人機互動設計",
+    "en": "Human-Computer Interaction Design"
+  },
+  "人臉定位追蹤與辨識系統": {
+    "zh": "人臉定位追蹤與辨識系統",
+    "en": "Face Localization, Tracking, and Recognition System"
+  },
+  "人類中心分析": {
+    "zh": "人類中心分析",
+    "en": "Human-Centered Analytics"
+  },
+  "代理式軟體系統 (Agentic Software System) 生成式 AI 軟體測試( Generative AI for Software Testing)": {
+    "zh": "代理式軟體系統 (Agentic Software System) 生成式 AI 軟體測試( Generative AI for Software Testing)",
+    "en": "Agentic Software System; Generative AI for Software Testing"
+  },
+  "仿神經晶片": {
+    "zh": "仿神經晶片",
+    "en": "Neuromorphic Chips"
+  },
+  "企業科技管理": {
+    "zh": "企業科技管理",
+    "en": "Enterprise Technology Management"
+  },
+  "企業電子化": {
+    "zh": "企業電子化",
+    "en": "Enterprise Digitalization"
+  },
+  "佇列理論": {
+    "zh": "佇列理論",
+    "en": "Queueing Theory"
+  },
+  "低功率數位系統與電路設計": {
+    "zh": "低功率數位系統與電路設計",
+    "en": "Low-Power Digital Systems and Circuit Design"
+  },
+  "低功耗與系統單晶片(SOC)設計技術": {
+    "zh": "低功耗與系統單晶片(SOC)設計技術",
+    "en": "Low-Power and System-on-Chip (SoC) Design Technology"
+  },
+  "作業系統與嵌入式系統(Operating Systems and Embedded Systems)": {
+    "zh": "作業系統與嵌入式系統(Operating Systems and Embedded Systems)",
+    "en": "Operating Systems and Embedded Systems"
+  },
+  "供應鏈管理/ERP": {
+    "zh": "供應鏈管理/ERP",
+    "en": "Supply Chain Management / ERP"
+  },
+  "信號處理 (Signal Processing)": {
+    "zh": "信號處理 (Signal Processing)",
+    "en": "Signal Processing"
+  },
+  "個人行動通信(Personal Communication System)": {
+    "zh": "個人行動通信(Personal Communication System)",
+    "en": "Personal Communication System"
+  },
+  "假新聞與社群媒體偵測": {
+    "zh": "假新聞與社群媒體偵測",
+    "en": "Fake News and Social Media Detection"
+  },
+  "健康資訊分析": {
+    "zh": "健康資訊分析",
+    "en": "Health Informatics Analysis"
+  },
+  "元啟發演算法": {
+    "zh": "元啟發演算法",
+    "en": "Metaheuristic Algorithms"
+  },
+  "先進網路與加密技術": {
+    "zh": "先進網路與加密技術",
+    "en": "Advanced Networking and Encryption Technology"
+  },
+  "光學資料中心網路": {
+    "zh": "光學資料中心網路",
+    "en": "Optical Data Center Networks"
+  },
+  "光纖微波傳輸系統": {
+    "zh": "光纖微波傳輸系統",
+    "en": "Fiber-Optic and Microwave Transmission Systems"
+  },
+  "光通訊系統設計": {
+    "zh": "光通訊系統設計",
+    "en": "Optical Communication System Design"
+  },
+  "光電系統": {
+    "zh": "光電系統",
+    "en": "Optoelectronic Systems"
+  },
+  "全文檢索": {
+    "zh": "全文檢索",
+    "en": "Full-Text Retrieval"
+  },
+  "分子計算": {
+    "zh": "分子計算",
+    "en": "Molecular Computing"
+  },
+  "分散式機器學習": {
+    "zh": "分散式機器學習",
+    "en": "Distributed Machine Learning"
+  },
+  "分散式資訊系統": {
+    "zh": "分散式資訊系統",
+    "en": "Distributed Information Systems"
+  },
+  "前瞻記憶體系統": {
+    "zh": "前瞻記憶體系統",
+    "en": "Advanced Memory Systems"
+  },
+  "創新創業教育": {
+    "zh": "創新創業教育",
+    "en": "Innovation and Entrepreneurship Education"
+  },
+  "創新與創業家精神": {
+    "zh": "創新與創業家精神",
+    "en": "Innovation and Entrepreneurship"
+  },
+  "功能性核磁共振影像及擴散張量影像資料分析": {
+    "zh": "功能性核磁共振影像及擴散張量影像資料分析",
+    "en": "Functional MRI and Diffusion Tensor Imaging Data Analysis"
+  },
+  "動態規劃(Dynamic Programming)": {
+    "zh": "動態規劃(Dynamic Programming)",
+    "en": "Dynamic Programming"
+  },
+  "區塊鍵": {
+    "zh": "區塊鍵",
+    "en": "Blockchain"
+  },
+  "區塊鏈與智能合約": {
+    "zh": "區塊鏈與智能合約",
+    "en": "Blockchain and Smart Contracts"
+  },
+  "半導體可靠度與良率管理": {
+    "zh": "半導體可靠度與良率管理",
+    "en": "Semiconductor Reliability and Yield Management"
+  },
+  "協同商務": {
+    "zh": "協同商務",
+    "en": "Collaborative Commerce"
+  },
+  "即時影像處理及動作分析": {
+    "zh": "即時影像處理及動作分析",
+    "en": "Real-Time Image Processing and Motion Analysis"
+  },
+  "口述語言對話與理解": {
+    "zh": "口述語言對話與理解",
+    "en": "Spoken Language Dialogue and Understanding"
+  },
+  "可程式化邏輯電路": {
+    "zh": "可程式化邏輯電路",
+    "en": "Programmable Logic Circuits"
+  },
+  "可逆式資訊隱藏": {
+    "zh": "可逆式資訊隱藏",
+    "en": "Reversible Data Hiding"
+  },
+  "可靠度提升": {
+    "zh": "可靠度提升",
+    "en": "Reliability Enhancement"
+  },
+  "同步技術": {
+    "zh": "同步技術",
+    "en": "Synchronization Technology"
+  },
+  "商業智慧分析": {
+    "zh": "商業智慧分析",
+    "en": "Business Intelligence Analytics"
+  },
+  "啟發式最佳化演算法": {
+    "zh": "啟發式最佳化演算法",
+    "en": "Heuristic Optimization Algorithms"
+  },
+  "單晶片系統應用": {
+    "zh": "單晶片系統應用",
+    "en": "System-on-Chip Applications"
+  },
+  "固定收益型商品": {
+    "zh": "固定收益型商品",
+    "en": "Fixed-Income Products"
+  },
+  "圖學理論": {
+    "zh": "圖學理論",
+    "en": "Graph Theory"
+  },
+  "圖形辨識與機器學習": {
+    "zh": "圖形辨識與機器學習",
+    "en": "Pattern Recognition and Machine Learning"
+  },
+  "圖論稀疏化演算法": {
+    "zh": "圖論稀疏化演算法",
+    "en": "Graph Sparsification Algorithms"
+  },
+  "城市科學與計算(Urban Science and Computing)": {
+    "zh": "城市科學與計算(Urban Science and Computing)",
+    "en": "Urban Science and Computing"
+  },
+  "基於影像的生理和活動信號偵測技術": {
+    "zh": "基於影像的生理和活動信號偵測技術",
+    "en": "Image-Based Physiological and Activity Signal Detection Technology"
+  },
+  "場域及准實驗": {
+    "zh": "場域及准實驗",
+    "en": "Field and Quasi-Experiments"
+  },
+  "多媒體IC設計": {
+    "zh": "多媒體IC設計",
+    "en": "Multimedia IC Design"
+  },
+  "多媒體內容分析辨識與生成": {
+    "zh": "多媒體內容分析辨識與生成",
+    "en": "Multimedia Content Analysis, Recognition, and Generation"
+  },
+  "多媒體影音串流/數位家庭": {
+    "zh": "多媒體影音串流/數位家庭",
+    "en": "Multimedia Audio/Video Streaming / Digital Home"
+  },
+  "多媒體檢索": {
+    "zh": "多媒體檢索",
+    "en": "Multimedia Retrieval"
+  },
+  "多媒體處理分析": {
+    "zh": "多媒體處理分析",
+    "en": "Multimedia Processing and Analysis"
+  },
+  "多媒體資料庫系統": {
+    "zh": "多媒體資料庫系統",
+    "en": "Multimedia Database Systems"
+  },
+  "多媒體資訊網路前瞻研究": {
+    "zh": "多媒體資訊網路前瞻研究",
+    "en": "Advanced Research on Multimedia Information Networks"
+  },
+  "多接受者加密": {
+    "zh": "多接受者加密",
+    "en": "Multi-Recipient Encryption"
+  },
+  "多模態分析": {
+    "zh": "多模態分析",
+    "en": "Multimodal Analysis"
+  },
+  "多模態資料分析": {
+    "zh": "多模態資料分析",
+    "en": "Multimodal Data Analysis"
+  },
+  "多臂老虎機": {
+    "zh": "多臂老虎機",
+    "en": "Multi-Armed Bandit"
+  },
+  "多變量統計分析": {
+    "zh": "多變量統計分析",
+    "en": "Multivariate Statistical Analysis"
+  },
+  "大型語言模型(Large Language Model)": {
+    "zh": "大型語言模型(Large Language Model)",
+    "en": "Large Language Model"
+  },
+  "大數據分析與安全(Big Data Analysis and Security)": {
+    "zh": "大數據分析與安全(Big Data Analysis and Security)",
+    "en": "Big Data Analysis and Security"
+  },
+  "大數據資料分析與Web Service技術開發(Technology Development for Big Data Analysis and Web Service)": {
+    "zh": "大數據資料分析與Web Service技術開發(Technology Development for Big Data Analysis and Web Service)",
+    "en": "Technology Development for Big Data Analysis and Web Service"
+  },
+  "大規模影像視訊搜尋與辨識": {
+    "zh": "大規模影像視訊搜尋與辨識",
+    "en": "Large-Scale Image/Video Search and Recognition"
+  },
+  "天線設計": {
+    "zh": "天線設計",
+    "en": "Antenna Design"
+  },
+  "奈米材料及元件": {
+    "zh": "奈米材料及元件",
+    "en": "Nanomaterials and Devices"
+  },
+  "威脅情資與進階攻擊及惡意程式AI分析與鑑識": {
+    "zh": "威脅情資與進階攻擊及惡意程式AI分析與鑑識",
+    "en": "Threat Intelligence, Advanced Attacks, and AI-Based Malware Analysis and Forensics"
+  },
+  "學習分析與教育大數據": {
+    "zh": "學習分析與教育大數據",
+    "en": "Learning Analytics and Educational Big Data"
+  },
+  "學習診斷與回饋": {
+    "zh": "學習診斷與回饋",
+    "en": "Learning Diagnosis and Feedback"
+  },
+  "定量磁振造影序列設計": {
+    "zh": "定量磁振造影序列設計",
+    "en": "Quantitative MRI Pulse Sequence Design"
+  },
+  "密碼系統晶片設計": {
+    "zh": "密碼系統晶片設計",
+    "en": "Cryptographic System Chip Design"
+  },
+  "寬頻蜂巢式網路": {
+    "zh": "寬頻蜂巢式網路",
+    "en": "Broadband Cellular Networks"
+  },
+  "射頻及微波積體電路": {
+    "zh": "射頻及微波積體電路",
+    "en": "RF and Microwave Integrated Circuits"
+  },
+  "專利寫作": {
+    "zh": "專利寫作",
+    "en": "Patent Writing"
+  },
+  "小提琴機器人": {
+    "zh": "小提琴機器人",
+    "en": "Violin-Playing Robot"
+  },
+  "崁入式系統設計": {
+    "zh": "崁入式系統設計",
+    "en": "Embedded System Design"
+  },
+  "嵌入式平台應用(Embedded Platform Applications)": {
+    "zh": "嵌入式平台應用(Embedded Platform Applications)",
+    "en": "Embedded Platform Applications"
+  },
+  "嵌入式系統應用設計": {
+    "zh": "嵌入式系統應用設計",
+    "en": "Embedded System Application Design"
+  },
+  "嵌入式系統與應用(Embedded system and application)": {
+    "zh": "嵌入式系統與應用(Embedded system and application)",
+    "en": "Embedded System and Application"
+  },
+  "嵌入式記憶體": {
+    "zh": "嵌入式記憶體",
+    "en": "Embedded Memory"
+  },
+  "工作生理學": {
+    "zh": "工作生理學",
+    "en": "Occupational Physiology"
+  },
+  "工業機器人": {
+    "zh": "工業機器人",
+    "en": "Industrial Robots"
+  },
+  "巨量天線通訊": {
+    "zh": "巨量天線通訊",
+    "en": "Massive MIMO Communications"
+  },
+  "巨量資料解析": {
+    "zh": "巨量資料解析",
+    "en": "Big Data Analytics"
+  },
+  "平行與分散式演算法": {
+    "zh": "平行與分散式演算法",
+    "en": "Parallel and Distributed Algorithms"
+  },
+  "平行語言設計": {
+    "zh": "平行語言設計",
+    "en": "Parallel Language Design"
+  },
+  "建築設備控制": {
+    "zh": "建築設備控制",
+    "en": "Building Equipment Control"
+  },
+  "彩色影像處理與應用": {
+    "zh": "彩色影像處理與應用",
+    "en": "Color Image Processing and Applications"
+  },
+  "影像分類": {
+    "zh": "影像分類",
+    "en": "Image Classification"
+  },
+  "影像推理": {
+    "zh": "影像推理",
+    "en": "Image Reasoning"
+  },
+  "影像美學": {
+    "zh": "影像美學",
+    "en": "Image Aesthetics"
+  },
+  "影像處理和視訊編碼": {
+    "zh": "影像處理和視訊編碼",
+    "en": "Image Processing and Video Coding"
+  },
+  "影像視訊": {
+    "zh": "影像視訊",
+    "en": "Image and Video"
+  },
+  "影片壓縮": {
+    "zh": "影片壓縮",
+    "en": "Video Compression"
+  },
+  "微分賽局與多目標最佳化": {
+    "zh": "微分賽局與多目標最佳化",
+    "en": "Differential Games and Multi-Objective Optimization"
+  },
+  "微波應用": {
+    "zh": "微波應用",
+    "en": "Microwave Applications"
+  },
+  "微系統細胞操控": {
+    "zh": "微系統細胞操控",
+    "en": "Microsystems for Cell Manipulation"
+  },
+  "微處理機系統": {
+    "zh": "微處理機系統",
+    "en": "Microprocessor Systems"
+  },
+  "快速演算法設計 / 凸優化理論": {
+    "zh": "快速演算法設計 / 凸優化理論",
+    "en": "Fast Algorithm Design / Convex Optimization Theory"
+  },
+  "感測元件晶片設計": {
+    "zh": "感測元件晶片設計",
+    "en": "Sensor Device Chip Design"
+  },
+  "感知資料分析": {
+    "zh": "感知資料分析",
+    "en": "Perceptual Data Analysis"
+  },
+  "應用深度學習/AI技術於各種落地實證": {
+    "zh": "應用深度學習/AI技術於各種落地實證",
+    "en": "Applying Deep Learning/AI Technologies to Real-World Implementations"
+  },
+  "手勢辨識": {
+    "zh": "手勢辨識",
+    "en": "Gesture Recognition"
+  },
+  "投資決策管理": {
+    "zh": "投資決策管理",
+    "en": "Investment Decision Management"
+  },
+  "排程與最佳化": {
+    "zh": "排程與最佳化",
+    "en": "Scheduling and Optimization"
+  },
+  "控制系統與最佳化技術": {
+    "zh": "控制系統與最佳化技術",
+    "en": "Control Systems and Optimization Technology"
+  },
+  "擴增實境與虛擬實境": {
+    "zh": "擴增實境與虛擬實境",
+    "en": "Augmented Reality and Virtual Reality"
+  },
+  "效能評估": {
+    "zh": "效能評估",
+    "en": "Performance Evaluation"
+  },
+  "教學系統開發": {
+    "zh": "教學系統開發",
+    "en": "Instructional System Development"
+  },
+  "教育資料科學": {
+    "zh": "教育資料科學",
+    "en": "Educational Data Science"
+  },
+  "數位內容截取": {
+    "zh": "數位內容截取",
+    "en": "Digital Content Extraction"
+  },
+  "數位化賦能的社會創新(Social Innovations)": {
+    "zh": "數位化賦能的社會創新(Social Innovations)",
+    "en": "Digitally-Enabled Social Innovation"
+  },
+  "數位多媒體內容分析": {
+    "zh": "數位多媒體內容分析",
+    "en": "Digital Multimedia Content Analysis"
+  },
+  "數位影像與訊號分析": {
+    "zh": "數位影像與訊號分析",
+    "en": "Digital Image and Signal Analysis"
+  },
+  "數位水印": {
+    "zh": "數位水印",
+    "en": "Digital Watermarking"
+  },
+  "數位社會與行銷傳播": {
+    "zh": "數位社會與行銷傳播",
+    "en": "Digital Society and Marketing Communications"
+  },
+  "數位處理器(DSP)與微處理器應用": {
+    "zh": "數位處理器(DSP)與微處理器應用",
+    "en": "Digital Signal Processor (DSP) and Microprocessor Applications"
+  },
+  "數位語言學習": {
+    "zh": "數位語言學習",
+    "en": "Digital Language Learning"
+  },
+  "數位通訊 (Digital Communications)": {
+    "zh": "數位通訊 (Digital Communications)",
+    "en": "Digital Communications"
+  },
+  "數位遊戲式學習": {
+    "zh": "數位遊戲式學習",
+    "en": "Digital Game-Based Learning"
+  },
+  "數值偏微分方程": {
+    "zh": "數值偏微分方程",
+    "en": "Numerical Partial Differential Equations"
+  },
+  "數理財務": {
+    "zh": "數理財務",
+    "en": "Mathematical Finance"
+  },
+  "文本探勘": {
+    "zh": "文本探勘",
+    "en": "Text Mining"
+  },
+  "新興儲存裝置": {
+    "zh": "新興儲存裝置",
+    "en": "Emerging Storage Devices"
+  },
+  "方法論": {
+    "zh": "方法論",
+    "en": "Methodology"
+  },
+  "時空資料庫應用": {
+    "zh": "時空資料庫應用",
+    "en": "Spatiotemporal Database Applications"
+  },
+  "晶片": {
+    "zh": "晶片",
+    "en": "Chip"
+  },
+  "晶片網路": {
+    "zh": "晶片網路",
+    "en": "Network-on-Chip"
+  },
+  "智慧化數位實境": {
+    "zh": "智慧化數位實境",
+    "en": "Intelligent Digital Reality"
+  },
+  "智慧型代理人系統": {
+    "zh": "智慧型代理人系統",
+    "en": "Intelligent Agent Systems"
+  },
+  "智慧型控制(Intelligent Control)": {
+    "zh": "智慧型控制(Intelligent Control)",
+    "en": "Intelligent Control"
+  },
+  "智慧型機器人系統": {
+    "zh": "智慧型機器人系統",
+    "en": "Intelligent Robotic Systems"
+  },
+  "智慧型科技及其應用": {
+    "zh": "智慧型科技及其應用",
+    "en": "Intelligent Technology and Its Applications"
+  },
+  "智慧型網路控制與機器人技術開發(Technology Development for Intelligent Network Control And Robot)": {
+    "zh": "智慧型網路控制與機器人技術開發(Technology Development for Intelligent Network Control And Robot)",
+    "en": "Technology Development for Intelligent Network Control and Robotics"
+  },
+  "智慧型運算法": {
+    "zh": "智慧型運算法",
+    "en": "Intelligent Algorithms"
+  },
+  "智慧家庭": {
+    "zh": "智慧家庭",
+    "en": "Smart Home"
+  },
+  "智慧感測系統": {
+    "zh": "智慧感測系統",
+    "en": "Smart Sensing Systems"
+  },
+  "智慧晶圓/車用電子測試": {
+    "zh": "智慧晶圓/車用電子測試",
+    "en": "Smart Wafer / Automotive Electronics Testing"
+  },
+  "智慧機器人系統": {
+    "zh": "智慧機器人系統",
+    "en": "Intelligent Robotic Systems"
+  },
+  "智慧無人機": {
+    "zh": "智慧無人機",
+    "en": "Smart UAV"
+  },
+  "智慧生活": {
+    "zh": "智慧生活",
+    "en": "Smart Living"
+  },
+  "智慧科技農業": {
+    "zh": "智慧科技農業",
+    "en": "Smart Agricultural Technology"
+  },
+  "智慧聯網技術": {
+    "zh": "智慧聯網技術",
+    "en": "Smart IoT Technology"
+  },
+  "智慧視覺計算": {
+    "zh": "智慧視覺計算",
+    "en": "Intelligent Visual Computing"
+  },
+  "智慧訊號與資訊處理": {
+    "zh": "智慧訊號與資訊處理",
+    "en": "Intelligent Signal and Information Processing"
+  },
+  "智慧載具系統設計": {
+    "zh": "智慧載具系統設計",
+    "en": "Intelligent Vehicle System Design"
+  },
+  "智慧農業物聯網": {
+    "zh": "智慧農業物聯網",
+    "en": "Smart Agricultural IoT"
+  },
+  "智慧醫療、醫學資訊(Intelligent Health、Medical Informatics)": {
+    "zh": "智慧醫療、醫學資訊(Intelligent Health、Medical Informatics)",
+    "en": "Intelligent Health and Medical Informatics"
+  },
+  "智能化技術": {
+    "zh": "智能化技術",
+    "en": "Intelligent Technology"
+  },
+  "智能機器人": {
+    "zh": "智能機器人",
+    "en": "Intelligent Robots"
+  },
+  "智能資訊系統": {
+    "zh": "智能資訊系統",
+    "en": "Intelligent Information Systems"
+  },
+  "最佳化系統": {
+    "zh": "最佳化系統",
+    "en": "Optimization Systems"
+  },
+  "服務失敗與補救": {
+    "zh": "服務失敗與補救",
+    "en": "Service Failure and Recovery"
+  },
+  "服務設計": {
+    "zh": "服務設計",
+    "en": "Service Design"
+  },
+  "校務研究": {
+    "zh": "校務研究",
+    "en": "Institutional Research"
+  },
+  "模型加速與硬體感知式設計": {
+    "zh": "模型加速與硬體感知式設計",
+    "en": "Model Acceleration and Hardware-Aware Design"
+  },
+  "模擬計算": {
+    "zh": "模擬計算",
+    "en": "Simulation Computing"
+  },
+  "模糊系統與類神經網路": {
+    "zh": "模糊系統與類神經網路",
+    "en": "Fuzzy Systems and Neural Networks"
+  },
+  "樣式比對": {
+    "zh": "樣式比對",
+    "en": "Pattern Matching"
+  },
+  "機器人互動": {
+    "zh": "機器人互動",
+    "en": "Robot Interaction"
+  },
+  "機器人理財": {
+    "zh": "機器人理財",
+    "en": "Robo-Advisory"
+  },
+  "機器人設計": {
+    "zh": "機器人設計",
+    "en": "Robot Design"
+  },
+  "機器學習於資安之應用": {
+    "zh": "機器學習於資安之應用",
+    "en": "Applications of Machine Learning in Information Security"
+  },
+  "機器學習與數據分析": {
+    "zh": "機器學習與數據分析",
+    "en": "Machine Learning and Data Analytics"
+  },
+  "機器發明": {
+    "zh": "機器發明",
+    "en": "Machine Invention"
+  },
+  "機械手臂控制": {
+    "zh": "機械手臂控制",
+    "en": "Robotic Arm Control"
+  },
+  "機電系統整合": {
+    "zh": "機電系統整合",
+    "en": "Mechatronic System Integration"
+  },
+  "次世代通訊網路": {
+    "zh": "次世代通訊網路",
+    "en": "Next-Generation Communication Networks"
+  },
+  "毫米波多輸入多輸出通訊系統": {
+    "zh": "毫米波多輸入多輸出通訊系統",
+    "en": "Millimeter-Wave MIMO Communication Systems"
+  },
+  "永續創新": {
+    "zh": "永續創新",
+    "en": "Sustainable Innovation"
+  },
+  "決策偏誤": {
+    "zh": "決策偏誤",
+    "en": "Decision Bias"
+  },
+  "汽車安全": {
+    "zh": "汽車安全",
+    "en": "Automotive Safety"
+  },
+  "流程自動化": {
+    "zh": "流程自動化",
+    "en": "Process Automation"
+  },
+  "消費者行為與環境經濟": {
+    "zh": "消費者行為與環境經濟",
+    "en": "Consumer Behavior and Environmental Economics"
+  },
+  "深度學習技術開發(Technology Development for Deep Learning)": {
+    "zh": "深度學習技術開發(Technology Development for Deep Learning)",
+    "en": "Technology Development for Deep Learning"
+  },
+  "深度學習與物件識別": {
+    "zh": "深度學習與物件識別",
+    "en": "Deep Learning and Object Recognition"
+  },
+  "深度機器學習": {
+    "zh": "深度機器學習",
+    "en": "Deep Machine Learning"
+  },
+  "混合實境(Mixed Reality)": {
+    "zh": "混合實境(Mixed Reality)",
+    "en": "Mixed Reality"
+  },
+  "演化式硬體": {
+    "zh": "演化式硬體",
+    "en": "Evolvable Hardware"
+  },
+  "演算法暨架構共同探勘方法論": {
+    "zh": "演算法暨架構共同探勘方法論",
+    "en": "Algorithm-Architecture Co-Exploration Methodology"
+  },
+  "演算法設計（應用演算法、近似演算法）": {
+    "zh": "演算法設計（應用演算法、近似演算法）",
+    "en": "Algorithm Design (Applied Algorithms, Approximation Algorithms)"
+  },
+  "無人機系統整合與應用": {
+    "zh": "無人機系統整合與應用",
+    "en": "UAV System Integration and Applications"
+  },
+  "無線/有線通訊": {
+    "zh": "無線/有線通訊",
+    "en": "Wireless/Wired Communications"
+  },
+  "無線及個人通訊": {
+    "zh": "無線及個人通訊",
+    "en": "Wireless and Personal Communications"
+  },
+  "無線感測網路 (Wireless Sensor Networks)": {
+    "zh": "無線感測網路 (Wireless Sensor Networks)",
+    "en": "Wireless Sensor Networks"
+  },
+  "無線感測網路技術": {
+    "zh": "無線感測網路技術",
+    "en": "Wireless Sensor Network Technology"
+  },
+  "無線手持式裝置與 GPS 的應用技術開發創新": {
+    "zh": "無線手持式裝置與 GPS 的應用技術開發創新",
+    "en": "Innovative Application Technology Development for Wireless Handheld Devices and GPS"
+  },
+  "無線網路與行動網路(Wireless network and mobile networking)": {
+    "zh": "無線網路與行動網路(Wireless network and mobile networking)",
+    "en": "Wireless Network and Mobile Networking"
+  },
+  "無線與行動通訊網路": {
+    "zh": "無線與行動通訊網路",
+    "en": "Wireless and Mobile Communication Networks"
+  },
+  "無線通訊/行動計算": {
+    "zh": "無線通訊/行動計算",
+    "en": "Wireless Communications / Mobile Computing"
+  },
+  "無線通訊演算法": {
+    "zh": "無線通訊演算法",
+    "en": "Wireless Communication Algorithms"
+  },
+  "無線電資源管理": {
+    "zh": "無線電資源管理",
+    "en": "Radio Resource Management"
+  },
+  "物件導向方法": {
+    "zh": "物件導向方法",
+    "en": "Object-Oriented Methods"
+  },
+  "物理層加密": {
+    "zh": "物理層加密",
+    "en": "Physical-Layer Encryption"
+  },
+  "物聯網及VR/AR/MR創新應用設計": {
+    "zh": "物聯網及VR/AR/MR創新應用設計",
+    "en": "Innovative Application Design for IoT and VR/AR/MR"
+  },
+  "物聯網平台": {
+    "zh": "物聯網平台",
+    "en": "IoT Platforms"
+  },
+  "物聯網技術應用": {
+    "zh": "物聯網技術應用",
+    "en": "IoT Technology Applications"
+  },
+  "物聯網與機器通訊": {
+    "zh": "物聯網與機器通訊",
+    "en": "IoT and Machine Communications"
+  },
+  "物聯網通訊": {
+    "zh": "物聯網通訊",
+    "en": "IoT Communications"
+  },
+  "特徵資料萃取": {
+    "zh": "特徵資料萃取",
+    "en": "Feature Data Extraction"
+  },
+  "生成式AI推理研究": {
+    "zh": "生成式AI推理研究",
+    "en": "Generative AI Inference Research"
+  },
+  "生物啟發計算": {
+    "zh": "生物啟發計算",
+    "en": "Bio-Inspired Computing"
+  },
+  "生物系統控制": {
+    "zh": "生物系統控制",
+    "en": "Biological System Control"
+  },
+  "生物資訊資料庫": {
+    "zh": "生物資訊資料庫",
+    "en": "Bioinformatics Databases"
+  },
+  "生物醫學統計": {
+    "zh": "生物醫學統計",
+    "en": "Biomedical Statistics"
+  },
+  "生產排程理論與應用": {
+    "zh": "生產排程理論與應用",
+    "en": "Production Scheduling Theory and Applications"
+  },
+  "生醫光機電系統": {
+    "zh": "生醫光機電系統",
+    "en": "Biomedical Optomechatronic Systems"
+  },
+  "生醫影像及信號處理": {
+    "zh": "生醫影像及信號處理",
+    "en": "Biomedical Imaging and Signal Processing"
+  },
+  "生醫應用電路設計": {
+    "zh": "生醫應用電路設計",
+    "en": "Circuit Design for Biomedical Applications"
+  },
+  "生醫系統": {
+    "zh": "生醫系統",
+    "en": "Biomedical Systems"
+  },
+  "生醫訊號處理及健康資訊": {
+    "zh": "生醫訊號處理及健康資訊",
+    "en": "Biomedical Signal Processing and Health Informatics"
+  },
+  "生醫電子與健康照護系統設計": {
+    "zh": "生醫電子與健康照護系統設計",
+    "en": "Biomedical Electronics and Healthcare System Design"
+  },
+  "產業實務與營運": {
+    "zh": "產業實務與營運",
+    "en": "Industry Practice and Operations"
+  },
+  "異質資料庫系統": {
+    "zh": "異質資料庫系統",
+    "en": "Heterogeneous Database Systems"
+  },
+  "相機校正": {
+    "zh": "相機校正",
+    "en": "Camera Calibration"
+  },
+  "知識圖譜與視覺化": {
+    "zh": "知識圖譜與視覺化",
+    "en": "Knowledge Graphs and Visualization"
+  },
+  "知識翻新教育": {
+    "zh": "知識翻新教育",
+    "en": "Knowledge Innovation Education"
+  },
+  "研究資料管理": {
+    "zh": "研究資料管理",
+    "en": "Research Data Management"
+  },
+  "碳盤與資訊整合": {
+    "zh": "碳盤與資訊整合",
+    "en": "Carbon Inventory and Information Integration"
+  },
+  "社會網絡": {
+    "zh": "社會網絡",
+    "en": "Social Networks"
+  },
+  "社群媒介": {
+    "zh": "社群媒介",
+    "en": "Social Media"
+  },
+  "社群媒體行銷": {
+    "zh": "社群媒體行銷",
+    "en": "Social Media Marketing"
+  },
+  "社群網路探勘": {
+    "zh": "社群網路探勘",
+    "en": "Social Network Mining"
+  },
+  "神經工程與認知增進": {
+    "zh": "神經工程與認知增進",
+    "en": "Neural Engineering and Cognitive Enhancement"
+  },
+  "神經造影": {
+    "zh": "神經造影",
+    "en": "Neuroimaging"
+  },
+  "科技政策與科技管理": {
+    "zh": "科技政策與科技管理",
+    "en": "Technology Policy and Technology Management"
+  },
+  "程式教育": {
+    "zh": "程式教育",
+    "en": "Programming Education"
+  },
+  "積體電路電腦輔助設計": {
+    "zh": "積體電路電腦輔助設計",
+    "en": "Computer-Aided Design for Integrated Circuits"
+  },
+  "穿戴式科技(AR/VR)": {
+    "zh": "穿戴式科技(AR/VR)",
+    "en": "Wearable Technology (AR/VR)"
+  },
+  "穿戴感測": {
+    "zh": "穿戴感測",
+    "en": "Wearable Sensing"
+  },
+  "管理決策科學": {
+    "zh": "管理決策科學",
+    "en": "Management Decision Science"
+  },
+  "精實系統與作業管理": {
+    "zh": "精實系統與作業管理",
+    "en": "Lean Systems and Operations Management"
+  },
+  "系統分析設計": {
+    "zh": "系統分析設計",
+    "en": "Systems Analysis and Design"
+  },
+  "系統單晶片系統時脈設計": {
+    "zh": "系統單晶片系統時脈設計",
+    "en": "System-on-Chip Clock Design"
+  },
+  "系統晶片(SoC)": {
+    "zh": "系統晶片(SoC)",
+    "en": "System-on-Chip (SoC)"
+  },
+  "系統程式設計": {
+    "zh": "系統程式設計",
+    "en": "Systems Programming"
+  },
+  "系統設計與正規驗證": {
+    "zh": "系統設計與正規驗證",
+    "en": "System Design and Formal Verification"
+  },
+  "細胞影像": {
+    "zh": "細胞影像",
+    "en": "Cell Imaging"
+  },
+  "統計學習": {
+    "zh": "統計學習",
+    "en": "Statistical Learning"
+  },
+  "統計通訊": {
+    "zh": "統計通訊",
+    "en": "Statistical Communications"
+  },
+  "綠色減碳": {
+    "zh": "綠色減碳",
+    "en": "Green Carbon Reduction"
+  },
+  "網站服務品質": {
+    "zh": "網站服務品質",
+    "en": "Website Service Quality"
+  },
+  "網路入侵防禦": {
+    "zh": "網路入侵防禦",
+    "en": "Network Intrusion Prevention"
+  },
+  "網路多媒體": {
+    "zh": "網路多媒體",
+    "en": "Network Multimedia"
+  },
+  "網路專題學習": {
+    "zh": "網路專題學習",
+    "en": "Network Project-Based Learning"
+  },
+  "網路技術與應用(Network technology and application)": {
+    "zh": "網路技術與應用(Network technology and application)",
+    "en": "Network Technology and Application"
+  },
+  "網路服務品質演算法 (QoS Algorithms)": {
+    "zh": "網路服務品質演算法 (QoS Algorithms)",
+    "en": "Network QoS Algorithms"
+  },
+  "網路消費者行為": {
+    "zh": "網路消費者行為",
+    "en": "Online Consumer Behavior"
+  },
+  "網路與資料安全": {
+    "zh": "網路與資料安全",
+    "en": "Network and Data Security"
+  },
+  "網路語音通訊": {
+    "zh": "網路語音通訊",
+    "en": "Voice Communications over Networks"
+  },
+  "網路電信系統": {
+    "zh": "網路電信系統",
+    "en": "Network Telecommunication Systems"
+  },
+  "網際網路技術": {
+    "zh": "網際網路技術",
+    "en": "Internet Technology"
+  },
+  "網際網路測量": {
+    "zh": "網際網路測量",
+    "en": "Internet Measurement"
+  },
+  "網際網路資訊系統": {
+    "zh": "網際網路資訊系統",
+    "en": "Internet Information Systems"
+  },
+  "網頁前後端技術": {
+    "zh": "網頁前後端技術",
+    "en": "Web Front-End and Back-End Technology"
+  },
+  "線上學習": {
+    "zh": "線上學習",
+    "en": "Online Learning"
+  },
+  "線性系統": {
+    "zh": "線性系統",
+    "en": "Linear Systems"
+  },
+  "績效評估模式": {
+    "zh": "績效評估模式",
+    "en": "Performance Evaluation Models"
+  },
+  "老人健康生活品質評估": {
+    "zh": "老人健康生活品質評估",
+    "en": "Elderly Health-Related Quality of Life Assessment"
+  },
+  "聲音訊號處理": {
+    "zh": "聲音訊號處理",
+    "en": "Audio Signal Processing"
+  },
+  "股票質押": {
+    "zh": "股票質押",
+    "en": "Share Pledging"
+  },
+  "腦機介面（Brain-Computer Interface, BCI）": {
+    "zh": "腦機介面（Brain-Computer Interface, BCI）",
+    "en": "Brain-Computer Interface (BCI)"
+  },
+  "臨床試驗設計": {
+    "zh": "臨床試驗設計",
+    "en": "Clinical Trial Design"
+  },
+  "自動化控制與驅動系統": {
+    "zh": "自動化控制與驅動系統",
+    "en": "Automated Control and Drive Systems"
+  },
+  "自動控制(Automatic control)": {
+    "zh": "自動控制(Automatic control)",
+    "en": "Automatic Control"
+  },
+  "自然語言理解": {
+    "zh": "自然語言理解",
+    "en": "Natural Language Understanding"
+  },
+  "自駕車感知": {
+    "zh": "自駕車感知",
+    "en": "Autonomous Vehicle Perception"
+  },
+  "良率管理": {
+    "zh": "良率管理",
+    "en": "Yield Management"
+  },
+  "虛實訓練及數位孿生": {
+    "zh": "虛實訓練及數位孿生",
+    "en": "Virtual-Real Training and Digital Twins"
+  },
+  "虛擬機器": {
+    "zh": "虛擬機器",
+    "en": "Virtual Machines"
+  },
+  "行動/無線多媒體 ( 如 MPEG, H.264, SVC 等 ) 傳輸與跨層設計": {
+    "zh": "行動/無線多媒體 ( 如 MPEG, H.264, SVC 等 ) 傳輸與跨層設計",
+    "en": "Mobile/Wireless Multimedia (e.g., MPEG, H.264, SVC) Transmission and Cross-Layer Design"
+  },
+  "行動商務與行動運算": {
+    "zh": "行動商務與行動運算",
+    "en": "Mobile Commerce and Mobile Computing"
+  },
+  "行動普適計算": {
+    "zh": "行動普適計算",
+    "en": "Mobile Ubiquitous Computing"
+  },
+  "行動與無所不在學習": {
+    "zh": "行動與無所不在學習",
+    "en": "Mobile and Ubiquitous Learning"
+  },
+  "行動計算與效能分析": {
+    "zh": "行動計算與效能分析",
+    "en": "Mobile Computing and Performance Analysis"
+  },
+  "行動通訊技術": {
+    "zh": "行動通訊技術",
+    "en": "Mobile Communication Technology"
+  },
+  "行動運算": {
+    "zh": "行動運算",
+    "en": "Mobile Computing"
+  },
+  "行為決策": {
+    "zh": "行為決策",
+    "en": "Behavioral Decision-Making"
+  },
+  "衛星姿控": {
+    "zh": "衛星姿控",
+    "en": "Satellite Attitude Control"
+  },
+  "表面電漿慮波器": {
+    "zh": "表面電漿慮波器",
+    "en": "Surface Plasmon Filters"
+  },
+  "製造數據科學": {
+    "zh": "製造數據科學",
+    "en": "Manufacturing Data Science"
+  },
+  "視覺伺服控制": {
+    "zh": "視覺伺服控制",
+    "en": "Visual Servo Control"
+  },
+  "視覺機器人學應用": {
+    "zh": "視覺機器人學應用",
+    "en": "Visual Robotics Applications"
+  },
+  "視訊信號處理": {
+    "zh": "視訊信號處理",
+    "en": "Video Signal Processing"
+  },
+  "視訊壓縮": {
+    "zh": "視訊壓縮",
+    "en": "Video Compression"
+  },
+  "視訊通訊": {
+    "zh": "視訊通訊",
+    "en": "Video Communications"
+  },
+  "計算化學及毒理學": {
+    "zh": "計算化學及毒理學",
+    "en": "Computational Chemistry and Toxicology"
+  },
+  "計算機安全": {
+    "zh": "計算機安全",
+    "en": "Computer Security"
+  },
+  "計算機系統": {
+    "zh": "計算機系統",
+    "en": "Computer Systems"
+  },
+  "訊息理論": {
+    "zh": "訊息理論",
+    "en": "Information Theory"
+  },
+  "記憶體": {
+    "zh": "記憶體",
+    "en": "Memory"
+  },
+  "記憶體與儲存": {
+    "zh": "記憶體與儲存",
+    "en": "Memory and Storage"
+  },
+  "認知學習": {
+    "zh": "認知學習",
+    "en": "Cognitive Learning"
+  },
+  "語音合成": {
+    "zh": "語音合成",
+    "en": "Speech Synthesis"
+  },
+  "語音通訊": {
+    "zh": "語音通訊",
+    "en": "Voice Communications"
+  },
+  "豐田模式": {
+    "zh": "豐田模式",
+    "en": "Toyota Way"
+  },
+  "財務資料探勘": {
+    "zh": "財務資料探勘",
+    "en": "Financial Data Mining"
+  },
+  "資料/文字探勘": {
+    "zh": "資料/文字探勘",
+    "en": "Data/Text Mining"
+  },
+  "資料分析與知識探勘": {
+    "zh": "資料分析與知識探勘",
+    "en": "Data Analysis and Knowledge Mining"
+  },
+  "資料庫管理與資訊融合": {
+    "zh": "資料庫管理與資訊融合",
+    "en": "Database Management and Information Fusion"
+  },
+  "資料採礦與機器學習數據分析": {
+    "zh": "資料採礦與機器學習數據分析",
+    "en": "Data Mining and Machine Learning Data Analysis"
+  },
+  "資料探勘與知識發現": {
+    "zh": "資料探勘與知識發現",
+    "en": "Data Mining and Knowledge Discovery"
+  },
+  "資料科學與大數據分析": {
+    "zh": "資料科學與大數據分析",
+    "en": "Data Science and Big Data Analytics"
+  },
+  "資料隱藏碼": {
+    "zh": "資料隱藏碼",
+    "en": "Data Hiding Codes"
+  },
+  "資訊倫理與安全": {
+    "zh": "資訊倫理與安全",
+    "en": "Information Ethics and Security"
+  },
+  "資訊安全與隱私設計": {
+    "zh": "資訊安全與隱私設計",
+    "en": "Information Security and Privacy Design"
+  },
+  "資訊應用服務創新": {
+    "zh": "資訊應用服務創新",
+    "en": "Information Application Service Innovation"
+  },
+  "資訊檢索與文字探勘": {
+    "zh": "資訊檢索與文字探勘",
+    "en": "Information Retrieval and Text Mining"
+  },
+  "資訊科技促進發展(ICT4D)": {
+    "zh": "資訊科技促進發展(ICT4D)",
+    "en": "Information and Communication Technology for Development (ICT4D)"
+  },
+  "資訊科技與組織": {
+    "zh": "資訊科技與組織",
+    "en": "Information Technology and Organizations"
+  },
+  "資訊系統分析與設計": {
+    "zh": "資訊系統分析與設計",
+    "en": "Information Systems Analysis and Design"
+  },
+  "資訊系統管理": {
+    "zh": "資訊系統管理",
+    "en": "Information Systems Management"
+  },
+  "資訊網路": {
+    "zh": "資訊網路",
+    "en": "Information Networks"
+  },
+  "資訊與網路安全": {
+    "zh": "資訊與網路安全",
+    "en": "Information and Network Security"
+  },
+  "資訊隱私": {
+    "zh": "資訊隱私",
+    "en": "Information Privacy"
+  },
+  "資金管理": {
+    "zh": "資金管理",
+    "en": "Fund Management"
+  },
+  "超啟發式運算": {
+    "zh": "超啟發式運算",
+    "en": "Metaheuristic Computing"
+  },
+  "超大型積體電路電腦輔助設計": {
+    "zh": "超大型積體電路電腦輔助設計",
+    "en": "Computer-Aided Design for VLSI"
+  },
+  "超編程": {
+    "zh": "超編程",
+    "en": "Metaprogramming"
+  },
+  "跨域教學設計": {
+    "zh": "跨域教學設計",
+    "en": "Cross-Disciplinary Instructional Design"
+  },
+  "身份認證": {
+    "zh": "身份認證",
+    "en": "Identity Authentication"
+  },
+  "車載網路安全": {
+    "zh": "車載網路安全",
+    "en": "Vehicular Network Security"
+  },
+  "軟硬體共同設計": {
+    "zh": "軟硬體共同設計",
+    "en": "Hardware-Software Co-Design"
+  },
+  "軟體安全與驗證": {
+    "zh": "軟體安全與驗證",
+    "en": "Software Security and Verification"
+  },
+  "軟體工程與應用": {
+    "zh": "軟體工程與應用",
+    "en": "Software Engineering and Applications"
+  },
+  "軟體開發": {
+    "zh": "軟體開發",
+    "en": "Software Development"
+  },
+  "農業區塊鏈服務平台": {
+    "zh": "農業區塊鏈服務平台",
+    "en": "Agricultural Blockchain Service Platform"
+  },
+  "通訊傳輸品質保證": {
+    "zh": "通訊傳輸品質保證",
+    "en": "Communication Transmission Quality Assurance"
+  },
+  "通訊基頻接收機設計": {
+    "zh": "通訊基頻接收機設計",
+    "en": "Communication Baseband Receiver Design"
+  },
+  "通訊收發機設計": {
+    "zh": "通訊收發機設計",
+    "en": "Communication Transceiver Design"
+  },
+  "通訊線路與系統": {
+    "zh": "通訊線路與系統",
+    "en": "Communication Circuits and Systems"
+  },
+  "遊戲化與遊戲式學習": {
+    "zh": "遊戲化與遊戲式學習",
+    "en": "Gamification and Game-Based Learning"
+  },
+  "遊戲系統": {
+    "zh": "遊戲系統",
+    "en": "Game Systems"
+  },
+  "運算思維與程式設計": {
+    "zh": "運算思維與程式設計",
+    "en": "Computational Thinking and Programming"
+  },
+  "適應性濾波器及展頻碼延遲鎖定": {
+    "zh": "適應性濾波器及展頻碼延遲鎖定",
+    "en": "Adaptive Filters and Spread-Spectrum Code Delay Locking"
+  },
+  "邏輯推理": {
+    "zh": "邏輯推理",
+    "en": "Logical Reasoning"
+  },
+  "醫學/遙測影像分析": {
+    "zh": "醫學/遙測影像分析",
+    "en": "Medical/Remote Sensing Image Analysis"
+  },
+  "醫學影像與信號處理": {
+    "zh": "醫學影像與信號處理",
+    "en": "Medical Imaging and Signal Processing"
+  },
+  "醫學影像電腦輔助診斷": {
+    "zh": "醫學影像電腦輔助診斷",
+    "en": "Computer-Aided Diagnosis for Medical Imaging"
+  },
+  "醫學電子儀器": {
+    "zh": "醫學電子儀器",
+    "en": "Medical Electronic Instrumentation"
+  },
+  "醫用磁振造影": {
+    "zh": "醫用磁振造影",
+    "en": "Medical Magnetic Resonance Imaging"
+  },
+  "醫療器材軟體確效": {
+    "zh": "醫療器材軟體確效",
+    "en": "Medical Device Software Validation"
+  },
+  "醫療智慧": {
+    "zh": "醫療智慧",
+    "en": "Medical Intelligence"
+  },
+  "量化研究": {
+    "zh": "量化研究",
+    "en": "Quantitative Research"
+  },
+  "量子深度學習 / 量子經典混合式AI": {
+    "zh": "量子深度學習 / 量子經典混合式AI",
+    "en": "Quantum Deep Learning / Quantum-Classical Hybrid AI"
+  },
+  "量子邏輯電路合成": {
+    "zh": "量子邏輯電路合成",
+    "en": "Quantum Logic Circuit Synthesis"
+  },
+  "金融科技與生物醫學資訊(Fintech & Bioinformatics)": {
+    "zh": "金融科技與生物醫學資訊(Fintech & Bioinformatics)",
+    "en": "Fintech and Bioinformatics"
+  },
+  "金融資訊安全": {
+    "zh": "金融資訊安全",
+    "en": "Financial Information Security"
+  },
+  "錯誤控制碼": {
+    "zh": "錯誤控制碼",
+    "en": "Error Control Codes"
+  },
+  "長距離低功耗物聯網無線網路": {
+    "zh": "長距離低功耗物聯網無線網路",
+    "en": "Long-Range Low-Power IoT Wireless Networks"
+  },
+  "陣列天線": {
+    "zh": "陣列天線",
+    "en": "Array Antennas"
+  },
+  "隱寫術": {
+    "zh": "隱寫術",
+    "en": "Steganography"
+  },
+  "隱藏學": {
+    "zh": "隱藏學",
+    "en": "Steganography Studies"
+  },
+  "雲端及邊緣計算": {
+    "zh": "雲端及邊緣計算",
+    "en": "Cloud and Edge Computing"
+  },
+  "雲端技術資訊管理": {
+    "zh": "雲端技術資訊管理",
+    "en": "Cloud Technology Information Management"
+  },
+  "雲端物聯網": {
+    "zh": "雲端物聯網",
+    "en": "Cloud IoT"
+  },
+  "雲端製造資訊系統": {
+    "zh": "雲端製造資訊系統",
+    "en": "Cloud Manufacturing Information Systems"
+  },
+  "雲端運算和大資料分析": {
+    "zh": "雲端運算和大資料分析",
+    "en": "Cloud Computing and Big Data Analysis"
+  },
+  "雲端運算與網路": {
+    "zh": "雲端運算與網路",
+    "en": "Cloud Computing and Networking"
+  },
+  "電力品質分析": {
+    "zh": "電力品質分析",
+    "en": "Power Quality Analysis"
+  },
+  "電動機驅控(Motor Drives Control)": {
+    "zh": "電動機驅控(Motor Drives Control)",
+    "en": "Motor Drives Control"
+  },
+  "電子商務/企業電子化": {
+    "zh": "電子商務/企業電子化",
+    "en": "Electronic Commerce / Enterprise Digitalization"
+  },
+  "電子商務與供應鏈管理": {
+    "zh": "電子商務與供應鏈管理",
+    "en": "Electronic Commerce and Supply Chain Management"
+  },
+  "電子行動商務": {
+    "zh": "電子行動商務",
+    "en": "Electronic Mobile Commerce"
+  },
+  "電子電路設計自動化": {
+    "zh": "電子電路設計自動化",
+    "en": "Electronic Circuit Design Automation"
+  },
+  "電腦中介傳播": {
+    "zh": "電腦中介傳播",
+    "en": "Computer-Mediated Communication"
+  },
+  "電腦程式設計": {
+    "zh": "電腦程式設計",
+    "en": "Computer Programming"
+  },
+  "電腦網路與通訊領域": {
+    "zh": "電腦網路與通訊領域",
+    "en": "Computer Networks and Communications"
+  },
+  "電腦視覺(Computer vision)": {
+    "zh": "電腦視覺(Computer vision)",
+    "en": "Computer Vision"
+  },
+  "電腦視覺與影像處理": {
+    "zh": "電腦視覺與影像處理",
+    "en": "Computer Vision and Image Processing"
+  },
+  "電腦輔助系統": {
+    "zh": "電腦輔助系統",
+    "en": "Computer-Aided Systems"
+  },
+  "電腦通訊網路": {
+    "zh": "電腦通訊網路",
+    "en": "Computer Communication Networks"
+  },
+  "電路系統應用設計": {
+    "zh": "電路系統應用設計",
+    "en": "Circuit System Application Design"
+  },
+  "非揮發性記憶體與存儲技術": {
+    "zh": "非揮發性記憶體與存儲技術",
+    "en": "Non-Volatile Memory and Storage Technology"
+  },
+  "非線性系統": {
+    "zh": "非線性系統",
+    "en": "Nonlinear Systems"
+  },
+  "音樂內容理解": {
+    "zh": "音樂內容理解",
+    "en": "Music Content Understanding"
+  },
+  "音訊處理": {
+    "zh": "音訊處理",
+    "en": "Audio Processing"
+  },
+  "類比數位IC設計": {
+    "zh": "類比數位IC設計",
+    "en": "Analog/Digital IC Design"
+  },
+  "顯示器控制器積體電路": {
+    "zh": "顯示器控制器積體電路",
+    "en": "Display Controller Integrated Circuits"
+  },
+  "體感互動技術": {
+    "zh": "體感互動技術",
+    "en": "Motion-Sensing Interaction Technology"
+  },
+  "高效能平行與分散式計算": {
+    "zh": "高效能平行與分散式計算",
+    "en": "High-Performance Parallel and Distributed Computing"
+  },
+  "高維統計": {
+    "zh": "高維統計",
+    "en": "High-Dimensional Statistics"
+  },
+  "高速數位時脈系統IC": {
+    "zh": "高速數位時脈系統IC",
+    "en": "High-Speed Digital Clock System IC"
+  },
+  "高階統計信號處理": {
+    "zh": "高階統計信號處理",
+    "en": "Higher-Order Statistical Signal Processing"
+  }
+}
