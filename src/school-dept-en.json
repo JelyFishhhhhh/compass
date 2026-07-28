@@ -65,6 +65,16 @@
     "計算機與網路中心": "Computer and Network Center",
     "人工智慧科技碩士學位學程": "Master's Program in Artificial Intelligence Technology",
     "半導體封測學位學程": "Degree Program in Semiconductor Packaging and Testing",
-    "資訊安全碩士學位學程": "Master's Program in Information Security"
+    "資訊安全碩士學位學程": "Master's Program in Information Security",
+    "資訊網路與多媒體研究所": "Graduate Institute of Networking and Multimedia",
+    "資訊系統與應用研究所": "Institute of Information Systems and Applications",
+    "資訊安全研究所": "Institute of Information Security",
+    "網路工程研究所": "Institute of Network Engineering",
+    "多媒體工程研究所": "Institute of Multimedia Engineering",
+    "數據科學與工程研究所": "Institute of Data Science and Engineering",
+    "醫學資訊研究所": "Institute of Medical Informatics",
+    "製造資訊與系統研究所": "Institute of Manufacturing Information and Systems",
+    "智慧資訊安全碩士學位學程": "Master's Program in Cyber-Security Intelligence",
+    "資訊安全科技與管理碩士班": "Master's Program in Information Security Technology and Management"
   }
 }

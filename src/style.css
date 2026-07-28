@@ -189,17 +189,20 @@ fieldset label { display: inline-flex; align-items: center; gap: 4px; cursor: po
   align-items: center;
 }
 
+/* 兼屬偏所：虛線；主聘系所：實線（.primary） */
 .inst {
   border: 1px dashed var(--chip-border);
   background: none;
-  color: var(--fg);
+  color: var(--muted);
   border-radius: 6px;
   padding: 0 8px;
   font-size: 0.8rem;
   cursor: pointer;
 }
 
-.inst.on { background: var(--accent); color: var(--accent-fg); border-style: solid; }
+.inst.primary { border-style: solid; color: var(--fg); }
+
+.inst.on { background: var(--accent); color: var(--accent-fg); border-color: var(--accent); }
 
 .lab { font-size: 0.9rem; color: var(--muted); }
 

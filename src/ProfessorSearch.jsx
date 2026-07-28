@@ -1,7 +1,7 @@
 import { useMemo, useState } from 'react'
 import { professors, schools } from './data.js'
 import { tags, tagIndex } from './tags.js'
-import { filterProfessors } from './filter.mjs'
+import { filterProfessors, unitsOf } from './filter.mjs'
 import { canonicalOf, displayArea } from './area-display.mjs'
 import { areaI18n } from './area-i18n.js'
 import { useLang } from './i18n.jsx'
@@ -160,7 +160,7 @@ export default function ProfessorSearch() {
                 key={i}
                 onClick={() => setSelInstitutes(toggle(selInstitutes, i))}
               >
-                {i} ✕
+                {deptName(i)} ✕
               </button>
             ))}
           </div>
@@ -179,9 +179,7 @@ export default function ProfessorSearch() {
               <div className="card-head">
                 <strong>{profName(p)}</strong>
                 <span className="title">{title(p.title)}</span>
-                <span className="school">
-                  {schoolName(p.school)}・{deptName(p.dept)}
-                </span>
+                <span className="school">{schoolName(p.school)}</span>
                 <button
                   type="button"
                   className={favs.has(id) ? 'fav on' : 'fav'}
@@ -192,22 +190,25 @@ export default function ProfessorSearch() {
                   {favs.has(id) ? '★' : '☆'}
                 </button>
               </div>
-              {p.institutes?.length > 0 && (
-                <p className="institutes">
-                  {t('instituteLabel')}：
-                  {p.institutes.map((i) => (
-                    <button
-                      type="button"
-                      key={i}
-                      className={selInstitutes.includes(i) ? 'inst on' : 'inst'}
-                      aria-pressed={selInstitutes.includes(i)}
-                      onClick={() => setSelInstitutes(toggle(selInstitutes, i))}
-                    >
-                      {i}
-                    </button>
-                  ))}
-                </p>
-              )}
+              {/* 每位教授都列出可報考的系所：主聘（實心）＋兼屬偏所（虛線） */}
+              <p className="institutes">
+                {unitsOf(p).map((u, idx) => (
+                  <button
+                    type="button"
+                    key={u}
+                    className={[
+                      idx === 0 ? 'inst primary' : 'inst',
+                      selInstitutes.includes(u) ? 'on' : '',
+                    ]
+                      .filter(Boolean)
+                      .join(' ')}
+                    aria-pressed={selInstitutes.includes(u)}
+                    onClick={() => setSelInstitutes(toggle(selInstitutes, u))}
+                  >
+                    {deptName(u)}
+                  </button>
+                ))}
+              </p>
               {p.areas.length > 0 && (
                 <div className="tags">{p.areas.map((a) => tagBtn(a, `${id}-${a}`))}</div>
               )}

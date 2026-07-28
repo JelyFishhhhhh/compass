@@ -39,7 +39,7 @@ test('條件為交集', () => {
 
 // Task 2: expandArea 和 taxonomy-aware 篩選
 import { buildTagIndex } from './tag-index.mjs'
-import { expandArea } from './filter.mjs'
+import { expandArea, unitsOf } from './filter.mjs'
 
 const TAX = buildTagIndex([
   { name: '資訊安全', parent: null, aliases: ['資安', 'cybersecurity'] },
@@ -118,4 +118,14 @@ test('可依特定偏所名稱篩選', () => {
 test('關鍵字可搜到兼屬的偏所名稱', () => {
   const r = filterProfessors(instProfs, { query: '網路與多媒體' })
   assert.deepEqual(r.map((p) => p.name), ['甲'])
+})
+
+test('unitsOf 含主聘系所與兼屬偏所', () => {
+  assert.deepEqual(unitsOf(instProfs[0]), ['資訊工程學系', '資訊網路與多媒體研究所'])
+  assert.deepEqual(unitsOf(instProfs[1]), ['資訊工程學系'])
+})
+
+test('可依主聘系所篩選（不只偏所）', () => {
+  const r = filterProfessors(instProfs, { institutes: ['資訊工程學系'] })
+  assert.deepEqual(r.map((p) => p.name), ['甲', '乙'])
 })
