@@ -23,7 +23,8 @@
         "資訊安全研究所",
         "網路工程研究所",
         "多媒體工程研究所"
-      ]
+      ],
+      "nameEn": "Li-Pin Chang"
     },
     {
       "name": "謝續平",
@@ -45,7 +46,8 @@
         "網路工程研究所",
         "多媒體工程研究所",
         "數據科學與工程研究所"
-      ]
+      ],
+      "nameEn": "Shiuhpyng Shieh"
     },
     {
       "name": "吳凱強",
@@ -66,7 +68,8 @@
         "資訊安全研究所",
         "多媒體工程研究所",
         "數據科學與工程研究所"
-      ]
+      ],
+      "nameEn": "Kai-Chiang Wu"
     },
     {
       "name": "李奇育",
@@ -86,7 +89,8 @@
       "institutes": [
         "資訊安全研究所",
         "網路工程研究所"
-      ]
+      ],
+      "nameEn": "Chi-Yu Li"
     },
     {
       "name": "黃春融",
@@ -107,7 +111,8 @@
       "institutes": [
         "多媒體工程研究所",
         "數據科學與工程研究所"
-      ]
+      ],
+      "nameEn": "Chun-Rong Huang"
     },
     {
       "name": "王昱舜",
@@ -127,7 +132,8 @@
       "institutes": [
         "多媒體工程研究所",
         "數據科學與工程研究所"
-      ]
+      ],
+      "nameEn": "Yu-Shuen Wang"
     },
     {
       "name": "吳育松",
@@ -147,7 +153,8 @@
       "institutes": [
         "資訊安全研究所",
         "網路工程研究所"
-      ]
+      ],
+      "nameEn": "Yu-Sung Wu"
     },
     {
       "name": "曾煜棋",
@@ -168,7 +175,8 @@
         "網路工程研究所",
         "多媒體工程研究所",
         "數據科學與工程研究所"
-      ]
+      ],
+      "nameEn": "Yu-Chee Tseng"
     },
     {
       "name": "陳志成",
@@ -188,7 +196,8 @@
       "institutes": [
         "資訊安全研究所",
         "網路工程研究所"
-      ]
+      ],
+      "nameEn": "Jyh-Cheng Chen"
     },
     {
       "name": "曾新穆",
@@ -208,7 +217,8 @@
       "institutes": [
         "多媒體工程研究所",
         "數據科學與工程研究所"
-      ]
+      ],
+      "nameEn": "Vincent S. Tseng"
     },
     {
       "name": "吳毅成",
@@ -229,7 +239,8 @@
         "資訊安全研究所",
         "多媒體工程研究所",
         "數據科學與工程研究所"
-      ]
+      ],
+      "nameEn": "I-Chen Wu"
     },
     {
       "name": "曾建超",
@@ -249,7 +260,8 @@
       "institutes": [
         "資訊安全研究所",
         "網路工程研究所"
-      ]
+      ],
+      "nameEn": "Chien-Chao Tseng"
     },
     {
       "name": "林彥宇",
@@ -269,7 +281,8 @@
       "institutes": [
         "多媒體工程研究所",
         "數據科學與工程研究所"
-      ]
+      ],
+      "nameEn": "Yen-Yu Lin"
     },
     {
       "name": "黃俊龍",
@@ -290,7 +303,8 @@
         "資訊安全研究所",
         "網路工程研究所",
         "數據科學與工程研究所"
-      ]
+      ],
+      "nameEn": "Jiun-Long Huang"
     },
     {
       "name": "嚴力行",
@@ -311,7 +325,8 @@
         "網路工程研究所",
         "多媒體工程研究所",
         "數據科學與工程研究所"
-      ]
+      ],
+      "nameEn": "Li-Hsing Yen"
     },
     {
       "name": "林盈達",
@@ -332,7 +347,8 @@
       "institutes": [
         "資訊安全研究所",
         "網路工程研究所"
-      ]
+      ],
+      "nameEn": "Ying-Dar Lin"
     },
     {
       "name": "陳穎平",
@@ -348,7 +364,8 @@
       "website": "",
       "email": "",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "nameEn": "Ying-Ping Chen"
     },
     {
       "name": "陳永昇",
@@ -367,7 +384,8 @@
       "notes": "",
       "institutes": [
         "多媒體工程研究所"
-      ]
+      ],
+      "nameEn": "Yong-Sheng Chen"
     },
     {
       "name": "荊宇泰",
@@ -383,7 +401,8 @@
       "website": "",
       "email": "",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "nameEn": "Yu-Tai Ching"
     },
     {
       "name": "莊榮宏",
@@ -399,7 +418,8 @@
       "website": "",
       "email": "",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "nameEn": "Jung-Hong Chuang"
     },
     {
       "name": "許騰尹",
@@ -417,7 +437,8 @@
       "notes": "",
       "institutes": [
         "網路工程研究所"
-      ]
+      ],
+      "nameEn": "Terng-Yin Hsu"
     },
     {
       "name": "黃世昆",
@@ -437,7 +458,8 @@
         "資訊安全研究所",
         "網路工程研究所",
         "數據科學與工程研究所"
-      ]
+      ],
+      "nameEn": "Shih-Kun Huang"
     },
     {
       "name": "李毅郎",
@@ -457,7 +479,8 @@
       "institutes": [
         "多媒體工程研究所",
         "數據科學與工程研究所"
-      ]
+      ],
+      "nameEn": "Yih-Lang Li"
     },
     {
       "name": "林奕成",
@@ -477,7 +500,8 @@
       "notes": "",
       "institutes": [
         "多媒體工程研究所"
-      ]
+      ],
+      "nameEn": "I-Chen Lin"
     },
     {
       "name": "林文杰",
@@ -497,7 +521,8 @@
       "notes": "",
       "institutes": [
         "多媒體工程研究所"
-      ]
+      ],
+      "nameEn": "Wen-Chieh Lin"
     },
     {
       "name": "彭文志",
@@ -518,7 +543,8 @@
       "institutes": [
         "多媒體工程研究所",
         "數據科學與工程研究所"
-      ]
+      ],
+      "nameEn": "Wen-Chih Peng"
     },
     {
       "name": "彭文孝",
@@ -538,7 +564,8 @@
       "institutes": [
         "多媒體工程研究所",
         "數據科學與工程研究所"
-      ]
+      ],
+      "nameEn": "Wen-Hsiao Peng"
     },
     {
       "name": "施仁忠",
@@ -557,7 +584,8 @@
       "notes": "",
       "institutes": [
         "多媒體工程研究所"
-      ]
+      ],
+      "nameEn": "Zen-Chung Shih"
     },
     {
       "name": "蔡錫鈞",
@@ -579,7 +607,8 @@
       "institutes": [
         "資訊安全研究所",
         "數據科學與工程研究所"
-      ]
+      ],
+      "nameEn": "Shi-Chun Tsai"
     },
     {
       "name": "曹孝櫟",
@@ -599,7 +628,8 @@
       "notes": "",
       "institutes": [
         "數據科學與工程研究所"
-      ]
+      ],
+      "nameEn": "Shiao-Li Tsao"
     },
     {
       "name": "范倫達",
@@ -619,7 +649,8 @@
       "institutes": [
         "資訊安全研究所",
         "網路工程研究所"
-      ]
+      ],
+      "nameEn": "Lan-Da Van"
     },
     {
       "name": "王協源",
@@ -641,7 +672,8 @@
       "institutes": [
         "資訊安全研究所",
         "網路工程研究所"
-      ]
+      ],
+      "nameEn": "Shie-Yuan Wang"
     },
     {
       "name": "楊武",
@@ -662,7 +694,8 @@
       "institutes": [
         "資訊安全研究所",
         "網路工程研究所"
-      ]
+      ],
+      "nameEn": "Wuu Yang"
     },
     {
       "name": "易志偉",
@@ -684,7 +717,8 @@
         "網路工程研究所",
         "多媒體工程研究所",
         "數據科學與工程研究所"
-      ]
+      ],
+      "nameEn": "Chih-Wei Yi"
     },
     {
       "name": "袁賢銘",
@@ -704,7 +738,8 @@
       "institutes": [
         "資訊安全研究所",
         "網路工程研究所"
-      ]
+      ],
+      "nameEn": "Shyan-Ming Yuan"
     },
     {
       "name": "黃世強",
@@ -724,7 +759,8 @@
       "institutes": [
         "多媒體工程研究所",
         "數據科學與工程研究所"
-      ]
+      ],
+      "nameEn": "Sai-Keung Wong"
     },
     {
       "name": "陳添福",
@@ -745,7 +781,8 @@
         "資訊安全研究所",
         "網路工程研究所",
         "數據科學與工程研究所"
-      ]
+      ],
+      "nameEn": "Tien-Fu Chen"
     },
     {
       "name": "黃俊穎",
@@ -766,7 +803,8 @@
         "資訊安全研究所",
         "網路工程研究所",
         "多媒體工程研究所"
-      ]
+      ],
+      "nameEn": "Chun-Ying Huang"
     },
     {
       "name": "詹力韋",
@@ -787,7 +825,8 @@
       "institutes": [
         "多媒體工程研究所",
         "數據科學與工程研究所"
-      ]
+      ],
+      "nameEn": "Liwei Chan"
     },
     {
       "name": "張永儒",
@@ -806,7 +845,8 @@
       "notes": "",
       "institutes": [
         "多媒體工程研究所"
-      ]
+      ],
+      "nameEn": "Yung-Ju Chang"
     },
     {
       "name": "洪瑞鴻",
@@ -829,7 +869,8 @@
         "網路工程研究所",
         "多媒體工程研究所",
         "數據科學與工程研究所"
-      ]
+      ],
+      "nameEn": "Jui-Hung Hung"
     },
     {
       "name": "邱維辰",
@@ -852,7 +893,8 @@
         "網路工程研究所",
         "多媒體工程研究所",
         "數據科學與工程研究所"
-      ]
+      ],
+      "nameEn": "Wei-Chen Chiu"
     },
     {
       "name": "黃敬群",
@@ -876,7 +918,8 @@
         "網路工程研究所",
         "多媒體工程研究所",
         "數據科學與工程研究所"
-      ]
+      ],
+      "nameEn": "Ching-Chun Huang"
     },
     {
       "name": "高孟駿",
@@ -896,7 +939,8 @@
       "institutes": [
         "網路工程研究所",
         "數據科學與工程研究所"
-      ]
+      ],
+      "nameEn": "Mong-Jen Kao"
     },
     {
       "name": "曾意儒",
@@ -917,7 +961,8 @@
       "institutes": [
         "多媒體工程研究所",
         "數據科學與工程研究所"
-      ]
+      ],
+      "nameEn": "Yi-Ju Tseng"
     },
     {
       "name": "蔡孟勳",
@@ -938,7 +983,8 @@
       "institutes": [
         "資訊安全研究所",
         "網路工程研究所"
-      ]
+      ],
+      "nameEn": "Meng-Hsun Tsai"
     },
     {
       "name": "趙禧綠",
@@ -956,7 +1002,8 @@
       "notes": "",
       "institutes": [
         "網路工程研究所"
-      ]
+      ],
+      "nameEn": "Hsi-Lu Chao"
     },
     {
       "name": "陳健",
@@ -978,7 +1025,8 @@
         "網路工程研究所",
         "多媒體工程研究所",
         "數據科學與工程研究所"
-      ]
+      ],
+      "nameEn": "Chien Chen"
     },
     {
       "name": "蕭旭峰",
@@ -1000,7 +1048,8 @@
         "資訊安全研究所",
         "網路工程研究所",
         "多媒體工程研究所"
-      ]
+      ],
+      "nameEn": "Hsu-Feng Hsiao"
     },
     {
       "name": "蕭子健",
@@ -1018,7 +1067,8 @@
       "notes": "",
       "institutes": [
         "數據科學與工程研究所"
-      ]
+      ],
+      "nameEn": "Tzu-Chien Hsiao"
     },
     {
       "name": "蔡淳仁",
@@ -1038,7 +1088,8 @@
       "institutes": [
         "網路工程研究所",
         "多媒體工程研究所"
-      ]
+      ],
+      "nameEn": "Chun-Jen Tsai"
     },
     {
       "name": "蔡文錦",
@@ -1058,7 +1109,8 @@
       "notes": "",
       "institutes": [
         "多媒體工程研究所"
-      ]
+      ],
+      "nameEn": "W. J. Tsai"
     },
     {
       "name": "王才沛",
@@ -1080,7 +1132,8 @@
         "資訊安全研究所",
         "網路工程研究所",
         "多媒體工程研究所"
-      ]
+      ],
+      "nameEn": "Tsaipei Wang"
     },
     {
       "name": "游逸平",
@@ -1100,7 +1153,8 @@
       "institutes": [
         "資訊安全研究所",
         "數據科學與工程研究所"
-      ]
+      ],
+      "nameEn": "Yi-Ping You"
     },
     {
       "name": "陳冠文",
@@ -1121,7 +1175,8 @@
       "institutes": [
         "多媒體工程研究所",
         "數據科學與工程研究所"
-      ]
+      ],
+      "nameEn": "Kuan-Wen Chen"
     },
     {
       "name": "謝秉均",
@@ -1143,7 +1198,8 @@
         "網路工程研究所",
         "多媒體工程研究所",
         "數據科學與工程研究所"
-      ]
+      ],
+      "nameEn": "Ping-Chun Hsieh"
     },
     {
       "name": "魏群樹",
@@ -1164,7 +1220,8 @@
       "institutes": [
         "網路工程研究所",
         "多媒體工程研究所"
-      ]
+      ],
+      "nameEn": "Chun-Shu Wei"
     },
     {
       "name": "葉宗泰",
@@ -1186,7 +1243,8 @@
         "網路工程研究所",
         "多媒體工程研究所",
         "數據科學與工程研究所"
-      ]
+      ],
+      "nameEn": "Tsung-Tai Yeh"
     },
     {
       "name": "陳奕廷",
@@ -1207,7 +1265,8 @@
       "institutes": [
         "多媒體工程研究所",
         "數據科學與工程研究所"
-      ]
+      ],
+      "nameEn": "Yi-Ting Chen"
     },
     {
       "name": "吳俊峯",
@@ -1229,7 +1288,8 @@
         "網路工程研究所",
         "多媒體工程研究所",
         "數據科學與工程研究所"
-      ]
+      ],
+      "nameEn": "Chun-Feng Wu"
     },
     {
       "name": "劉育綸",
@@ -1249,7 +1309,8 @@
       "notes": "",
       "institutes": [
         "多媒體工程研究所"
-      ]
+      ],
+      "nameEn": "Yu-Lun Liu"
     },
     {
       "name": "陳碩漢",
@@ -1268,7 +1329,8 @@
       "notes": "",
       "institutes": [
         "網路工程研究所"
-      ]
+      ],
+      "nameEn": "Shuo-Han Chen"
     },
     {
       "name": "林政寬",
@@ -1290,7 +1352,8 @@
         "網路工程研究所",
         "多媒體工程研究所",
         "數據科學與工程研究所"
-      ]
+      ],
+      "nameEn": "Cheng-Kuan Lin"
     },
     {
       "name": "顏安孜",
@@ -1311,7 +1374,8 @@
       "institutes": [
         "多媒體工程研究所",
         "數據科學與工程研究所"
-      ]
+      ],
+      "nameEn": "An-Zi Yen"
     },
     {
       "name": "顏羽君",
@@ -1330,7 +1394,8 @@
       "notes": "",
       "institutes": [
         "多媒體工程研究所"
-      ]
+      ],
+      "nameEn": "Yu-Chun Yen"
     },
     {
       "name": "張庭榕",
@@ -1350,7 +1415,8 @@
         "資訊安全研究所",
         "網路工程研究所",
         "數據科學與工程研究所"
-      ]
+      ],
+      "nameEn": "Ting-Jung Chang"
     },
     {
       "name": "陳昱芝",
@@ -1372,7 +1438,8 @@
         "網路工程研究所",
         "多媒體工程研究所",
         "數據科學與工程研究所"
-      ]
+      ],
+      "nameEn": "Yu-Chih Chen"
     },
     {
       "name": "王邦任",
@@ -1392,7 +1459,8 @@
       "notes": "",
       "institutes": [
         "多媒體工程研究所"
-      ]
+      ],
+      "nameEn": "Dennis Wang"
     },
     {
       "name": "丁羅邦芸",
@@ -1414,7 +1482,8 @@
       "institutes": [
         "資訊安全研究所",
         "數據科學與工程研究所"
-      ]
+      ],
+      "nameEn": "Lo Pang-Yun Ting"
     },
     {
       "name": "王偉豪",
@@ -1433,7 +1502,8 @@
       "notes": "",
       "institutes": [
         "資訊安全研究所"
-      ]
+      ],
+      "nameEn": "Harry Wai Ho Wong"
     },
     {
       "name": "魏佑霖",
@@ -1706,7 +1776,8 @@
       "website": "https://scholar.nycu.edu.tw/en/persons/jen-tzung-chien",
       "email": "jtchien@nycu.edu.tw",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "nameEn": "Jen-Tzung Chien"
     },
     {
       "name": "温宏斌",
@@ -1737,7 +1808,8 @@
       "website": "https://chiamuyu.weebly.com/",
       "email": "chiamuyu@gmail.com",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "nameEn": "Chia-Mu Yu"
     },
     {
       "name": "粘儆夫",
@@ -1785,7 +1857,8 @@
       "website": "",
       "email": "lwku@iis.sinica.edu.tw",
       "highlights": "",
-      "notes": ""
+      "notes": "",
+      "nameEn": "Lun-Wei Ku"
     },
     {
       "name": "廖元甫",

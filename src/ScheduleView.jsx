@@ -28,7 +28,7 @@ export function downloadIcs(events, filename, kindFn) {
 }
 
 export default function ScheduleView() {
-  const { t, kind } = useLang()
+  const { t, kind, school: schoolName } = useLang()
   const [mode, setMode] = useState('calendar')
   const [selSchools, setSelSchools] = useState([])
   const [selKinds, setSelKinds] = useState([])
@@ -105,7 +105,7 @@ export default function ScheduleView() {
                 checked={selSchools.includes(s.school)}
                 onChange={() => setSelSchools(toggle(selSchools, s.school))}
               />
-              {s.school}
+              {schoolName(s.school)}
             </label>
           ))}
         </fieldset>

@@ -3,7 +3,7 @@ import { useLang } from './i18n.jsx'
 
 // 清單檢視：保留完整註記與官方簡章連結（行事曆放不下的細節）
 export default function ScheduleList({ schedules, onDownloadSchool }) {
-  const { t } = useLang()
+  const { t, school: schoolName, schoolFull } = useLang()
   if (schedules.length === 0) return <p className="empty">{t('noSchools')}</p>
 
   const rows = [
@@ -11,6 +11,9 @@ export default function ScheduleList({ schedules, onDownloadSchool }) {
     [t('rowReview'), (r) => r.review],
     [t('rowInterview'), (r) => r.interview],
     [t('rowResult'), (r) => r.result],
+    [t('rowFee'), (r) => r.fee],
+    [t('rowEligibility'), (r) => r.eligibility],
+    [t('rowRules'), (r) => r.rules],
   ]
 
   return (
@@ -18,8 +21,8 @@ export default function ScheduleList({ schedules, onDownloadSchool }) {
       {schedules.map((s) => (
         <li key={s.school} className="card sched-card">
           <div className="card-head">
-            <strong>{s.school}</strong>
-            <span className="title">{s.schoolFull}</span>
+            <strong>{schoolName(s.school)}</strong>
+            <span className="title">{schoolFull(s.school, s.schoolFull)}</span>
             <button
               type="button"
               className="ics-btn sm push-right"

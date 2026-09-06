@@ -42,3 +42,26 @@ test('canonicalOf 找不到回 null、無索引也回 null', () => {
   assert.equal(canonicalOf('不存在', IDX), null)
   assert.equal(canonicalOf('機器學習', undefined), null)
 })
+
+// ── 長尾對照表 ──
+const MAP = {
+  'Formal Verification': { zh: '形式化驗證', en: 'Formal Verification' },
+  '網宇實體系統': { zh: '網宇實體系統', en: 'Cyber-Physical Systems' },
+}
+
+test('長尾英文在中文模式顯示中譯', () => {
+  assert.equal(displayArea('Formal Verification', IDX, 'zh', MAP), '形式化驗證')
+})
+
+test('長尾中文在英文模式顯示英譯', () => {
+  assert.equal(displayArea('網宇實體系統', IDX, 'en', MAP), 'Cyber-Physical Systems')
+})
+
+test('對照表查無仍原樣顯示', () => {
+  assert.equal(displayArea('某未收錄領域', IDX, 'en', MAP), '某未收錄領域')
+})
+
+test('受控詞彙優先於長尾對照表', () => {
+  const map = { '機器學習': { zh: '錯誤', en: 'Wrong' } }
+  assert.equal(displayArea('機器學習', IDX, 'en', map), 'Machine Learning')
+})

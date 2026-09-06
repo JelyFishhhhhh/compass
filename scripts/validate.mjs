@@ -81,6 +81,10 @@ for (const file of schedFiles) {
     if (!ISO.test(r.applyStart ?? '')) err(`${id}: applyStart 須為 ISO 日期或空字串`)
     if (!ISO.test(r.applyEnd ?? '')) err(`${id}: applyEnd 須為 ISO 日期或空字串`)
     if (typeof r.isPreviousYear !== 'boolean') err(`${id}: isPreviousYear 須為布林`)
+    // 報名費／資格／規則為選填字串（116 簡章公告後由每日 routine 補上）
+    for (const k of ['fee', 'eligibility', 'rules']) {
+      if (r[k] !== undefined && typeof r[k] !== 'string') err(`${id}: ${k} 須為字串`)
+    }
     if (!r.source || !/^https?:\/\//.test(r.source)) err(`${id}: source 須為 http(s) 連結`)
   }
 }

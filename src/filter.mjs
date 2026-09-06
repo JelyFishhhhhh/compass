@@ -21,6 +21,9 @@ export function expandArea(term, index) {
 export const matchesDeptType = (p, types) =>
   types.includes(p.deptType) || (types.includes('偏所') && (p.institutes?.length ?? 0) > 0)
 
+// 一位教授可報考的所有系所／學程：主聘系所 + 兼屬偏所
+export const unitsOf = (p) => [p.dept, ...(p.institutes ?? [])].filter(Boolean)
+
 export function filterProfessors(
   professors,
   { query = '', schools = [], deptTypes = [], areas = [], institutes = [], tagIndex } = {},
@@ -29,7 +32,7 @@ export function filterProfessors(
   return professors.filter((p) => {
     if (schools.length && !schools.includes(p.school)) return false
     if (deptTypes.length && !matchesDeptType(p, deptTypes)) return false
-    if (institutes.length && !institutes.some((i) => p.institutes?.includes(i))) return false
+    if (institutes.length && !institutes.some((i) => unitsOf(p).includes(i))) return false
     if (areas.length) {
       const normAreas = p.areas.map(normalize)
       const ok = areas.every((a) => {

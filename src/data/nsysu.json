@@ -4,6 +4,7 @@
   "professors": [
     {
       "name": "王友群",
+      "nameEn": "You-Chiun Wang",
       "title": "教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
@@ -16,6 +17,7 @@
     },
     {
       "name": "李淑敏",
+      "nameEn": "Shu-Min Li",
       "title": "教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
@@ -28,6 +30,7 @@
     },
     {
       "name": "克拉迪",
+      "nameEn": "Arijit Karati",
       "title": "副教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
@@ -40,6 +43,7 @@
     },
     {
       "name": "吳建澄",
+      "nameEn": "Chien-Cheng Wu",
       "title": "助理教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
@@ -52,6 +56,7 @@
     },
     {
       "name": "林俊宏",
+      "nameEn": "Chun-Hung Lin",
       "title": "教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
@@ -64,6 +69,7 @@
     },
     {
       "name": "邱勝敏",
+      "nameEn": "Sheng-Min Chiu",
       "title": "助理教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
@@ -76,6 +82,7 @@
     },
     {
       "name": "柯正雯",
+      "nameEn": "Cheng-Wen Ko",
       "title": "副教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
@@ -88,6 +95,7 @@
     },
     {
       "name": "柯拉飛",
+      "nameEn": "Rafael D. Kaliski",
       "title": "助理教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
@@ -100,6 +108,7 @@
     },
     {
       "name": "范俊逸",
+      "nameEn": "Chun-I Fan",
       "title": "特聘教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
@@ -112,6 +121,7 @@
     },
     {
       "name": "徐瑞壕",
+      "nameEn": "Ruei-Hau Hsu",
       "title": "副教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
@@ -124,6 +134,7 @@
     },
     {
       "name": "張玉盈",
+      "nameEn": "Ye-In Chang",
       "title": "教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
@@ -136,6 +147,7 @@
     },
     {
       "name": "張雲南",
+      "nameEn": "Yun-Nan Chang",
       "title": "副教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
@@ -148,6 +160,7 @@
     },
     {
       "name": "郭可驥",
+      "nameEn": "Ko-Chi Kuo",
       "title": "副教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
@@ -160,6 +173,7 @@
     },
     {
       "name": "陳嘉平",
+      "nameEn": "Chia-Ping Chen",
       "title": "教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
@@ -172,6 +186,7 @@
     },
     {
       "name": "程正傑",
+      "nameEn": "Cheng-Chieh Cheng",
       "title": "助理教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
@@ -184,6 +199,7 @@
     },
     {
       "name": "黃英哲",
+      "nameEn": "Ing-Jer Huang",
       "title": "教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
@@ -196,6 +212,7 @@
     },
     {
       "name": "楊惠芳",
+      "nameEn": "Huei-Fang Yang",
       "title": "副教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
@@ -208,6 +225,7 @@
     },
     {
       "name": "葉陽明",
+      "nameEn": "Yang-Ming Yeh",
       "title": "助理教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
@@ -220,6 +238,7 @@
     },
     {
       "name": "蔡崇煒",
+      "nameEn": "Chun-Wei Tsai",
       "title": "副教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
@@ -232,6 +251,7 @@
     },
     {
       "name": "蕭勝夫",
+      "nameEn": "Shen-Fu Hsiao",
       "title": "教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
@@ -244,6 +264,7 @@
     },
     {
       "name": "鄺獻榮",
+      "nameEn": "Shiann-Rong Kuang",
       "title": "教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
@@ -256,6 +277,7 @@
     },
     {
       "name": "希家史提夫",
+      "nameEn": "Steve W. Haga",
       "title": "助理教授",
       "dept": "資訊工程學系",
       "deptType": "資工",
@@ -268,6 +290,7 @@
     },
     {
       "name": "徐士傑",
+      "nameEn": "Jack Shih-Chieh Hsu",
       "title": "特聘教授",
       "dept": "資訊管理學系",
       "deptType": "資管",
@@ -280,6 +303,7 @@
     },
     {
       "name": "黃三益",
+      "nameEn": "San-Yih Hwang",
       "title": "特聘教授",
       "dept": "資訊管理學系",
       "deptType": "資管",
@@ -292,6 +316,7 @@
     },
     {
       "name": "邱兆民",
+      "nameEn": "Chao-Min Chiu",
       "title": "特聘教授",
       "dept": "資訊管理學系",
       "deptType": "資管",
@@ -304,6 +329,7 @@
     },
     {
       "name": "陳嘉玫",
+      "nameEn": "Chia-Mei Chen",
       "title": "教授",
       "dept": "資訊管理學系",
       "deptType": "資管",
@@ -316,6 +342,7 @@
     },
     {
       "name": "李偉柏",
+      "nameEn": "Wei-Po Lee",
       "title": "教授",
       "dept": "資訊管理學系",
       "deptType": "資管",
@@ -328,6 +355,7 @@
     },
     {
       "name": "張德民",
+      "nameEn": "Te-Min Chang",
       "title": "教授",
       "dept": "資訊管理學系",
       "deptType": "資管",
@@ -340,6 +368,7 @@
     },
     {
       "name": "李家瑩",
+      "nameEn": "Chia-Ying Li",
       "title": "教授",
       "dept": "資訊管理學系",
       "deptType": "資管",
@@ -352,6 +381,7 @@
     },
     {
       "name": "劉賓陽",
+      "nameEn": "Pin-Yang Liu",
       "title": "副教授",
       "dept": "資訊管理學系",
       "deptType": "資管",
@@ -364,6 +394,7 @@
     },
     {
       "name": "楊淯程",
+      "nameEn": "Yu-Chen Yang",
       "title": "副教授",
       "dept": "資訊管理學系",
       "deptType": "資管",
@@ -376,6 +407,7 @@
     },
     {
       "name": "林耕霈",
+      "nameEn": "Keng-Pei Lin",
       "title": "副教授",
       "dept": "資訊管理學系",
       "deptType": "資管",
@@ -388,6 +420,7 @@
     },
     {
       "name": "李捷",
+      "nameEn": "Chieh Lee",
       "title": "副教授",
       "dept": "資訊管理學系",
       "deptType": "資管",
@@ -400,6 +433,7 @@
     },
     {
       "name": "康藝晃",
+      "nameEn": "Yihuang Kang",
       "title": "副教授",
       "dept": "資訊管理學系",
       "deptType": "資管",
@@ -412,6 +446,7 @@
     },
     {
       "name": "韓毅",
+      "nameEn": "Yi Han",
       "title": "助理教授",
       "dept": "資訊管理學系",
       "deptType": "資管",
@@ -424,6 +459,7 @@
     },
     {
       "name": "羅珮綺",
+      "nameEn": "Pei-Chi Lo",
       "title": "助理教授",
       "dept": "資訊管理學系",
       "deptType": "資管",
@@ -436,6 +472,7 @@
     },
     {
       "name": "李怡珍",
+      "nameEn": "Yi-Chen Lee",
       "title": "助理教授",
       "dept": "資訊管理學系",
       "deptType": "資管",
@@ -448,6 +485,7 @@
     },
     {
       "name": "林吉聰",
+      "nameEn": "Jyi-Tsong Lin",
       "title": "教授",
       "dept": "電機工程學系",
       "deptType": "電機",
@@ -460,6 +498,7 @@
     },
     {
       "name": "李迪章",
+      "nameEn": "Ti-Chung Lee",
       "title": "教授",
       "dept": "電機工程學系",
       "deptType": "電機",
@@ -472,6 +511,7 @@
     },
     {
       "name": "蔡舜宏",
+      "nameEn": "Shun-Hung Tsai",
       "title": "教授",
       "dept": "電機工程學系",
       "deptType": "電機",
@@ -484,6 +524,7 @@
     },
     {
       "name": "許煜亮",
+      "nameEn": "Yu-Liang Hsu",
       "title": "助理教授",
       "dept": "電機工程學系",
       "deptType": "電機",
@@ -496,6 +537,7 @@
     },
     {
       "name": "陳建璋",
+      "nameEn": "Chien-Chang Chen",
       "title": "副教授",
       "dept": "電機工程學系",
       "deptType": "電機",
@@ -508,6 +550,7 @@
     },
     {
       "name": "黃國勝",
+      "nameEn": "Kao-Shing Hwang",
       "title": "教授",
       "dept": "電機工程學系",
       "deptType": "電機",
@@ -520,6 +563,7 @@
     },
     {
       "name": "周孜燦",
+      "nameEn": "Zi-Tsan Chou",
       "title": "副教授",
       "dept": "電機工程學系",
       "deptType": "電機",
@@ -532,6 +576,7 @@
     },
     {
       "name": "陳伯煒",
+      "nameEn": "Bo-Wei Chen",
       "title": "副教授",
       "dept": "電機工程學系",
       "deptType": "電機",
@@ -544,6 +589,7 @@
     },
     {
       "name": "翁愷貽",
+      "nameEn": "Kai-Yi Wong",
       "title": "助理教授",
       "dept": "電機工程學系",
       "deptType": "電機",
@@ -556,6 +602,7 @@
     },
     {
       "name": "許蒼嶺",
+      "nameEn": "Tsang-Ling Sheu",
       "title": "教授",
       "dept": "電機工程學系",
       "deptType": "電機",
@@ -568,6 +615,7 @@
     },
     {
       "name": "王朝欽",
+      "nameEn": "Chua-Chin Wang",
       "title": "教授",
       "dept": "電機工程學系",
       "deptType": "電機",
@@ -580,6 +628,7 @@
     },
     {
       "name": "邱日清",
+      "nameEn": "Jih-Ching Chiu",
       "title": "副教授",
       "dept": "電機工程學系",
       "deptType": "電機",
@@ -592,6 +641,7 @@
     },
     {
       "name": "謝東佑",
+      "nameEn": "Tong-Yu Hsieh",
       "title": "教授",
       "dept": "電機工程學系",
       "deptType": "電機",
@@ -604,6 +654,7 @@
     },
     {
       "name": "施信毓",
+      "nameEn": "Xin-Yu Shih",
       "title": "副教授",
       "dept": "電機工程學系",
       "deptType": "電機",
@@ -616,6 +667,7 @@
     },
     {
       "name": "李宗哲",
+      "nameEn": "Tzung-Je Lee",
       "title": "助理教授",
       "dept": "電機工程學系",
       "deptType": "電機",
@@ -640,6 +692,7 @@
     },
     {
       "name": "莊子肇",
+      "nameEn": "Tzu-Chao Chuang",
       "title": "副教授",
       "dept": "電機工程學系",
       "deptType": "電機",
@@ -652,6 +705,7 @@
     },
     {
       "name": "魏家博",
+      "nameEn": "Chia-Po Wei",
       "title": "助理教授",
       "dept": "電機工程學系",
       "deptType": "電機",
@@ -664,6 +718,7 @@
     },
     {
       "name": "曾乙立",
+      "nameEn": "Yi-Li Tseng",
       "title": "副教授",
       "dept": "電機工程學系",
       "deptType": "電機",
