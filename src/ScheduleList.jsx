@@ -11,6 +11,9 @@ export default function ScheduleList({ schedules, onDownloadSchool }) {
     [t('rowReview'), (r) => r.review],
     [t('rowInterview'), (r) => r.interview],
     [t('rowResult'), (r) => r.result],
+    [t('rowFee'), (r) => r.fee],
+    [t('rowEligibility'), (r) => r.eligibility],
+    [t('rowRules'), (r) => r.rules],
   ]
 
   return (
