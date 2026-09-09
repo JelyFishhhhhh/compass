@@ -37,6 +37,8 @@ const STRINGS = {
     staleTitle: '這是往年（{year} 學年度）時程',
     staleBody:
       '{target} 學年度簡章尚未公告（各校約於 9 月起陸續公布）。以下日期僅供推估各階段時間點，實際時程請以屆時公告為準。',
+    partialNotice:
+      '{target} 學年度簡章各校陸續公告中（{done}/{total} 校已收錄）。標示「參考往年」的學校仍為往年資料，僅供推估時間點。',
     eventKind: '事件類型',
     addToGoogle: '加入 Google 日曆（此事件）',
     downloadSchool: '下載此校時程 .ics',
@@ -85,6 +87,8 @@ const STRINGS = {
     staleTitle: 'These are previous-year (AY {year}) dates',
     staleBody:
       'The AY {target} brochures are not published yet (schools release them from September onward). Use these dates only to estimate when each stage happens; always confirm against the official announcement.',
+    partialNotice:
+      'AY {target} brochures are being published school by school ({done}/{total} collected). Schools marked “previous year” still show last year’s dates — treat them as estimates.',
     eventKind: 'Event type',
     addToGoogle: 'Add this event to Google Calendar',
     downloadSchool: 'Download this school’s .ics',
