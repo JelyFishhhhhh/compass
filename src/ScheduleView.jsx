@@ -10,9 +10,13 @@ import ScheduleList from './ScheduleList.jsx'
 
 const ALL_EVENTS = buildEvents(schedules)
 
-// 資料所屬學年度（取最常見者）；與 TARGET_YEAR 不同代表目前只有往年資料
+// 各校簡章陸續公告，資料會是混合年度：只有「一所都還沒有 TARGET_YEAR」時才顯示全站警示，
+// 個別學校的往年資料由清單上的「參考往年」標籤標示。
+const SCHOOLS_WITH_TARGET = schedules.filter((s) =>
+  s.rounds.some((r) => r.academicYear === TARGET_YEAR),
+).length
+const IS_STALE = SCHOOLS_WITH_TARGET === 0
 const DATA_YEAR = schedules[0]?.rounds?.[0]?.academicYear ?? ''
-const IS_STALE = DATA_YEAR !== TARGET_YEAR
 
 const toggle = (list, item) =>
   list.includes(item) ? list.filter((x) => x !== item) : [...list, item]
@@ -86,11 +90,23 @@ export default function ScheduleView() {
         </button>
       </div>
 
-      {IS_STALE && (
+      {IS_STALE ? (
         <div className="stale-notice">
           <strong>⚠ {t('staleTitle', { year: DATA_YEAR })}</strong>
           <p>{t('staleBody', { target: TARGET_YEAR })}</p>
         </div>
+      ) : (
+        SCHOOLS_WITH_TARGET < schedules.length && (
+          <div className="stale-notice partial">
+            <p>
+              {t('partialNotice', {
+                target: TARGET_YEAR,
+                done: SCHOOLS_WITH_TARGET,
+                total: schedules.length,
+              })}
+            </p>
+          </div>
+        )
       )}
 
       <p className="sched-intro">{t('schedIntro')}</p>

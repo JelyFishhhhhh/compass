@@ -435,3 +435,7 @@ fieldset label { display: inline-flex; align-items: center; gap: 4px; cursor: po
   padding: 0 3px;
   white-space: nowrap;
 }
+
+.stale-notice.partial { border-color: var(--border); }
+
+.stale-notice.partial p { color: var(--muted); }
