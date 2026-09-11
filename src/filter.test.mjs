@@ -123,6 +123,10 @@ test('關鍵字可搜到兼屬的偏所名稱', () => {
 test('unitsOf 含主聘系所與兼屬偏所', () => {
   assert.deepEqual(unitsOf(instProfs[0]), ['資訊工程學系', '資訊網路與多媒體研究所'])
   assert.deepEqual(unitsOf(instProfs[1]), ['資訊工程學系'])
+  // 本身就是偏所的老師，dept 與 institutes 會重複，不該渲染出兩個一樣的所別
+  assert.deepEqual(unitsOf({ dept: '數據科學研究所', institutes: ['數據科學研究所'] }), [
+    '數據科學研究所',
+  ])
 })
 
 test('可依主聘系所篩選（不只偏所）', () => {

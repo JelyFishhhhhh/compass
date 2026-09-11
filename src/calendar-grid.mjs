@@ -70,3 +70,11 @@ export function barsForWeek(events, week) {
     })
     .sort((a, b) => a.colStart - b.colStart || b.span - a.span)
 }
+
+// 各校簡章公告進度不同，資料會橫跨兩個年度，中間夾著整段沒有事件的月份，月曆直接跳過
+export const monthsWithEvents = (events, minIso, maxIso) =>
+  monthsInRange(minIso, maxIso).filter(({ year, month }) => {
+    const first = toIso(new Date(Date.UTC(year, month, 1)))
+    const last = toIso(new Date(Date.UTC(year, month + 1, 0)))
+    return events.some((e) => e.start <= last && e.end >= first)
+  })

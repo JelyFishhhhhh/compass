@@ -2,6 +2,7 @@ import { test } from 'node:test'
 import assert from 'node:assert/strict'
 import {
   monthsInRange,
+  monthsWithEvents,
   weeksOfMonth,
   barsForWeek,
   toIso,
@@ -75,4 +76,15 @@ test('assignLanes 不重疊事件共用同一層', () => {
 
 test('assignLanes 空陣列 laneCount 至少為 1', () => {
   assert.equal(assignLanes([]).laneCount, 1)
+})
+
+test('monthsWithEvents 跳過沒有事件的月份', () => {
+  const events = [
+    { start: '2025-10-01', end: '2025-10-05' },
+    { start: '2026-09-30', end: '2026-10-07' },
+  ]
+  assert.deepEqual(
+    monthsWithEvents(events, '2025-10-01', '2026-10-07').map((m) => `${m.year}-${m.month + 1}`),
+    ['2025-10', '2026-9', '2026-10'],
+  )
 })
