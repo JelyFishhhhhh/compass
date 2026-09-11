@@ -439,3 +439,29 @@ fieldset label { display: inline-flex; align-items: center; gap: 4px; cursor: po
 .stale-notice.partial { border-color: var(--border); }
 
 .stale-notice.partial p { color: var(--muted); }
+
+/* 系所分則（簡章裡各系所自己的甄試日期／報名費） */
+.dept-detail { margin-top: 8px; }
+
+.dept-detail summary { font-size: 0.85rem; color: var(--muted); cursor: pointer; }
+
+.dept-table { margin-top: 6px; }
+
+.dept-table th { width: 10em; white-space: normal; color: var(--fg); font-weight: 600; }
+
+.dept-kind {
+  display: block;
+  font-size: 0.75rem;
+  font-weight: 400;
+  color: var(--muted2);
+}
+
+.dept-table td { padding-bottom: 8px; }
+
+.dept-name { display: block; color: var(--muted); font-size: 0.85rem; }
+
+.dept-field { display: block; }
+
+.dept-field b { color: var(--muted); font-weight: 500; margin-right: 6px; }
+
+.dept-note { display: block; color: var(--notes); font-size: 0.85rem; }
