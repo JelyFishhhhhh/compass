@@ -9,6 +9,9 @@ import TimelineView from './TimelineView.jsx'
 import ScheduleList from './ScheduleList.jsx'
 
 const ALL_EVENTS = buildEvents(schedules)
+const DEPT_TYPES = ['資工', '偏所', '資管', '電機']
+// 只有簡章細到系所分則的學校才有 depts，篩選時不能把沒資料的學校整個藏掉
+const HAS_DEPTS = schedules.some((s) => s.rounds.some((r) => (r.depts?.length ?? 0) > 0))
 
 // 各校簡章陸續公告，資料會是混合年度：只有「一所都還沒有 TARGET_YEAR」時才顯示全站警示，
 // 個別學校的往年資料由清單上的「參考往年」標籤標示。
@@ -32,10 +35,11 @@ export function downloadIcs(events, filename, kindFn) {
 }
 
 export default function ScheduleView() {
-  const { t, kind, school: schoolName } = useLang()
+  const { t, kind, school: schoolName, deptType } = useLang()
   const [mode, setMode] = useState('calendar')
   const [selSchools, setSelSchools] = useState([])
   const [selKinds, setSelKinds] = useState([])
+  const [selDeptTypes, setSelDeptTypes] = useState([])
   const [selected, setSelected] = useState(null)
 
   const modes = [
@@ -125,6 +129,21 @@ export default function ScheduleView() {
             </label>
           ))}
         </fieldset>
+        {mode === 'list' && HAS_DEPTS && (
+          <fieldset>
+            <legend>{t('deptTypeFilter')}</legend>
+            {DEPT_TYPES.map((tp) => (
+              <label key={tp}>
+                <input
+                  type="checkbox"
+                  checked={selDeptTypes.includes(tp)}
+                  onChange={() => setSelDeptTypes(toggle(selDeptTypes, tp))}
+                />
+                {deptType(tp)}
+              </label>
+            ))}
+          </fieldset>
+        )}
         {mode !== 'list' && (
           <fieldset>
             <legend>{t('eventKind')}</legend>
@@ -184,7 +203,11 @@ export default function ScheduleView() {
         <TimelineView events={events} selected={selected} onSelect={setSelected} />
       )}
       {mode === 'list' && (
-        <ScheduleList schedules={shownSchedules} onDownloadSchool={downloadSchool} />
+        <ScheduleList
+          schedules={shownSchedules}
+          onDownloadSchool={downloadSchool}
+          deptTypes={selDeptTypes}
+        />
       )}
     </>
   )

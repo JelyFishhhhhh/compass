@@ -2,7 +2,7 @@ import { TARGET_YEAR } from './schedule.js'
 import { useLang } from './i18n.jsx'
 
 // 清單檢視：保留完整註記與官方簡章連結（行事曆放不下的細節）
-export default function ScheduleList({ schedules, onDownloadSchool }) {
+export default function ScheduleList({ schedules, onDownloadSchool, deptTypes = [] }) {
   const { t, school: schoolName, schoolFull } = useLang()
   if (schedules.length === 0) return <p className="empty">{t('noSchools')}</p>
 
@@ -55,6 +55,7 @@ export default function ScheduleList({ schedules, onDownloadSchool }) {
                   })}
                 </tbody>
               </table>
+              <DeptTable round={r} deptTypes={deptTypes} />
               {r.note && <p className="notes">✎ {r.note}</p>}
               {r.source && (
                 <p className="links">
@@ -68,5 +69,50 @@ export default function ScheduleList({ schedules, onDownloadSchool }) {
         </li>
       ))}
     </ul>
+  )
+}
+
+// 系所分則：簡章裡各系所自己的甄試日期／報名費。沒有 depts 的學校（簡章沒細到系所）就不顯示
+function DeptTable({ round, deptTypes }) {
+  const { t, deptType, dept: deptName } = useLang()
+  const fields = [
+    [t('rowInterview'), (d) => d.interview],
+    [t('rowFee'), (d) => d.fee],
+    [t('colQuota'), (d) => d.quota],
+    [t('rowResult'), (d) => d.result],
+  ]
+  const shown = (round.depts ?? []).filter(
+    (d) => deptTypes.length === 0 || deptTypes.includes(d.deptType),
+  )
+  if (shown.length === 0) return null
+  return (
+    <details className="dept-detail" open={deptTypes.length > 0}>
+      <summary>
+        {t('deptDetail')}（{shown.length}）
+      </summary>
+      <table className="sched-table dept-table">
+        <tbody>
+          {shown.map((d) => (
+            <tr key={d.name}>
+              <th>
+                {deptName(d.dept)}
+                <span className="dept-kind">{deptType(d.deptType)}</span>
+              </th>
+              <td>
+                <span className="dept-name">{d.name}</span>
+                {fields.map(([label, get]) =>
+                  get(d) ? (
+                    <span key={label} className="dept-field">
+                      <b>{label}</b> {get(d)}
+                    </span>
+                  ) : null,
+                )}
+                {d.note && <span className="dept-note">✎ {d.note}</span>}
+              </td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </details>
   )
 }

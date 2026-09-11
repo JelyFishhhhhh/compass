@@ -5,6 +5,8 @@ const STR_FIELDS = ['name', 'title', 'dept', 'deptType', 'lab', 'website', 'emai
 
 let errors = 0
 const dir = new URL('../src/data/', import.meta.url)
+// school → 該校所有系所／學程，用來檢查時程的 depts.dept 對得上教授資料
+const unitsBySchool = new Map()
 
 for (const file of readdirSync(dir).filter((f) => f.endsWith('.json'))) {
   const err = (msg) => {
@@ -40,6 +42,10 @@ for (const file of readdirSync(dir).filter((f) => f.endsWith('.json'))) {
       else if (p.institutes.some((x) => typeof x !== 'string' || !x))
         err(`${id}: institutes 內須為非空字串`)
     }
+    if (!unitsBySchool.has(data.school)) unitsBySchool.set(data.school, new Set())
+    const units = unitsBySchool.get(data.school)
+    units.add(p.dept)
+    for (const i of p.institutes ?? []) units.add(i)
     if (p.labWebsite !== undefined) {
       if (typeof p.labWebsite !== 'string') err(`${id}: labWebsite 須為字串`)
       else if (p.labWebsite && !/^https?:\/\//.test(p.labWebsite)) err(`${id}: labWebsite 須為 http(s) 連結`)
@@ -84,6 +90,25 @@ for (const file of schedFiles) {
     // 報名費／資格／規則為選填字串（116 簡章公告後由每日 routine 補上）
     for (const k of ['fee', 'eligibility', 'rules']) {
       if (r[k] !== undefined && typeof r[k] !== 'string') err(`${id}: ${k} 須為字串`)
+    }
+    // depts：系所層級的甄試日期／報名費（選填，簡章的招生分則才有）
+    if (r.depts !== undefined) {
+      if (!Array.isArray(r.depts)) err(`${id}: depts 須為陣列`)
+      else
+        for (const d of r.depts) {
+          const did = d.name || '(無名)'
+          for (const k of ['name', 'dept', 'deptType']) {
+            if (typeof d[k] !== 'string' || !d[k]) err(`${id}/${did}: ${k} 須為非空字串`)
+          }
+          for (const k of ['quota', 'interview', 'fee', 'result', 'note']) {
+            if (d[k] !== undefined && typeof d[k] !== 'string') err(`${id}/${did}: ${k} 須為字串`)
+          }
+          if (d.deptType && !DEPT_TYPES.includes(d.deptType))
+            err(`${id}/${did}: deptType 不合法「${d.deptType}」`)
+          const units = unitsBySchool.get(data.school)
+          if (units && d.dept && !units.has(d.dept))
+            err(`${id}/${did}: dept「${d.dept}」在 ${data.school} 的教授資料中不存在`)
+        }
     }
     if (!r.source || !/^https?:\/\//.test(r.source)) err(`${id}: source 須為 http(s) 連結`)
   }
