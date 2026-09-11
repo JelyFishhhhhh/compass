@@ -80,3 +80,9 @@ export function eventTitle(e, kindFn = (k) => k) {
   // 中文不加空格（成大報名），英文才加（成大 Application）
   return /[A-Za-z]/.test(kind) ? `${prefix} ${kind}` : `${prefix}${kind}`
 }
+
+// 清單／行事曆的學校排序：依最早報名截止日，無 applyEnd 者排最後。
+// 還在用往年資料的學校日期是去年的，會整批排到最前面誤導人，先壓到後面。
+export const sortKey = (s, targetYear) =>
+  (s.rounds.some((r) => r.academicYear === targetYear) ? '0' : '1') +
+  (s.rounds.map((r) => r.applyEnd).filter(Boolean).sort()[0] ?? '9999')

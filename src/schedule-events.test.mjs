@@ -1,6 +1,6 @@
 import { test } from 'node:test'
 import assert from 'node:assert/strict'
-import { splitSegments, parseDateField, buildEvents, eventTitle } from './schedule-events.mjs'
+import { splitSegments, parseDateField, buildEvents, eventTitle, sortKey } from './schedule-events.mjs'
 import { nextDay, toIcs, googleCalendarUrl, foldLine } from './calendar-export.mjs'
 
 test('splitSegments 不切到括號內的頓號', () => {
@@ -147,4 +147,17 @@ test('googleCalendarUrl 帶入標題與全天日期區間', () => {
   const p = new URL(url).searchParams
   assert.equal(p.get('text'), '台大報名')
   assert.equal(p.get('dates'), '20251001/20251009')
+})
+
+test('sortKey 讓往年資料的學校排到最後', () => {
+  const mk = (year, applyEnd) => ({ rounds: [{ academicYear: year, applyEnd }] })
+  const schools = [
+    ['清大', mk('115', '2025-10-14')],
+    ['台大', mk('116', '2026-10-07')],
+    ['台南', mk('116', '2026-09-30')],
+  ]
+  assert.deepEqual(
+    schools.sort((a, b) => sortKey(a[1], '116').localeCompare(sortKey(b[1], '116'))).map((s) => s[0]),
+    ['台南', '台大', '清大'],
+  )
 })

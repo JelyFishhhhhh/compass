@@ -1,4 +1,4 @@
-import { KIND_SLUG, monthsInRange, weeksOfMonth, barsForWeek, toIso } from './calendar-grid.mjs'
+import { KIND_SLUG, monthsWithEvents, weeksOfMonth, barsForWeek, toIso } from './calendar-grid.mjs'
 import { eventTitle } from './schedule-events.mjs'
 import { useLang } from './i18n.jsx'
 
@@ -11,7 +11,7 @@ export default function CalendarView({ events, selected, onSelect }) {
 
   return (
     <div className="calendar">
-      {monthsInRange(minIso, maxIso).map(({ year, month }) => (
+      {monthsWithEvents(events, minIso, maxIso).map(({ year, month }) => (
         <section key={`${year}-${month}`} className="cal-month">
           <h3>{monthLabel(year, month)}</h3>
           <div className="cal-weekdays">

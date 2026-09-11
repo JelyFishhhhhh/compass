@@ -22,7 +22,8 @@ export const matchesDeptType = (p, types) =>
   types.includes(p.deptType) || (types.includes('偏所') && (p.institutes?.length ?? 0) > 0)
 
 // 一位教授可報考的所有系所／學程：主聘系所 + 兼屬偏所
-export const unitsOf = (p) => [p.dept, ...(p.institutes ?? [])].filter(Boolean)
+// ponytail: 去重 —— 本身就是偏所的老師，資料會把 dept 再列進 institutes 一次
+export const unitsOf = (p) => [...new Set([p.dept, ...(p.institutes ?? [])].filter(Boolean))]
 
 export function filterProfessors(
   professors,
